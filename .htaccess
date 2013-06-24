@@ -1,0 +1,54 @@
+# Estaticos
+Redirect 302 /vms https://docs.google.com/document/d/1V1gPepNu6yN-XOKyF_1OP0uw3EZ2qgh0FiS_v29QcKM/edit
+Redirect 302 /vm /vms
+Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
+Redirect 302 /campus /cv
+Redirect 302 /campusvirtual /cv
+Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
+Redirect 302 /inscripciones http://www.tpsosutnfrba.com.ar/
+Redirect 302 /inscripcion /inscripciones
+Redirect 302 /laboratorio https://docs.google.com/spreadsheet/ccc?key=0Am7VOmIimGgIdE1LNzVXZmtGLUt4dmctX1pRQkRDWEE
+Redirect 302 /labo /laboratorio
+
+# "Teoria"
+Redirect 302 /tp https://docs.google.com/presentation/d/1RojyvONMBj8IzSgF8yAwFSofDZslpugyabG83I5TKug/edit
+Redirect 302 /intro-tp /tp
+Redirect 302 /git https://docs.google.com/presentation/d/1IdRtJLY7mUiHG0zdnVNS-FkVjl50wFISIwZTQVGFkdQ/edit
+Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
+Redirect 302 /egit http://www.youtube.com/watch?v=s-r_-o8nxDw
+Redirect 302 /git-eclipse /egit
+Redirect 302 /git-gui /egit
+Redirect 302 /shared-library http://www.youtube.com/watch?v=s5ac8CPDkMg
+Redirect 302 /shared-libraries /shared-library
+Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
+Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
+Redirect 302 /guest-additions http://youtu.be/oDZhqo7rsu0
+Redirect 302 /guest-aditions /guest-additions
+
+
+# SuperMarioProc
+Redirect 302 /enunciado http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
+Redirect 302 /erratas https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
+Redirect 302 /notas /erratas
+Redirect 302 /errata /erratas
+Redirect 302 /koopa /bin/koopa
+Redirect 302 /koopa-1.2 /bin/koopa
+Redirect 302 /pedidos /pedidos.koopa
+Redirect 302 /pedido /pedidos.koopa
+Redirect 302 /ejemplo-koopa /pedidos.koopa
+
+
+
+# Redirecciones del FAQ
+Redirect 302 /faq https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit
+Redirect 302 /ld-library-path https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.erz1j5n5itup
+Redirect 302 /segfault https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.vy9o0ppz71dw
+Redirect 302 /SIGSEGV /segfault
+Redirect 302 /sigsegv /segfault
+Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.1lluuakj2ym5
+Redirect 302 /inotify-vi https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.uz98dzjqjfzf
+
+# Miscelaneas
+Redirect 302 /lombardizacion http://uqbar-wiki.org/index.php?title=Lombardizaci%C3%B3n
+Redirect 302 /lombardi /lombardizacion
+Redirect 302 /lombardización /lombardizacion
