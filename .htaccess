@@ -24,6 +24,7 @@ Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
 Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
 Redirect 302 /guest-additions http://youtu.be/oDZhqo7rsu0
 Redirect 302 /guest-aditions /guest-additions
+Redirect 302 /valgrind https://docs.google.com/document/d/1flOJ2P2g9UGVRiruuA4OCF6nucbN_BWVI0WDlYTJNf4/edit
 
 
 # SuperMarioProc
