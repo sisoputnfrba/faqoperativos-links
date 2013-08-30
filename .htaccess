@@ -4,8 +4,8 @@ Redirect 302 /vm /vms
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
-Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
-Redirect 302 /inscripciones http://www.tpsosutnfrba.com.ar/
+# Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
+Redirect 302 /inscripciones http://inscripciones.tpsosutnfrba.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /laboratorio https://docs.google.com/spreadsheet/ccc?key=0Am7VOmIimGgIdE1LNzVXZmtGLUt4dmctX1pRQkRDWEE
 Redirect 302 /labo /laboratorio
@@ -28,15 +28,15 @@ Redirect 302 /valgrind https://docs.google.com/document/d/1flOJ2P2g9UGVRiruuA4OC
 
 
 # SuperMarioProc
-Redirect 302 /enunciado http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
-Redirect 302 /erratas https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
-Redirect 302 /notas /erratas
-Redirect 302 /errata /erratas
-Redirect 302 /koopa /bin/koopa
-Redirect 302 /koopa-1.2 /bin/koopa
-Redirect 302 /pedidos /pedidos.koopa
-Redirect 302 /pedido /pedidos.koopa
-Redirect 302 /ejemplo-koopa /pedidos.koopa
+# Redirect 302 /enunciado http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
+# Redirect 302 /erratas https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
+# Redirect 302 /notas /erratas
+# Redirect 302 /errata /erratas
+# Redirect 302 /koopa /bin/koopa
+# Redirect 302 /koopa-1.2 /bin/koopa
+# Redirect 302 /pedidos /pedidos.koopa
+# Redirect 302 /pedido /pedidos.koopa
+# Redirect 302 /ejemplo-koopa /pedidos.koopa
 
 
 
