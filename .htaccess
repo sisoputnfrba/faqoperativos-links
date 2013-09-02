@@ -25,6 +25,10 @@ Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
 Redirect 302 /guest-additions http://youtu.be/oDZhqo7rsu0
 Redirect 302 /guest-aditions /guest-additions
 Redirect 302 /valgrind https://docs.google.com/document/d/1flOJ2P2g9UGVRiruuA4OCF6nucbN_BWVI0WDlYTJNf4/edit
+Redirect 302 /ejercicios https://docs.google.com/document/d/1n_u1E8uKzExstQEJR_lJBBsT0P5Ru9kG-yW5VUiYnLs/edit
+Redirect 302 /exercises /ejercicios
+Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
+Redirect 302 /repo-ejercicios /ejercicios-repo
 
 
 # SuperMarioProc
