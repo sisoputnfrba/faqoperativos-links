@@ -11,7 +11,7 @@ Redirect 302 /laboratorio https://docs.google.com/spreadsheet/ccc?key=0Am7VOmIim
 Redirect 302 /labo /laboratorio
 
 # "Teoria"
-Redirect 302 /tp https://docs.google.com/presentation/d/1RojyvONMBj8IzSgF8yAwFSofDZslpugyabG83I5TKug/edit
+Redirect 302 /tp https://docs.google.com/presentation/d/1D5pEjKB3FFDtqwzW-aegmcRVq1t4-3Xtra2tb6gEV9A/edit
 Redirect 302 /intro-tp /tp
 Redirect 302 /git https://docs.google.com/presentation/d/1IdRtJLY7mUiHG0zdnVNS-FkVjl50wFISIwZTQVGFkdQ/edit
 Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
