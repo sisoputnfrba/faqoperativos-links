@@ -1,5 +1,5 @@
 # Estaticos
-Redirect 302 /vms https://docs.google.com/document/d/1V1gPepNu6yN-XOKyF_1OP0uw3EZ2qgh0FiS_v29QcKM/edit
+Redirect 302 /vms http://www.sisoputnfrba.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
