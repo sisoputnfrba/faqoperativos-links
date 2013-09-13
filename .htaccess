@@ -31,6 +31,10 @@ Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
 Redirect 302 /repo-ejercicios /ejercicios-repo
 
 
+# SuperMarioProc RELOADED
+Redirect 302 /enunciado http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+
+
 # SuperMarioProc
 # Redirect 302 /enunciado http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
 # Redirect 302 /erratas https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
@@ -41,8 +45,6 @@ Redirect 302 /repo-ejercicios /ejercicios-repo
 # Redirect 302 /pedidos /pedidos.koopa
 # Redirect 302 /pedido /pedidos.koopa
 # Redirect 302 /ejemplo-koopa /pedidos.koopa
-
-
 
 # Redirecciones del FAQ
 Redirect 302 /faq https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit
