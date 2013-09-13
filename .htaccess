@@ -9,6 +9,7 @@ Redirect 302 /inscripciones http://inscripciones.tpsosutnfrba.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /laboratorio https://docs.google.com/spreadsheet/ccc?key=0Am7VOmIimGgIdE1LNzVXZmtGLUt4dmctX1pRQkRDWEE
 Redirect 302 /labo /laboratorio
+Redirect 302 /blog http://www.sisoputnfrba.com.ar/
 
 # "Teoria"
 Redirect 302 /tp https://docs.google.com/presentation/d/1D5pEjKB3FFDtqwzW-aegmcRVq1t4-3Xtra2tb6gEV9A/edit
