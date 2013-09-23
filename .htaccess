@@ -59,8 +59,3 @@ Redirect 302 /SIGSEGV /segfault
 Redirect 302 /sigsegv /segfault
 Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.1lluuakj2ym5
 Redirect 302 /inotify-vi https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.uz98dzjqjfzf
-
-# Miscelaneas
-Redirect 302 /lombardizacion http://uqbar-wiki.org/index.php?title=Lombardizaci%C3%B3n
-Redirect 302 /lombardi /lombardizacion
-Redirect 302 /lombardización /lombardizacion
