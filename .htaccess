@@ -34,10 +34,15 @@ Redirect 302 /threads https://docs.google.com/presentation/d/1JTFsXxHbsaytN0xj4I
 Redirect 302 /hilos /threads
 Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
+Redirect 302 /fuse https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
+Redirect 302 /FUSE /fuse
 
 
 # SuperMarioProc RELOADED
 Redirect 302 /enunciado http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
+Redirect 302 /presentacion-tp /presentacion-enunciado
+Redirect 302 /presentacionenunciado /presentacion-enunciado
 
 
 # SuperMarioProc
