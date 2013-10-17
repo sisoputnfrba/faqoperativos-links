@@ -36,6 +36,9 @@ Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
 Redirect 302 /fuse https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
 Redirect 302 /FUSE /fuse
+Redirect 302 /sockets https://docs.google.com/presentation/d/1EjcPErOSoY7asgTFZmiqq7eTfRE8PQSgowIH62bQ2JM/edit
+Redirect 302 /socket /sockets
+Redirect 302 /serializacion /sockets#slide=id.g312c12c9_0_238
 
 
 # SuperMarioProc RELOADED
