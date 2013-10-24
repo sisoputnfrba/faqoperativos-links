@@ -46,6 +46,7 @@ Redirect 302 /enunciado http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/0
 Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1EKFHj3s80cXlqz2UHPRgx2LqP9CfCX7kZ0_wyStlmTs/
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
+Redirect 302 /disk.bin http://forocatupecu.com.ar/sisop/disk.bin_
 
 
 # SuperMarioProc
