@@ -11,6 +11,9 @@ Redirect 302 /laboratorio https://docs.google.com/spreadsheet/ccc?key=0Am7VOmIim
 Redirect 302 /labo /laboratorio
 Redirect 302 /blog http://www.sisoputnfrba.com.ar/
 
+# Utiles
+Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
+
 # "Teoria"
 Redirect 302 /tp https://docs.google.com/presentation/d/1D5pEjKB3FFDtqwzW-aegmcRVq1t4-3Xtra2tb6gEV9A/edit
 Redirect 302 /intro-tp /tp
