@@ -13,6 +13,7 @@ Redirect 302 /blog http://www.sisoputnfrba.com.ar/
 
 # Utiles
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
+Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
 
 # "Teoria"
 Redirect 302 /tp https://docs.google.com/presentation/d/1D5pEjKB3FFDtqwzW-aegmcRVq1t4-3Xtra2tb6gEV9A/edit
