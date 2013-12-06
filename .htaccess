@@ -43,6 +43,7 @@ Redirect 302 /FUSE /fuse
 Redirect 302 /sockets https://docs.google.com/presentation/d/1EjcPErOSoY7asgTFZmiqq7eTfRE8PQSgowIH62bQ2JM/edit
 Redirect 302 /socket /sockets
 Redirect 302 /serializacion /sockets#slide=id.g312c12c9_0_238
+Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
 
 
 # SuperMarioProc RELOADED
