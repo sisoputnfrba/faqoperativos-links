@@ -4,6 +4,7 @@ Redirect 302 /vm /vms
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
+
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.tpsosutnfrba.com.ar/
 Redirect 302 /inscripcion /inscripciones
@@ -16,6 +17,10 @@ Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322
 Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
 
 # "Teoria"
+Redirect 302 /arrancar https://docs.google.com/document/d/1wpgjQ20kO2i0iQZz7E9IkJbjLQLiy-RnoIDZRaW-0Xo/pub
+Redirect 302 /empezar /arrancar
+Redirect 302 /como-arrancar /arrancar
+
 Redirect 302 /tp https://docs.google.com/presentation/d/1D5pEjKB3FFDtqwzW-aegmcRVq1t4-3Xtra2tb6gEV9A/edit
 Redirect 302 /intro-tp /tp
 Redirect 302 /git https://docs.google.com/presentation/d/1IdRtJLY7mUiHG0zdnVNS-FkVjl50wFISIwZTQVGFkdQ/edit
