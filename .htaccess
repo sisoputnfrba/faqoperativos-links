@@ -51,9 +51,12 @@ Redirect 302 /socket /sockets
 Redirect 302 /serializacion /sockets#slide=id.g312c12c9_0_238
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
 
+Redirect 302 /enunciado /estacoverflow
+
+Redirect 302 /estacoverflow http://www.sisoputnfrba.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
 
 # SuperMarioProc RELOADED
-Redirect 302 /enunciado http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+Redirect 302 /supermarioreloaded http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
 Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1EKFHj3s80cXlqz2UHPRgx2LqP9CfCX7kZ0_wyStlmTs/
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
@@ -61,10 +64,10 @@ Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
 
 
 # SuperMarioProc
-# Redirect 302 /enunciado http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
-# Redirect 302 /erratas https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
-# Redirect 302 /notas /erratas
-# Redirect 302 /errata /erratas
+# Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
+# Redirect 302 /supermario-errata https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
+# Redirect 302 /notas /supermario-errata
+# Redirect 302 /errata /supermario-errata
 # Redirect 302 /koopa /bin/koopa
 # Redirect 302 /koopa-1.2 /bin/koopa
 # Redirect 302 /pedidos /pedidos.koopa
