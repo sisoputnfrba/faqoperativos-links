@@ -50,6 +50,14 @@ Redirect 302 /sockets https://docs.google.com/presentation/d/1EjcPErOSoY7asgTFZm
 Redirect 302 /socket /sockets
 Redirect 302 /serializacion /sockets#slide=id.g312c12c9_0_238
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
+Redirect 302 /bash https://docs.google.com/presentation/d/1-ywnhaPpSF9BrbdEY3H7dZgCrG4tvHPJYA9cc_2LJUs/edit
+Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzHJ3xj_pRaRGJOooUbYEcNREETk/edit
+Redirect 302 /seniales /senales
+Redirect 302 /signal /senales
+Redirect 302 /signals /senales
+Redirect 302 /fork https://docs.google.com/presentation/d/1WjUZ7iRNT5Cqva79xFH_fbznzBQ717rYseKnMVehtsY/edit
+
+
 
 Redirect 302 /enunciado /estacoverflow
 Redirect 302 /enunciado-ppt /estacoverflow-ppt
