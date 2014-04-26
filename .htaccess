@@ -56,7 +56,8 @@ Redirect 302 /seniales /senales
 Redirect 302 /signal /senales
 Redirect 302 /signals /senales
 Redirect 302 /fork https://docs.google.com/presentation/d/1WjUZ7iRNT5Cqva79xFH_fbznzBQ717rYseKnMVehtsY/edit
-
+Redirect 302 /semaforos https://docs.google.com/presentation/d/1q0SEpp337e4QaJNsoFuplZXhLZyWyYyK0gAim_OyAF8/edit
+Redirect 302 /semaforo /semaforos
 
 
 Redirect 302 /enunciado /estacoverflow
