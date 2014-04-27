@@ -62,9 +62,14 @@ Redirect 302 /semaforo /semaforos
 
 Redirect 302 /enunciado /estacoverflow
 Redirect 302 /enunciado-ppt /estacoverflow-ppt
+Redirect 302 /errata /estacoverflow-errata
+Redirect 302 /erratas /estacoverflow-errata
+
 
 Redirect 302 /estacoverflow http://www.sisoputnfrba.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
 Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/1Sy3Ezv7aZDzTNLudCt_8iOTqAn66gPevwRKZNbCn4B0/edit
+Redirect 302 /estacoverflow-errata https://github.com/sisoputnfrba/1c2014-esta-coverflow-errata
+Redirect 302 /estacoverflow-erratas /estacoverflow-errata
 
 # SuperMarioProc RELOADED
 Redirect 302 /supermarioreloaded http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
