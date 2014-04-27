@@ -46,9 +46,9 @@ Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
 Redirect 302 /fuse https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
 Redirect 302 /FUSE /fuse
-Redirect 302 /sockets https://docs.google.com/presentation/d/1EjcPErOSoY7asgTFZmiqq7eTfRE8PQSgowIH62bQ2JM/edit
+Redirect 302 /sockets https://docs.google.com/presentation/d/1_5JTOBKjEs5w_ZLOt5GN_FGaVI4VRHmVeMLJKKZXSFI/edit
 Redirect 302 /socket /sockets
-Redirect 302 /serializacion /sockets#slide=id.g312c12c9_0_238
+Redirect 302 /serializacion /sockets#slide=id.g27663408f_80
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
 Redirect 302 /bash https://docs.google.com/presentation/d/1-ywnhaPpSF9BrbdEY3H7dZgCrG4tvHPJYA9cc_2LJUs/edit
 Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzHJ3xj_pRaRGJOooUbYEcNREETk/edit
