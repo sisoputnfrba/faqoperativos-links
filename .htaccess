@@ -1,5 +1,5 @@
 # Estaticos
-Redirect 302 /vms http://www.sisoputnfrba.com.ar/recursos/maquinas-virtuales/
+Redirect 302 /vms http://www.utn.so/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
@@ -10,7 +10,7 @@ Redirect 302 /inscripciones http://inscripciones.tpsosutnfrba.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /laboratorio https://docs.google.com/spreadsheets/d/1R6Yue2tnoMyD5CEgFtHrQjKYLtKThl9FN9hfiu3Gkp0/edit
 Redirect 302 /labo /laboratorio
-Redirect 302 /blog http://www.sisoputnfrba.com.ar/
+Redirect 302 /blog http://www.utn.so/
 
 # Utiles
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
@@ -71,14 +71,14 @@ Redirect 302 /erratas /estacoverflow-errata
 
 
 # Esta CoverFlow
-Redirect 302 /estacoverflow http://www.sisoputnfrba.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
+Redirect 302 /estacoverflow http://www.utn.so/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
 Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/1Sy3Ezv7aZDzTNLudCt_8iOTqAn66gPevwRKZNbCn4B0/edit
 Redirect 302 /estacoverflow-errata https://github.com/sisoputnfrba/1c2014-esta-coverflow-errata
 Redirect 302 /estacoverflow-erratas /estacoverflow-errata
 Redirect 302 /parser https://github.com/sisoputnfrba/ansisop-parser
 
 # SuperMarioProc RELOADED
-Redirect 302 /supermarioreloaded http://www.sisoputnfrba.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+Redirect 302 /supermarioreloaded http://www.utn.so/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
 Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1EKFHj3s80cXlqz2UHPRgx2LqP9CfCX7kZ0_wyStlmTs/
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
