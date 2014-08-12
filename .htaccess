@@ -6,7 +6,7 @@ Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
-Redirect 302 /inscripciones http://inscripciones.tpsosutnfrba.com.ar/
+Redirect 302 /inscripciones http://inscripciones.utn.so/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /laboratorio https://docs.google.com/spreadsheets/d/1R6Yue2tnoMyD5CEgFtHrQjKYLtKThl9FN9hfiu3Gkp0/edit
 Redirect 302 /labo /laboratorio
