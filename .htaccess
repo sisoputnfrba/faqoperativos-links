@@ -70,11 +70,14 @@ Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpm
 
 
 # TP
-Redirect 302 /enunciado /estacoverflow
-Redirect 302 /enunciado-ppt /estacoverflow-ppt
-Redirect 302 /errata /estacoverflow-errata
-Redirect 302 /erratas /estacoverflow-errata
+# Redirect 302 /enunciado /estacoverflow
+Redirect 302 /enunciado-ppt /rafaga-ppt
+# Redirect 302 /errata /estacoverflow-errata
+# Redirect 302 /erratas /estacoverflow-errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# Rafaga
+Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/13vYoJBIZo7AsnYFZMZ3x84nrvkm9ghjrfnbcBmCUy9g/edit
 
 
 # Esta CoverFlow
