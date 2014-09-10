@@ -81,7 +81,7 @@ Redirect 302 /algoritmos /rafaga-algoritmos
 # Rafaga
 Redirect 302 /rafaga http://www.utn.so/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
 Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/13vYoJBIZo7AsnYFZMZ3x84nrvkm9ghjrfnbcBmCUy9g/edit
-Redirect 302 /rafaga-algoritmos https://docs.google.com/spreadsheets/d/1LCA_XbVm7d1eTYIc1atXVJZjQWgTTVFAPoCMLb6wCyA/edit
+Redirect 302 /rafaga-algoritmos https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/algoritmos.md#asignaci%C3%B3n-de-algoritmos-de-memoria
 
 
 # Esta CoverFlow
