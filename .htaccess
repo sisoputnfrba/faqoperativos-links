@@ -24,6 +24,7 @@ Redirect 302 /blog http://www.utn.so/
 # Utiles
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
 Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
+Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
 
 # "Teoria"
 Redirect 302 /arrancar https://docs.google.com/document/d/1wpgjQ20kO2i0iQZz7E9IkJbjLQLiy-RnoIDZRaW-0Xo/pub
