@@ -15,6 +15,7 @@ Redirect 302 /insc /inscripciones
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /github https://github.com/sisoputnfrba
 Redirect 302 /gh /github
+Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.utn.so/
