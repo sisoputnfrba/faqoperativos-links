@@ -86,6 +86,8 @@ Redirect 302 /erratas /erratas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 Redirect 302 /algoritmo /rafaga-algoritmos
 Redirect 302 /algoritmos /rafaga-algoritmos
+Redirect 302 /so-ensamblador https://github.com/sisoputnfrba/so-ensamblador
+Redirect 302 /ensamblador /so-ensamblador
 
 # Rafaga
 Redirect 302 /rafaga http://www.utn.so/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
