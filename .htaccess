@@ -81,6 +81,8 @@ Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpm
 Redirect 302 /declarar http://cdecl.org/
 Redirect 302 /declaraciones /declarar
 
+Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
+
 
 # TP
 Redirect 302 /enunciado /rafaga
