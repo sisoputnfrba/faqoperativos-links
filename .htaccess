@@ -82,6 +82,9 @@ Redirect 302 /eclipse-makefile https://www.youtube.com/watch?v=772fLAsut3E
 Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
 Redirect 302 /declarar http://cdecl.org/
 Redirect 302 /declaraciones /declarar
+Redirect 302 /introC https://docs.google.com/presentation/d/1yWz0HPmnvESNgaNw-FlHc2VZdjFIRpTedJaHzhvOuPY/edit
+Redirect 302 /introc /introC
+Redirect 302 /c /introC
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
