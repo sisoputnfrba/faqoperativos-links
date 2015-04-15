@@ -90,8 +90,8 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 
 
 # TP
-Redirect 302 /enunciado /rafaga
-Redirect 302 /enunciado-ppt /rafaga-ppt
+Redirect 302 /enunciado /reducemapfast
+# Redirect 302 /enunciado-ppt /rafaga-ppt
 Redirect 302 /errata /rafaga-errata
 Redirect 302 /erratas /erratas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
@@ -99,6 +99,11 @@ Redirect 302 /algoritmo /rafaga-algoritmos
 Redirect 302 /algoritmos /rafaga-algoritmos
 Redirect 302 /so-ensamblador https://github.com/sisoputnfrba/so-ensamblador
 Redirect 302 /ensamblador /so-ensamblador
+
+# ReduceMapFast
+Redirect 302 /reducemapfast http://www.utn.so/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
+Redirect 302 /reduce /reducemapfast
+Redirect 302 /reducemap /reducemapfast
 
 # Rafaga
 Redirect 302 /rafaga http://www.utn.so/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
