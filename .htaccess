@@ -85,6 +85,10 @@ Redirect 302 /declaraciones /declarar
 Redirect 302 /introC https://docs.google.com/presentation/d/1yWz0HPmnvESNgaNw-FlHc2VZdjFIRpTedJaHzhvOuPY/edit
 Redirect 302 /introc /introC
 Redirect 302 /c /introC
+Redirect 302 /mati-youtube https://www.youtube.com/channel/UCA11CL5cRF2Q-s0hseUzVFA
+Redirect 302 /matiyoutube /mati-youtube
+Redirect 302 /youtubemati /mati-youtube
+Redirect 302 /youtube-mati /mati-youtube
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
