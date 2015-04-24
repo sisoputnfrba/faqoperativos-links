@@ -111,6 +111,7 @@ Redirect 302 /reducemap /reducemapfast
 Redirect 302 /reducemapfast-errata https://github.com/sisoputnfrba/2015-1c-reducemapfast-errata
 Redirect 302 /reduce-errata /reducemapfast-errata
 Redirect 302 /reducemapfast-presentacion https://docs.google.com/presentation/d/1EZvleZmtiXMYqrFUs6syi4l6AIbH_9Dtd2eH1S3mPOM/edit
+Redirect 302 /apareando https://docs.google.com/presentation/d/1AcgFkDY69Ty1Vea7Tijy7zyHkOHeusAXdS_LjeM7Fms/edit
 
 # Rafaga
 Redirect 302 /rafaga http://www.utn.so/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
