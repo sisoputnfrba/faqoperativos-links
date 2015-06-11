@@ -162,6 +162,3 @@ Redirect 302 /inotify-vi https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWm
 # Meta
 Redirect 302 /agregar https://github.com/sisoputnfrba/faqoperativos-links/edit/master/.htaccess
 Redirect 302 /meta /agregar
-
-Redirect 302 /candidatos https://docs.google.com/spreadsheets/d/1lWpYtlVz1UEkbJPCDBGFDQJEvQ6uNq13XVnOMsPrlYw/edit#gid=0
-Redirect 302 /candidato /candidatos
