@@ -21,6 +21,8 @@ Redirect 302 /issue /issues
 Redirect 302 /soporte https://docs.google.com/spreadsheets/d/1mMWROuaEIo623EuhxDxsKNOD163luluzF3n5CtVaeyM/edit
 Redirect 302 /sabado /soporte
 Redirect 302 /sabados /soporte
+Redirect 302 /gitter https://gitter.im/sisoputnfrba
+Redirect 302 /chat /gitter
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.utn.so/
