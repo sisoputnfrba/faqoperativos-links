@@ -107,7 +107,7 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 # TP
 Redirect 302 /trabajo-practico http://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /trabajo-practico
+Redirect 302 /enunciado /cache13
 Redirect 302 /enunciado-ppt /trabajo-practico
 Redirect 302 /errata /trabajo-practico
 Redirect 302 /erratas /trabajo-practico
