@@ -108,13 +108,14 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 Redirect 302 /trabajo-practico http://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /cache13
-Redirect 302 /enunciado-ppt /trabajo-practico
+Redirect 302 /enunciado-ppt /cache13-presentacion
 Redirect 302 /errata /trabajo-practico
 Redirect 302 /erratas /trabajo-practico
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # Cache13
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
+Redirect 302 /cache13-presentacion https://docs.google.com/presentation/d/14aWrtuXexezpM3esquk1YaeNuw0xBjrVJvKdGDpSH24
 
 # ReduceMapFast
 Redirect 302 /reducemapfast http://www.utn.so/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
