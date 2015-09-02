@@ -25,6 +25,10 @@ Redirect 302 /gitter https://gitter.im/sisoputnfrba
 Redirect 302 /chat /gitter
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
+Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
+Redirect 302 /todos /todo
+Redirect 302 /TODO  /todo
+Redirect 302 /TODOs /todo
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.utn.so/
