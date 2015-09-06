@@ -33,7 +33,7 @@ Redirect 302 /TODOs /todo
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.utn.so/
 Redirect 302 /inscripcion /inscripciones
-Redirect 302 /laboratorio https://docs.google.com/spreadsheets/d/14BCQVG_d3GUZgg-ERAHdEGzDoGV09u1bnAW5kVVYpb0/
+Redirect 302 /laboratorio /soporte
 Redirect 302 /labo /laboratorio
 Redirect 302 /blog http://www.utn.so/
 Redirect 302 /videos http://www.utn.so/recursos/video-tutoriales/
