@@ -68,7 +68,7 @@ Redirect 302 /ejercicios https://docs.google.com/document/d/1n_u1E8uKzExstQEJR_l
 Redirect 302 /exercises /ejercicios
 Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
 Redirect 302 /repo-ejercicios /ejercicios-repo
-Redirect 302 /threads https://docs.google.com/presentation/d/1JTFsXxHbsaytN0xj4Iz0Cd2XqJGCAaTPIs9PIG_OP0U/edit
+Redirect 302 /threads https://docs.google.com/presentation/d/1HKRt27neGAojlZpRwxu_8nKym2_19JCS7ZMnQudxmic/edit
 Redirect 302 /hilos /threads
 Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
