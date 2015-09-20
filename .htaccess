@@ -77,7 +77,7 @@ Redirect 302 /fuse https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5
 Redirect 302 /FUSE /fuse
 Redirect 302 /sockets https://docs.google.com/presentation/d/1_5JTOBKjEs5w_ZLOt5GN_FGaVI4VRHmVeMLJKKZXSFI/edit
 Redirect 302 /socket /sockets
-Redirect 302 /serializacion /sockets#slide=id.g27663408f_80
+Redirect 302 /serializacion https://docs.google.com/presentation/d/1-kmFUjYXF4KO8BRnuIwFzGRkqVSzDgFIBMOy7wJHbVM
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
 Redirect 302 /bash https://docs.google.com/presentation/d/1-ywnhaPpSF9BrbdEY3H7dZgCrG4tvHPJYA9cc_2LJUs/edit
 Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzHJ3xj_pRaRGJOooUbYEcNREETk/edit
