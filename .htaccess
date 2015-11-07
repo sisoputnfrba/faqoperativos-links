@@ -121,6 +121,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 # Cache13
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
 Redirect 302 /cache13-presentacion https://docs.google.com/presentation/d/14aWrtuXexezpM3esquk1YaeNuw0xBjrVJvKdGDpSH24
+Redirect 302 /cache13-pruebas https://docs.google.com/document/d/1dAW82dg15HmOG0tt0qXk0Tm-rTItgu3cr95lwWQzaeA/edit
 
 # ReduceMapFast
 Redirect 302 /reducemapfast http://www.utn.so/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
