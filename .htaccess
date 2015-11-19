@@ -114,8 +114,8 @@ Redirect 302 /trabajo-practico http://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /cache13
 Redirect 302 /enunciado-ppt /cache13-presentacion
-Redirect 302 /errata /trabajo-practico
-Redirect 302 /erratas /trabajo-practico
+Redirect 302 /errata https://github.com/sisoputnfrba/2015-2c-cache13-enunciado/compare/original...master
+Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # Cache13
