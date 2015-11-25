@@ -39,7 +39,7 @@ Redirect 302 /blog http://www.utn.so/
 Redirect 302 /videos http://www.utn.so/recursos/video-tutoriales/
 Redirect 302 /video /videos
 
-# Utiles
+# Utilescac
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
 Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
 Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
@@ -122,7 +122,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
 Redirect 302 /cache13-presentacion https://docs.google.com/presentation/d/14aWrtuXexezpM3esquk1YaeNuw0xBjrVJvKdGDpSH24
 Redirect 302 /cache13-pruebas https://docs.google.com/document/d/1dAW82dg15HmOG0tt0qXk0Tm-rTItgu3cr95lwWQzaeA/edit
-Redirect 302 /cache13-scripts https://gist.github.com/mgarciaisaia/b0728d09bf62f8e90647
+Redirect 302 /cache13-scripts https://github.com/sisoputnfrba/cache13-scripts
 
 # ReduceMapFast
 Redirect 302 /reducemapfast http://www.utn.so/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
