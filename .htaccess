@@ -38,7 +38,7 @@ Redirect 302 /labo /laboratorio
 Redirect 302 /blog http://www.utn.so/
 Redirect 302 /videos http://www.utn.so/recursos/video-tutoriales/
 Redirect 302 /video /videos
-Redirect 302 /mariobash https://ceciliarodriguez.github.io/mariobash/
+Redirect 302 /mariobash http://mariobash.utn.so/
 
 # Utilescac
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
