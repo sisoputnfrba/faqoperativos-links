@@ -116,12 +116,13 @@ Redirect 302 /trabajo-practico http://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /elestac
 # Redirect 302 /enunciado-ppt /cache13-presentacion
-Redirect 302 /errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
+Redirect 302 /errata /elestac-errata
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # Elestac
-Redirect 302 /elestac http://www.utn.so/wp-content/uploads/2016/04/1C2016-Elestac-1.pdf
+Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
+Redirect 302 /elestac-errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
 
 # Cache13
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
