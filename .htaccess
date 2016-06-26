@@ -123,6 +123,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 # Elestac
 Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
 Redirect 302 /elestac-errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
+Redirect 302 /elestac-pruebas https://docs.google.com/document/d/1d29cZndaTEzTT5jMRQvXaltl_Ay10v4H8ATSJfUDrmI/edit?usp=sharing
 
 # Cache13
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
