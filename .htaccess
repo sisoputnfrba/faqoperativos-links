@@ -112,13 +112,19 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 
 
 # TP
-Redirect 302 /trabajo-practico http://utn.so/trabajo-practico
+Redirect 302 /trabajo-practico https://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /elestac
 # Redirect 302 /enunciado-ppt /cache13-presentacion
 Redirect 302 /errata /elestac-errata
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# char *mander
+Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
+Redirect 302 /char-mander /charmander
+Redirect 302 /char_mander /charmander
+Redirect 302 /charmander-errata https://github.com/sisoputnfrba/2016-2c-char-mander/compare/v1.0...master
 
 # Elestac
 Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
