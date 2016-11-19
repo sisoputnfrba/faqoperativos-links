@@ -127,6 +127,13 @@ Redirect 302 /char_mander /charmander
 Redirect 302 /charmander-errata https://github.com/sisoputnfrba/2016-2c-char-mander/compare/v1.0...master
 # Disco ejemplo
 Redirect 302 /charmander-ejemplo.tar.gz https://www.utn.so/wp-content/uploads/2016/09/ejemplo.tar.gz
+# Pruebas
+Redirect 302 /base.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.bin
+Redirect 302 /base.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.gz
+Redirect 302 /completa.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.bin
+Redirect 302 /completa.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.gz
+Redirect 302 /pruebas-charmander https://gist.github.com/mgarciaisaia/8eb98c9f6b080cdf6b33eeb433d8eb4f
+
 
 # Elestac
 Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
