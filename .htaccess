@@ -132,7 +132,7 @@ Redirect 302 /base.bin https://github.com/sisoputnfrba/so-charmander-pruebas/rel
 Redirect 302 /base.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.gz
 Redirect 302 /completa.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.bin
 Redirect 302 /completa.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.gz
-Redirect 302 /pruebas-charmander https://gist.github.com/mgarciaisaia/8eb98c9f6b080cdf6b33eeb433d8eb4f
+Redirect 302 /pruebas-charmander https://github.com/sisoputnfrba/so-charmander-pruebas/releases/tag/primer-version
 
 
 # Elestac
