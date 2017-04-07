@@ -115,10 +115,14 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 # TP
 Redirect 302 /trabajo-practico https://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /charmander
-Redirect 302 /errata /charmander-errata
+Redirect 302 /enunciado /esther
+# Redirect 302 /errata /charmander-errata
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# ESTheR
+Redirect 302 /esther http://www.utn.so/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
+Redirect 302 /ester /esther
 
 # char *mander
 Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
