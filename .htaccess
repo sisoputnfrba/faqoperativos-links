@@ -116,6 +116,8 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 Redirect 302 /trabajo-practico https://utn.so/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /esther
+Redirect 302 /enunciado-ppt /esther-ppt
+Redirect 302 /enunciado-presentacion /enunciado-ppt
 # Redirect 302 /errata /charmander-errata
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
