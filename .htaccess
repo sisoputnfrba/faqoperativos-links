@@ -123,6 +123,10 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 # ESTheR
 Redirect 302 /esther http://www.utn.so/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
 Redirect 302 /ester /esther
+Redirect 302 /esther-ppt https://docs.google.com/presentation/d/1FK3f5bwUtKYoGBMUV2hh-P0hIdyVsdf2vzAGsgQXt4Q/edit
+Redirect 302 /ester-ppt /esther-ppt
+Redirect 302 /esther-presentacion /esther-ppt
+Redirect 302 /ester-presentacion /esther-ppt
 
 # char *mander
 Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
