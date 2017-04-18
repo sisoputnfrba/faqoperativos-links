@@ -29,6 +29,8 @@ Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aiss
 Redirect 302 /todos /todo
 Redirect 302 /TODO  /todo
 Redirect 302 /TODOs /todo
+Redirect 302 /cambio https://inscripciones.utn.so/cambio.php
+Redirect 302 /cambios /cambio
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones http://inscripciones.utn.so/
