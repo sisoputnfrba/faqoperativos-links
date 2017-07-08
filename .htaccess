@@ -122,6 +122,7 @@ Redirect 302 /enunciado-ppt /esther-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /esther-errata
 Redirect 302 /erratas /errata
+Redirect 302 /pruebas /esther-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # ESTheR
@@ -132,6 +133,7 @@ Redirect 302 /ester-ppt /esther-ppt
 Redirect 302 /esther-presentacion /esther-ppt
 Redirect 302 /ester-presentacion /esther-ppt
 Redirect 302 /esther-errata https://github.com/sisoputnfrba/2017-1c-esther-errata/blob/master/errata.md
+Redirect 302 /esther-pruebas http://www.utn.so/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
 
 # char *mander
 Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
