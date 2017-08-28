@@ -1,5 +1,5 @@
 # Estaticos
-Redirect 302 /vms http://www.utn.so/recursos/maquinas-virtuales/
+Redirect 302 /vms https://www.utnso.com/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
@@ -29,19 +29,19 @@ Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aiss
 Redirect 302 /todos /todo
 Redirect 302 /TODO  /todo
 Redirect 302 /TODOs /todo
-Redirect 302 /cambio https://inscripciones.utn.so/cambio.php
+Redirect 302 /cambio https://inscripciones.utnso.com/cambio.php
 Redirect 302 /cambios /cambio
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
-Redirect 302 /inscripciones http://inscripciones.utn.so/
+Redirect 302 /inscripciones https://inscripciones.utnso.com/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
 Redirect 302 /laboratorio /soporte
 Redirect 302 /labo /laboratorio
-Redirect 302 /blog http://www.utn.so/
-Redirect 302 /videos http://www.utn.so/recursos/video-tutoriales/
+Redirect 302 /blog https://www.utnso.com/
+Redirect 302 /videos https://www.utnso.com/recursos/video-tutoriales/
 Redirect 302 /video /videos
-Redirect 302 /mariobash http://mariobash.utn.so/
+Redirect 302 /mariobash https://mariobash.utnso.com/
 
 # Utiles
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
@@ -115,7 +115,7 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 
 
 # TP
-Redirect 302 /trabajo-practico https://utn.so/trabajo-practico
+Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /esther
 Redirect 302 /enunciado-ppt /esther-ppt
@@ -125,15 +125,19 @@ Redirect 302 /erratas /errata
 Redirect 302 /pruebas /esther-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
+# YAMA
+Redirect 302 /yama https://www.utnso.com/wp-content/uploads/2017/08/2C2017-YAMA.pdf
+Redirect 302 /llama /yama
+
 # ESTheR
-Redirect 302 /esther http://www.utn.so/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
+Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
 Redirect 302 /ester /esther
 Redirect 302 /esther-ppt https://docs.google.com/presentation/d/1FK3f5bwUtKYoGBMUV2hh-P0hIdyVsdf2vzAGsgQXt4Q/edit
 Redirect 302 /ester-ppt /esther-ppt
 Redirect 302 /esther-presentacion /esther-ppt
 Redirect 302 /ester-presentacion /esther-ppt
 Redirect 302 /esther-errata https://github.com/sisoputnfrba/2017-1c-esther-errata/blob/master/errata.md
-Redirect 302 /esther-pruebas http://www.utn.so/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
+Redirect 302 /esther-pruebas http://www.utnso.com/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
 
 # char *mander
 Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
@@ -141,7 +145,7 @@ Redirect 302 /char-mander /charmander
 Redirect 302 /char_mander /charmander
 Redirect 302 /charmander-errata https://github.com/sisoputnfrba/2016-2c-char-mander/compare/v1.0...master
 # Disco ejemplo
-Redirect 302 /charmander-ejemplo.tar.gz https://www.utn.so/wp-content/uploads/2016/09/ejemplo.tar.gz
+Redirect 302 /charmander-ejemplo.tar.gz https://www.utnso.com/wp-content/uploads/2016/09/ejemplo.tar.gz
 # Pruebas
 Redirect 302 /base.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.bin
 Redirect 302 /base.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.gz
@@ -162,7 +166,7 @@ Redirect 302 /cache13-pruebas https://docs.google.com/document/d/11T4k6NBFFztbQL
 Redirect 302 /cache13-scripts https://github.com/sisoputnfrba/cache13-scripts
 
 # ReduceMapFast
-Redirect 302 /reducemapfast http://www.utn.so/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
+Redirect 302 /reducemapfast https://www.utnso.com/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
 Redirect 302 /reduce /reducemapfast
 Redirect 302 /reducemap /reducemapfast
 Redirect 302 /reducemapfast-errata https://github.com/sisoputnfrba/2015-1c-reducemapfast-errata
@@ -171,7 +175,7 @@ Redirect 302 /reducemapfast-presentacion https://docs.google.com/presentation/d/
 Redirect 302 /apareando https://docs.google.com/presentation/d/1AcgFkDY69Ty1Vea7Tijy7zyHkOHeusAXdS_LjeM7Fms/edit
 
 # Rafaga
-Redirect 302 /rafaga http://www.utn.so/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
+Redirect 302 /rafaga https://www.utnso.com/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
 Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/13vYoJBIZo7AsnYFZMZ3x84nrvkm9ghjrfnbcBmCUy9g/edit
 Redirect 302 /rafaga-algoritmos https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/algoritmos.md#asignaci%C3%B3n-de-algoritmos-de-memoria
 Redirect 302 /rafaga-errata https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/errata.md#r%C3%A1faga---fe-de-errata
@@ -182,14 +186,14 @@ Redirect 302 /ensamblador /so-ensamblador
 
 
 # Esta CoverFlow
-Redirect 302 /estacoverflow http://www.utn.so/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
+Redirect 302 /estacoverflow https://www.utnso.com/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
 Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/1Sy3Ezv7aZDzTNLudCt_8iOTqAn66gPevwRKZNbCn4B0/edit
 Redirect 302 /estacoverflow-errata https://github.com/sisoputnfrba/1c2014-esta-coverflow-errata
 Redirect 302 /estacoverflow-erratas /estacoverflow-errata
 Redirect 302 /parser https://github.com/sisoputnfrba/ansisop-parser
 
 # SuperMarioProc RELOADED
-Redirect 302 /supermarioreloaded http://www.utn.so/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+Redirect 302 /supermarioreloaded https://www.utnso.com/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
 Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1EKFHj3s80cXlqz2UHPRgx2LqP9CfCX7kZ0_wyStlmTs/
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
