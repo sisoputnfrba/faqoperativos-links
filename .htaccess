@@ -128,8 +128,10 @@ Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # YAMA
-Redirect 302 /yama https://www.utnso.com/wp-content/uploads/2017/08/2C2017-YAMA.pdf
+Redirect 302 /yama https://sisoputnfrba.gitbooks.io/yama-tp-2c2017/content/
+Redirect 302 /yama-pdf https://www.utnso.com/wp-content/uploads/2017/08/2C2017-YAMA.pdf
 Redirect 302 /llama /yama
+Redirect 302 /llama-pdf /yama-pdf
 
 # ESTheR
 Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
