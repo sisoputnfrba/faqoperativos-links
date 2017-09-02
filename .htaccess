@@ -89,7 +89,7 @@ Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzH
 Redirect 302 /seniales /senales
 Redirect 302 /signal /senales
 Redirect 302 /signals /senales
-Redirect 302 /fork https://docs.google.com/presentation/d/1WjUZ7iRNT5Cqva79xFH_fbznzBQ717rYseKnMVehtsY/edit
+Redirect 302 /fork https://docs.google.com/presentation/d/1noy_y0rV7w-H5oEbfw31a15bchfFdaBQwKtks7vOQjM/edit
 Redirect 302 /semaforos https://docs.google.com/presentation/d/1wlQ3726W6P4Puf1d3tIaV6x0efobsOw1TG_MHv2e2Vk/edit
 Redirect 302 /semaforo /semaforos
 Redirect 302 /errores-eclipse https://www.youtube.com/watch?v=18cN8Jk4WjQ
@@ -132,6 +132,10 @@ Redirect 302 /yama https://sisoputnfrba.gitbooks.io/yama-tp-2c2017/content/
 Redirect 302 /yama-pdf https://www.utnso.com/wp-content/uploads/2017/08/2C2017-YAMA.pdf
 Redirect 302 /llama /yama
 Redirect 302 /llama-pdf /yama-pdf
+Redirect 302 /yama-ppt https://docs.google.com/presentation/d/1Td3EzTN3OIdDa_EhGPoS2Dqzj4Cpyfp0qMGy9JH9qMI/edit
+Redirect 302 /llama-ppt /yama-ppt
+Redirect 302 /yama-presentacion /yama-ppt
+Redirect 302 /llama-presentacion /yama-ppt
 
 # ESTheR
 Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
