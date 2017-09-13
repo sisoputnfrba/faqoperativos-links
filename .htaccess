@@ -120,9 +120,9 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /yama
-# Redirect 302 /enunciado-ppt /esther-ppt
-# Redirect 302 /enunciado-presentacion /enunciado-ppt
-# Redirect 302 /errata /esther-errata
+Redirect 302 /enunciado-ppt /yama-ppt
+Redirect 302 /enunciado-presentacion /enunciado-ppt
+Redirect 302 /errata /yama-errata
 Redirect 302 /erratas /errata
 # Redirect 302 /pruebas /esther-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
@@ -136,6 +136,8 @@ Redirect 302 /yama-ppt https://docs.google.com/presentation/d/1Td3EzTN3OIdDa_EhG
 Redirect 302 /llama-ppt /yama-ppt
 Redirect 302 /yama-presentacion /yama-ppt
 Redirect 302 /llama-presentacion /yama-ppt
+Redirect 302 /yama-errata https://github.com/sisoputnfrba/2017-2c-yama/compare/736f0ec6c62db5ce2b0714be5acc48efa3d4eea8...master
+Redirect 302 /llama-errata /yama-errata
 
 # ESTheR
 Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
