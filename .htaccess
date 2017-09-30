@@ -138,6 +138,8 @@ Redirect 302 /yama-presentacion /yama-ppt
 Redirect 302 /llama-presentacion /yama-ppt
 Redirect 302 /yama-errata https://github.com/sisoputnfrba/2017-2c-yama/compare/736f0ec6c62db5ce2b0714be5acc48efa3d4eea8...master
 Redirect 302 /llama-errata /yama-errata
+Redirect 302 /yama-planificacion https://docs.google.com/presentation/d/1FLeG-s8XLx7LhVtOnQ6sdGgqBTTOTBtmEtnbyz93D-Q/edit
+Redirect 302 /llama-ppt /yama-planificacion
 
 # ESTheR
 Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
