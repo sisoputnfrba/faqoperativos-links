@@ -35,6 +35,7 @@ Redirect 302 /cambio https://inscripciones.utnso.com/cambio.php
 Redirect 302 /cambios /cambio
 Redirect 302 /soporte-api https://sheetsu.com/apis/v1.0su/729472e5515f
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
+Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
 Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1azSR9T_LosaMeLk_WT5HgN71-2QVum-rtEgXOTQLZt8
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
