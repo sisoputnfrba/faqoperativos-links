@@ -125,13 +125,17 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 # TP
 Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /yama
-Redirect 302 /enunciado-ppt /yama-ppt
-Redirect 302 /enunciado-presentacion /enunciado-ppt
-Redirect 302 /errata /yama-errata
-Redirect 302 /erratas /errata
-Redirect 302 /pruebas /yama-pruebas
+Redirect 302 /enunciado /redistinto
+# Redirect 302 /enunciado-ppt /redistinto-ppt
+# Redirect 302 /enunciado-presentacion /enunciado-ppt
+# Redirect 302 /errata /redistinto-errata
+# Redirect 302 /erratas /errata
+# Redirect 302 /pruebas /redistinto-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# Redistinto
+Redirect 302 /redistinto https://www.utnso.com/wp-content/uploads/2018/04/2018-1C-Enunciado-ReDistinto.pdf
+Redirect 302 /redistinto-pdf https://www.utnso.com/wp-content/uploads/2018/04/2018-1C-Enunciado-ReDistinto.pdf
 
 # YAMA
 Redirect 302 /yama https://sisoputnfrba.gitbooks.io/yama-tp-2c2017/content/
