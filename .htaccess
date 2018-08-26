@@ -8,7 +8,7 @@ Redirect 302 /suscripciones http://www.campusvirtual.frba.utn.edu.ar/especialida
 Redirect 302 /susc /suscripciones
 Redirect 302 /suscrip /suscripciones
 Redirect 302 /suscripcion /suscripciones
-Redirect 302 /inscripciones http://inscripciones.utn.so/
+Redirect 302 /inscripciones http://inscripciones.utnso.com/
 Redirect 302 /i /inscripciones
 Redirect 302 /ins /inscripciones
 Redirect 302 /insc /inscripciones
