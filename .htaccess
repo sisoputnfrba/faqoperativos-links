@@ -125,14 +125,21 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 # TP
 Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /redistinto
-Redirect 302 /enunciado-pdf /redistinto-pdf
-Redirect 302 /enunciado-ppt /redistinto-ppt
+Redirect 302 /enunciado /grantp
+Redirect 302 /enunciado-pdf /grantp-pdf
+Redirect 302 /enunciado-ppt /grantp-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
-Redirect 302 /errata /redistinto-errata
+Redirect 302 /errata /grantp-errata
 Redirect 302 /erratas /errata
-Redirect 302 /pruebas /redistinto-pruebas
+Redirect 302 /pruebas /grantp-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# El Gran TP
+Redirect 302 /grantp /grantp-pdf
+Redirect 302 /grantp-pdf https://www.utnso.com/wp-content/uploads/2018/08/2C2018-El-Gran-TP.pdf
+Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
+Redirect 302 /grantp-errata /
+Redirect 302 /grantp-pruebas /
 
 # Redistinto
 Redirect 302 /redistinto https://sisoputnfrba.gitbook.io/re-distinto/
