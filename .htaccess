@@ -136,7 +136,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 
 # El Gran TP
 Redirect 302 /grantp /grantp-pdf
-Redirect 302 /grantp-pdf https://www.utnso.com/wp-content/uploads/2018/08/2C2018-El-Gran-TP.pdf
+Redirect 302 /grantp-pdf https://www.utnso.com/wp-content/uploads/2018/09/2C2018-El-Gran-TP.pdf
 Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
 Redirect 302 /grantp-errata /
 Redirect 302 /grantp-pruebas /
