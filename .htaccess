@@ -141,6 +141,7 @@ Redirect 302 /grantp-v1-1 https://www.utnso.com/wp-content/uploads/2018/09/2C201
 Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
 Redirect 302 /grantp-errata /
 Redirect 302 /grantp-pruebas /
+Redirect 302 /grantp-pruebas-checkpoint https://docs.google.com/document/d/1N5BA1lmOHxYUTeN3HlMPqFbVqsRYApDehTHVR_qMXqQ
 
 # Redistinto
 Redirect 302 /redistinto https://sisoputnfrba.gitbook.io/re-distinto/
