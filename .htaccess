@@ -130,7 +130,7 @@ Redirect 302 /enunciado /grantp
 Redirect 302 /enunciado-pdf /grantp-pdf
 Redirect 302 /enunciado-ppt /grantp-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
-Redirect 302 /errata /grantp-errata
+Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /grantp-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
@@ -139,8 +139,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
 Redirect 302 /grantp-v1-1 https://www.utnso.com/wp-content/uploads/2018/09/2C2018-El-Gran-TP.pdf
 Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
-Redirect 302 /grantp-errata /
-Redirect 302 /grantp-pruebas /
+Redirect 302 /grantp-pruebas https://docs.google.com/document/d/173yh_fKrWrCos7X6iNstRiFKpuo6tOoU1vxYGKYLr44
 Redirect 302 /grantp-pruebas-checkpoint https://docs.google.com/document/d/1N5BA1lmOHxYUTeN3HlMPqFbVqsRYApDehTHVR_qMXqQ
 
 # Redistinto
