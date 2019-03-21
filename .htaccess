@@ -122,7 +122,6 @@ Redirect 302 /debug-postmortem /eclipse-postmortem
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
-
 # TP
 Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
 Redirect 302 /enunciado-tp /trabajo-practico
@@ -134,6 +133,9 @@ Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /grantp-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# Lissandra
+Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 
 # El Gran TP
 Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
