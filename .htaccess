@@ -136,6 +136,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 
 # Lissandra
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
+Redirect 302 /lissandra https://docs.google.com/document/d/1QlzXwpSvI5ua2lbO8pF6ZgjlgMndFlwzlAci7qhZmqE
 
 # El Gran TP
 Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
