@@ -33,7 +33,7 @@ Redirect 302 /TODO  /todo
 Redirect 302 /TODOs /todo
 Redirect 302 /cambio https://inscripciones.utnso.com/cambio.php
 Redirect 302 /cambios /cambio
-Redirect 302 /soporte-api https://sheetsu.com/apis/v1.0su/729472e5515f
+Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
 Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1xk8YoxFnir1DSFPbS2GDMWn6ZceK6dNWsacb-PTkuss
