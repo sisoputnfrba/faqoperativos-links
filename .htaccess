@@ -60,7 +60,6 @@ Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
 Redirect 302 /como-empezar /arrancar
 
-Redirect 302 /tp https://docs.google.com/presentation/d/1OzFRwhQ8l_p-L08VazaY4vnGT2RgUHmjFGxz7xSLUck
 Redirect 302 /intro-tp /tp
 Redirect 302 /git https://docs.google.com/presentation/d/1IdRtJLY7mUiHG0zdnVNS-FkVjl50wFISIwZTQVGFkdQ/edit
 Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
@@ -106,7 +105,7 @@ Redirect 302 /eclipse-makefile https://www.youtube.com/watch?v=772fLAsut3E
 Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
 Redirect 302 /declarar http://cdecl.org/
 Redirect 302 /declaraciones /declarar
-Redirect 302 /workshop https://docs.google.com/presentation/d/1KWD5ayY7KfJTM2mQV111omqAsfqF6-UkS6mLMDb-7Cg/edit
+Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /introC https://docs.google.com/presentation/d/1I4WRYYgFNbYvKgXuvV_c8a_dHwfMGCGlHDH-mqxUEjw/edit
 Redirect 302 /introc /introC
@@ -123,15 +122,15 @@ Redirect 302 /debug-postmortem /eclipse-postmortem
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
 # TP
-Redirect 302 /trabajo-practico https://www.utnso.com/trabajo-practico
+Redirect 302 /tp https://www.utnso.com/trabajo-practico
+Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /grantp
-Redirect 302 /enunciado-pdf /grantp-pdf
-Redirect 302 /enunciado-ppt /grantp-ppt
+Redirect 302 /enunciado /lissandra
+Redirect 302 /enunciado-ppt /
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /pruebas /grantp-pruebas
+Redirect 302 /pruebas /
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # Lissandra
