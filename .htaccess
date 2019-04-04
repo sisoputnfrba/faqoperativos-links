@@ -270,3 +270,6 @@ Redirect 302 /beej_en /beej-en
 Redirect 302 /agregar https://github.com/sisoputnfrba/faqoperativos-links/edit/master/.htaccess
 Redirect 302 /meta /agregar
 Redirect 302 /levantando.bat https://gist.githubusercontent.com/mgarciaisaia/ce9c1a0dd9bca9ca740a7a4e0034d87f/raw/28e26546da199c5ba38fb7c94e5dc4d38896d34e/levantando.bat
+
+
+Redirect 302 /me-equivoque https://github.com/sisoputnfrba/tp-2019-1c-World-of-Warcraft-Battle-For-La-No-Recursada
