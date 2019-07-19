@@ -146,12 +146,14 @@ Redirect 302 /enunciado-ppt /lissandra-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /pruebas /
+Redirect 302 /pruebas /lissandra-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
 
 # Lissandra
 Redirect 302 /lissandra https://docs.google.com/document/d/1QlzXwpSvI5ua2lbO8pF6ZgjlgMndFlwzlAci7qhZmqE
 Redirect 302 /lissandra-ppt https://docs.google.com/presentation/d/1sFRdO_Zc6QipWAIjNfWpDy6wWFtxT9YB4wYIn1Y4I0M
+Redirect 302 /lissandra-pruebas https://docs.google.com/document/d/1m_V2AXpfo8SpeOr330Rwj3uKIe-GHJ3VNfO38FNNc6Q
+Redirect 302 /lissandra-pruebas-checkpoint https://docs.google.com/document/d/1V-ylzz6NyTiBqNpBKVd5TIeaa0DtpUpcXUQaQqEt03Q
 
 # El Gran TP
 Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
