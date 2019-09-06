@@ -141,13 +141,18 @@ Redirect 302 /c /introC
 Redirect 302 /tp https://www.utnso.com/trabajo-practico
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /lissandra
-Redirect 302 /enunciado-ppt /lissandra-ppt
+Redirect 302 /enunciado /linuse
+Redirect 302 /enunciado-ppt /linuse-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /pruebas /lissandra-pruebas
+Redirect 302 /pruebas /linuse-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+
+# LINUSE
+Redirect 302 /linuse https://docs.google.com/document/d/1Spusiptdu1QeKhqGuN_1fqdpbyWV5gYmt72wedYtl3E
+Redirect 404 /linuse-ppt
+Redirect 404 /linuse-pruebas
 
 # Lissandra
 Redirect 302 /lissandra https://docs.google.com/document/d/1QlzXwpSvI5ua2lbO8pF6ZgjlgMndFlwzlAci7qhZmqE
