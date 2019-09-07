@@ -151,7 +151,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 
 # LINUSE
 Redirect 302 /linuse https://docs.google.com/document/d/1Spusiptdu1QeKhqGuN_1fqdpbyWV5gYmt72wedYtl3E
-Redirect 404 /linuse-ppt
+Redirect 302 /linuse-ppt https://docs.google.com/presentation/d/1cC7QVe8SDLXY7EYYOFrrX5lzrs9Y8n6WmHc0MU4KA90
 Redirect 404 /linuse-pruebas
 
 # Lissandra
