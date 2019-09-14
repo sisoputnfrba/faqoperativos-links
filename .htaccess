@@ -81,12 +81,12 @@ Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzH
 Redirect 302 /seniales /senales
 Redirect 302 /signal /senales
 Redirect 302 /signals /senales
-Redirect 302 /threads https://docs.google.com/presentation/d/1HKRt27neGAojlZpRwxu_8nKym2_19JCS7ZMnQudxmic/edit
+Redirect 302 /threads https://docs.google.com/presentation/d/1IJ_Ef9QytMRV5kEi1b1Cr1rqnjR2O2AEqSk_N57U0rk/edit
 Redirect 302 /hilos /threads
 Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
 
-Redirect 302 /intro-fs https://docs.google.com/presentation/d/1KCoDQebrO8V8GhtP-MRkBDCxXVCL0x1c19GAZA-kidA 
+Redirect 302 /intro-fs https://docs.google.com/presentation/d/1KCoDQebrO8V8GhtP-MRkBDCxXVCL0x1c19GAZA-kidA/edit
 Redirect 302 /fuse https://docs.google.com/presentation/d/1v67jhdoVsGVxyYU_bkETTa6WwV7eigdTsFVcAaCQcx8/edit
 Redirect 302 /FUSE /fuse
 Redirect 302 /fuse-old https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
