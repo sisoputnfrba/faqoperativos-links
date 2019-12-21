@@ -156,7 +156,7 @@ Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby
 Redirect 302 /linuse https://docs.google.com/document/d/1Spusiptdu1QeKhqGuN_1fqdpbyWV5gYmt72wedYtl3E
 Redirect 302 /linuse-ppt https://docs.google.com/presentation/d/1cC7QVe8SDLXY7EYYOFrrX5lzrs9Y8n6WmHc0MU4KA90
 Redirect 302 /linuse-ppt-fs https://docs.google.com/presentation/d/1pv1T72lBQZUdpSfjq_2szCTqYF3vtYrkN-W5opd4-pg
-Redirect 302 /linuse-pruebas https://docs.google.com/document/d/12R0iqjwzdAzs0An78gk9yqDdf13IIC0wbGqsd0HtPEs
+Redirect 404 /linuse-pruebas
 
 # Lissandra
 Redirect 302 /lissandra https://docs.google.com/document/d/1QlzXwpSvI5ua2lbO8pF6ZgjlgMndFlwzlAci7qhZmqE
