@@ -2,9 +2,9 @@
 Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
-Redirect 302 /blog https://www.utnso.com/
+Redirect 302 /blog https://www.utnso.com.ar/
 
-Redirect 302 /vms https://www.utnso.com/recursos/maquinas-virtuales/
+Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 
 Redirect 302 /suscripciones http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/forum/index.php?id=188
@@ -12,12 +12,12 @@ Redirect 302 /susc /suscripciones
 Redirect 302 /suscrip /suscripciones
 Redirect 302 /suscripcion /suscripciones
 
-Redirect 302 /inscripciones http://inscripciones.utnso.com/
+Redirect 302 /inscripciones http://inscripciones.utnso.com.ar/
 Redirect 302 /i /inscripciones
 Redirect 302 /ins /inscripciones
 Redirect 302 /insc /inscripciones
 Redirect 302 /inscripcion /inscripciones
-Redirect 302 /cambio https://inscripciones.utnso.com/cambio.php
+Redirect 302 /cambio https://inscripciones.utnso.com.ar/cambio.php
 Redirect 302 /cambios /cambio
 
 Redirect 302 /github https://github.com/sisoputnfrba
@@ -27,16 +27,13 @@ Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 Redirect 302 /issues https://github.com/sisoputnfrba/issues/issues
 Redirect 302 /issue /issues
 
-Redirect 302 /soporte https://docs.google.com/spreadsheets/d/1mOw9ZhDbcWAE9y15TkclaqxrEuWPTbvcX0WLZ_ZIfxk/edit
+Redirect 302 /soporte https://docs.google.com/spreadsheets/d/1dKTeyFTUtNtY1_9zDcPzExXDsoby-p8th4y9Oqamouk/edit
 Redirect 302 /sabado /soporte
 Redirect 302 /sabados /soporte
 Redirect 302 /laboratorio /soporte
 Redirect 302 /labo /laboratorio
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
-
-# Redirect 302 /gitter https://gitter.im/sisoputnfrba
-# Redirect 302 /chat /gitter
 
 Redirect 302 /calendario https://calendar.google.com/calendar/embed?src=441604sq5jeq5i9iadvgjaa84c%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires
 Redirect 302 /calendar /calendario
@@ -46,18 +43,19 @@ Redirect 302 /TODO  /todo
 Redirect 302 /TODOs /todo
 
 # Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
-Redirect 302 /inscripciones https://inscripciones.utnso.com/
+Redirect 302 /inscripciones https://inscripciones.utnso.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
-Redirect 302 /videos https://www.utnso.com/recursos/video-tutoriales/
+Redirect 302 /videos https://www.utnso.com.ar/recursos/video-tutoriales/
 Redirect 302 /video /videos
-Redirect 302 /mariobash https://mariobash.utnso.com/
-Redirect 302 /punteros https://docs.google.com/document/d/1gevO2s8HmfGwmvLv3LyWmIS3j1XdgHEBzP66pihvKGY
-Redirect 302 /git https://docs.google.com/presentation/d/1IdRtJLY7mUiHG0zdnVNS-FkVjl50wFISIwZTQVGFkdQ/edit
+Redirect 302 /mariobash https://mariobash.utnso.com.ar/
+Redirect 302 /punteros https://docs.google.com/document/d/1v6eKBOSDc17bUjbw8SziuyqGqkzonBwkFUq5nvhYbyk
+Redirect 302 /git https://docs.google.com/presentation/d/1nDfC86Zs6GB7_FiWt3q2RcjqUQlZReGWMlmOqLx0VGk/edit
 Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
 Redirect 302 /egit http://www.youtube.com/watch?v=s-r_-o8nxDw
 Redirect 302 /git-eclipse /egit
 Redirect 302 /git-gui /egit
+
 # Utiles
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
 Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
@@ -68,31 +66,31 @@ Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/87441
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 
 # "Teoria"
-Redirect 302 /arrancar https://goo.gl/si7QVP
+Redirect 302 /arrancar https://drive.google.com/drive/folders/1QUDUlz8bWLM94AnezUfhwTMdK5OoHmwT
 Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
 Redirect 302 /como-empezar /arrancar
 
 # Presentaciones
-Redirect 302 /intro-al-tp /https://docs.google.com/presentation/d/1OzFRwhQ8l_p-L08VazaY4vnGT2RgUHmjFGxz7xSLUck/edit#slide=id.p1
+Redirect 302 /intro-al-tp https://docs.google.com/presentation/d/1VHaTWwc9bBh-S9vNLpX9lG1Urs8raiKaEo_UY1UKKos
 
-Redirect 302 /valgrind https://docs.google.com/document/d/1flOJ2P2g9UGVRiruuA4OCF6nucbN_BWVI0WDlYTJNf4/edit
+Redirect 302 /valgrind https://docs.google.com/document/d/1J3VlYp1oIONUSjjSJ5U1elljS5AQv9chbY5T7mZqQqY/edit
 Redirect 302 /ejercicios https://docs.google.com/document/d/1n_u1E8uKzExstQEJR_lJBBsT0P5Ru9kG-yW5VUiYnLs/edit
-Redirect 302 /introC https://docs.google.com/presentation/d/1I4WRYYgFNbYvKgXuvV_c8a_dHwfMGCGlHDH-mqxUEjw/edit
+Redirect 302 /introC https://docs.google.com/presentation/d/1lpRmd4jRZjiR7NmSPZ5vJbIZkWt8fnw9qQ6tYIypulM
 Redirect 302 /introc /introC
-Redirect 302 /senales https://docs.google.com/presentation/d/1amkxDK65sxofEEKxzHJ3xj_pRaRGJOooUbYEcNREETk/edit
+Redirect 302 /senales https://docs.google.com/presentation/d/16vml3EWLEV6OByTC3o-ObKCMA7m2zd-Uw6O2qu-VNuQ
 Redirect 302 /seniales /senales
 Redirect 302 /signal /senales
 Redirect 302 /signals /senales
-Redirect 302 /threads https://docs.google.com/presentation/d/1HKRt27neGAojlZpRwxu_8nKym2_19JCS7ZMnQudxmic/edit
+Redirect 302 /threads https://docs.google.com/presentation/d/1h8titsIBlkGpmX7CnyaHKcY-8NU-xcauk8fpRMaQHhc
 Redirect 302 /hilos /threads
 Redirect 302 /pthreads /threads
 Redirect 302 /thread /threads
 
-Redirect 302 /intro-fs https://docs.google.com/presentation/d/1KCoDQebrO8V8GhtP-MRkBDCxXVCL0x1c19GAZA-kidA 
-Redirect 302 /fuse https://docs.google.com/presentation/d/1v67jhdoVsGVxyYU_bkETTa6WwV7eigdTsFVcAaCQcx8/edit
+Redirect 302 /intro-fs https://docs.google.com/presentation/d/1yz9d2nL7oT5sw76sPHsfApgVqKecid8d8wfTvQItHQM
+Redirect 302 /fuse https://docs.google.com/presentation/d/1a5rZxTozEwbespLPXfiqjhZ47FlB3FnX0MG7x7WbSLs
 Redirect 302 /FUSE /fuse
-Redirect 302 /fuse-old https://docs.google.com/presentation/d/1rf-FLheutaK2LxDjaFaf5_FLi3j4Gf7ba1bDitjcjjc/edit
+Redirect 302 /fuse-old https://docs.google.com/presentation/d/1yka66_uJNpBBdUwe3Ru5IUdrablA2dXo_r6S_oKbIwY
 
 Redirect 302 /shared-library http://www.youtube.com/watch?v=s5ac8CPDkMg
 Redirect 302 /shared-libraries /shared-library
@@ -105,13 +103,13 @@ Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
 Redirect 302 /repo-ejercicios /ejercicios-repo
 Redirect 302 /video-threads https://www.youtube.com/watch?v=V5s6gRckuro
 
-Redirect 302 /sockets https://docs.google.com/presentation/d/1_5JTOBKjEs5w_ZLOt5GN_FGaVI4VRHmVeMLJKKZXSFI/edit
+Redirect 302 /sockets https://docs.google.com/presentation/d/1562EJP6O9-LHaw-kp8CySPS41Glod3IzB2xv-aGfzQE
 Redirect 302 /socket /sockets
-Redirect 302 /serializacion https://docs.google.com/presentation/d/1-kmFUjYXF4KO8BRnuIwFzGRkqVSzDgFIBMOy7wJHbVM
+Redirect 302 /serializacion https://docs.google.com/presentation/d/1-S30Imgw-4KxIyHK-p7kO07UZdY7OGrLTXSGhfkl1Ug
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
-Redirect 302 /bash https://docs.google.com/presentation/d/1-ywnhaPpSF9BrbdEY3H7dZgCrG4tvHPJYA9cc_2LJUs/edit
-Redirect 302 /fork https://docs.google.com/presentation/d/1noy_y0rV7w-H5oEbfw31a15bchfFdaBQwKtks7vOQjM/edit
-Redirect 302 /semaforos https://docs.google.com/presentation/d/1wlQ3726W6P4Puf1d3tIaV6x0efobsOw1TG_MHv2e2Vk/edit
+Redirect 302 /bash https://docs.google.com/presentation/d/1_yLMZNffFHL-mfW-6G2JHYv528PJHs3nWQ-A69rbmQ4
+Redirect 302 /fork https://docs.google.com/presentation/d/1276r2sA2D-oQ1lpv0DS9nlyAIAIpjRma55CXKtYvT_o
+Redirect 302 /semaforos https://docs.google.com/presentation/d/1h8titsIBlkGpmX7CnyaHKcY-8NU-xcauk8fpRMaQHhc/edit#slide=id.p19
 Redirect 302 /semaforo /semaforos
 Redirect 302 /errores-eclipse https://www.youtube.com/watch?v=18cN8Jk4WjQ
 Redirect 302 /reportar-errores /errores-eclipse
@@ -124,7 +122,7 @@ Redirect 302 /mati-youtube https://www.youtube.com/playlist?list=PLeeevWEZ9lx6BX
 Redirect 302 /matiyoutube /mati-youtube
 Redirect 302 /youtubemati /mati-youtube
 Redirect 302 /youtube-mati /mati-youtube
-Redirect 302 /cunit https://docs.google.com/document/d/17li9WRr3VLbuFI18EBmgYuTmLnj3wushlLf4vODwjzg/edit
+#El documento fue eliminado -> Redirect 302 /cunit https://docs.google.com/document/d/17li9WRr3VLbuFI18EBmgYuTmLnj3wushlLf4vODwjzg/edit
 Redirect 302 /eclipse-postmortem https://www.youtube.com/watch?v=-CI4MexyU3I
 Redirect 302 /postmortem /eclipse-postmortem
 Redirect 302 /debug-postmortem /eclipse-postmortem
@@ -135,13 +133,13 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
-Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1xk8YoxFnir1DSFPbS2GDMWn6ZceK6dNWsacb-PTkuss
+Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1qXxc8TnHMNiYGHHda9jV1lUU9rBVIrzlK1CTvaLb_2g
 Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /c /introC
 
 # TP
-Redirect 302 /tp https://www.utnso.com/trabajo-practico
+Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /linuse
@@ -150,69 +148,69 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /linuse-pruebas
-Redirect 302 /ntp https://docs.google.com/document/d/1qLaLHkY3Nww0cUou4ChhRoEfby0Cgs0cNYPPQ3vfmPQ/pub
+Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
 
 # LINUSE
-Redirect 302 /linuse https://docs.google.com/document/d/1Spusiptdu1QeKhqGuN_1fqdpbyWV5gYmt72wedYtl3E
-Redirect 302 /linuse-ppt https://docs.google.com/presentation/d/1cC7QVe8SDLXY7EYYOFrrX5lzrs9Y8n6WmHc0MU4KA90
-Redirect 302 /linuse-ppt-fs https://docs.google.com/presentation/d/1pv1T72lBQZUdpSfjq_2szCTqYF3vtYrkN-W5opd4-pg
-Redirect 302 /linuse-pruebas https://docs.google.com/document/d/12R0iqjwzdAzs0An78gk9yqDdf13IIC0wbGqsd0HtPEs
+Redirect 302 /linuse https://docs.google.com/document/d/1gKh3IXo3KZMds-8PYA2PQmQfXe14BD2RwXeXOM_EEh0
+Redirect 302 /linuse-ppt https://docs.google.com/presentation/d/1Kx7na56SjRdTzNO-ZDs-sqnoIwVve_IOeuAfQu_vuNA
+Redirect 302 /linuse-ppt-fs https://docs.google.com/presentation/d/1Q5x6kaWE_qvfrHxywLUmNUDwGu9qonrNk7tbKL_PkBg
+Redirect 302 /linuse-pruebas https://docs.google.com/document/d/18P3tJK-Gjxy9M9fuF5calhJXMdH81gBtzNqoI9ANy-U
 
 # Lissandra
-Redirect 302 /lissandra https://docs.google.com/document/d/1QlzXwpSvI5ua2lbO8pF6ZgjlgMndFlwzlAci7qhZmqE
-Redirect 302 /lissandra-ppt https://docs.google.com/presentation/d/1sFRdO_Zc6QipWAIjNfWpDy6wWFtxT9YB4wYIn1Y4I0M
-Redirect 302 /lissandra-pruebas https://docs.google.com/document/d/1m_V2AXpfo8SpeOr330Rwj3uKIe-GHJ3VNfO38FNNc6Q
-Redirect 302 /lissandra-pruebas-checkpoint https://docs.google.com/document/d/1V-ylzz6NyTiBqNpBKVd5TIeaa0DtpUpcXUQaQqEt03Q
+Redirect 302 /lissandra https://docs.google.com/document/d/1uMReZYgwPkWuVMxfv_FfyouFpSYVl1kqewOZuyAHw-A
+Redirect 302 /lissandra-ppt https://docs.google.com/presentation/d/1_1YAiVPtfjQdBv9Tzhoeg6GpwjHrUtPIkFR5Ad37X-0
+Redirect 302 /lissandra-pruebas https://docs.google.com/document/d/1p71HveW3wE68YQGh43ZISPAaAQvzxe7GLWYnT__6eW0/edit
+Redirect 302 /lissandra-pruebas-checkpoint https://docs.google.com/document/d/1nz6_9qsP2DjArh595U2SzV93x726Y3LgQNU3OB637Mg
 
 # El Gran TP
 Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
-Redirect 302 /grantp-v1-1 https://www.utnso.com/wp-content/uploads/2018/09/2C2018-El-Gran-TP.pdf
+Redirect 302 /grantp-v1-1 https://www.utnso.com.ar/wp-content/uploads/2018/09/2C2018-El-Gran-TP.pdf
 Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
 Redirect 302 /grantp-pruebas https://docs.google.com/document/d/173yh_fKrWrCos7X6iNstRiFKpuo6tOoU1vxYGKYLr44
 Redirect 302 /grantp-pruebas-checkpoint https://docs.google.com/document/d/1N5BA1lmOHxYUTeN3HlMPqFbVqsRYApDehTHVR_qMXqQ
 
 # Redistinto
 Redirect 302 /redistinto https://sisoputnfrba.gitbook.io/re-distinto/
-Redirect 302 /redistinto-pdf https://www.utnso.com/wp-content/uploads/2018/04/2018-1C-Enunciado-ReDistinto.pdf
+Redirect 302 /redistinto-pdf https://www.utnso.com.ar/wp-content/uploads/2018/04/2018-1C-Enunciado-ReDistinto.pdf
 Redirect 302 /redistinto-ppt https://docs.google.com/presentation/d/1KaY9jbIh3oY1qv6yYuPhZK5l21QE2MURuG-y8lk_xFc/edit?usp=sharing
 Redirect 302 /redistinto-presentacion /redistinto-ppt
 Redirect 302 /redistinto-errata https://github.com/sisoputnfrba/2018-1c-re-distinto/compare/1.0...master
-Redirect 302 /redistinto-pruebas https://www.utnso.com/wp-content/uploads/2018/07/TP-1C2018-Re-distinto-Pruebas.pdf
+Redirect 302 /redistinto-pruebas https://www.utnso.com.ar/wp-content/uploads/2018/07/TP-1C2018-Re-distinto-Pruebas.pdf
 
 # YAMA
 Redirect 302 /yama https://sisoputnfrba.gitbooks.io/yama-tp-2c2017/content/
-Redirect 302 /yama-pdf https://www.utnso.com/wp-content/uploads/2017/08/2C2017-YAMA.pdf
+Redirect 302 /yama-pdf https://www.utnso.com.ar/wp-content/uploads/2017/08/2C2017-YAMA.pdf
 Redirect 302 /llama /yama
 Redirect 302 /llama-pdf /yama-pdf
-Redirect 302 /yama-ppt https://docs.google.com/presentation/d/1Td3EzTN3OIdDa_EhGPoS2Dqzj4Cpyfp0qMGy9JH9qMI/edit
+Redirect 302 /yama-ppt https://docs.google.com/presentation/d/1g6zfAXUjHh5REH4kZlS37rusuU5tex5WxsM9kELaLFo
 Redirect 302 /llama-ppt /yama-ppt
 Redirect 302 /yama-presentacion /yama-ppt
 Redirect 302 /llama-presentacion /yama-ppt
 Redirect 302 /yama-errata https://github.com/sisoputnfrba/2017-2c-yama/compare/736f0ec6c62db5ce2b0714be5acc48efa3d4eea8...master
 Redirect 302 /llama-errata /yama-errata
-Redirect 302 /yama-planificacion https://docs.google.com/presentation/d/1FLeG-s8XLx7LhVtOnQ6sdGgqBTTOTBtmEtnbyz93D-Q/edit
+Redirect 302 /yama-planificacion https://docs.google.com/presentation/d/1yS2y_DUkH8FWTuCNbA844FOrcYMdq3LSJ0S0FDH3gA4
 Redirect 302 /llama-ppt /yama-planificacion
-Redirect 302 /yama-pruebas https://www.utnso.com/wp-content/uploads/2017/11/TP-2C2017-YAMA-Pruebas.pdf
+Redirect 302 /yama-pruebas https://www.utnso.com.ar/wp-content/uploads/2017/11/TP-2C2017-YAMA-Pruebas.pdf
 Redirect 302 /llama-pruebas /yama-pruebas
 
 # ESTheR
-Redirect 302 /esther https://www.utnso.com/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
+Redirect 302 /esther https://www.utnso.com.ar/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
 Redirect 302 /ester /esther
-Redirect 302 /esther-ppt https://docs.google.com/presentation/d/1FK3f5bwUtKYoGBMUV2hh-P0hIdyVsdf2vzAGsgQXt4Q/edit
+Redirect 302 /esther-ppt https://docs.google.com/presentation/d/1ZH16mcO3rzIJNfq-8phIJgJGhrPFuNq3j5WqPWliq0I
 Redirect 302 /ester-ppt /esther-ppt
 Redirect 302 /esther-presentacion /esther-ppt
 Redirect 302 /ester-presentacion /esther-ppt
 Redirect 302 /esther-errata https://github.com/sisoputnfrba/2017-1c-esther-errata/blob/master/errata.md
-Redirect 302 /esther-pruebas http://www.utnso.com/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
+Redirect 302 /esther-pruebas http://www.utnso.com.ar/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
 
 # char *mander
 Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
 Redirect 302 /char-mander /charmander
 Redirect 302 /char_mander /charmander
 Redirect 302 /charmander-errata https://github.com/sisoputnfrba/2016-2c-char-mander/compare/v1.0...master
-# Disco ejemplo
-Redirect 302 /charmander-ejemplo.tar.gz https://www.utnso.com/wp-content/uploads/2016/09/ejemplo.tar.gz
-# Pruebas
+## Disco ejemplo
+Redirect 302 /charmander-ejemplo.tar.gz https://www.utnso.com.ar/wp-content/uploads/2016/09/ejemplo.tar.gz
+## Pruebas
 Redirect 302 /base.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.bin
 Redirect 302 /base.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.gz
 Redirect 302 /completa.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.bin
@@ -223,26 +221,26 @@ Redirect 302 /pruebas-charmander https://github.com/sisoputnfrba/so-charmander-p
 # Elestac
 Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
 Redirect 302 /elestac-errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
-Redirect 302 /elestac-pruebas https://docs.google.com/document/d/1d29cZndaTEzTT5jMRQvXaltl_Ay10v4H8ATSJfUDrmI/edit?usp=sharing
+Redirect 302 /elestac-pruebas https://docs.google.com/document/d/1AUUJ40QaKv8JYmdQWxj49_u8PumP4C7Cd-8fWAX-hQ4/edit
 
 # Cache13
 Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
 Redirect 302 /cache13-presentacion https://docs.google.com/presentation/d/14aWrtuXexezpM3esquk1YaeNuw0xBjrVJvKdGDpSH24
-Redirect 302 /cache13-pruebas https://docs.google.com/document/d/11T4k6NBFFztbQLbwF_10h-F-J6YrM36v6YPHRmAMiK0/edit
+Redirect 302 /cache13-pruebas https://docs.google.com/document/d/1jLBmFVHO2XCGHFf08NxsjAgL8-vj8Fk7QJ_lYZtNRgM
 Redirect 302 /cache13-scripts https://github.com/sisoputnfrba/cache13-scripts
 
 # ReduceMapFast
-Redirect 302 /reducemapfast https://www.utnso.com/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
+Redirect 302 /reducemapfast https://www.utnso.com.ar/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
 Redirect 302 /reduce /reducemapfast
 Redirect 302 /reducemap /reducemapfast
 Redirect 302 /reducemapfast-errata https://github.com/sisoputnfrba/2015-1c-reducemapfast-errata
 Redirect 302 /reduce-errata /reducemapfast-errata
-Redirect 302 /reducemapfast-presentacion https://docs.google.com/presentation/d/1EZvleZmtiXMYqrFUs6syi4l6AIbH_9Dtd2eH1S3mPOM/edit
-Redirect 302 /apareando https://docs.google.com/presentation/d/1AcgFkDY69Ty1Vea7Tijy7zyHkOHeusAXdS_LjeM7Fms/edit
+Redirect 302 /reducemapfast-presentacion https://docs.google.com/presentation/d/1ugtktm5I3oI0j8d1qbFpvNSgyI_vN6U1Rif4o-jug9U
+Redirect 302 /apareando https://docs.google.com/presentation/d/1UtvW_jVlP_-3Aj3LyP-3qm3MhuocgAjlyVCi1W-l0cw
 
 # Rafaga
-Redirect 302 /rafaga https://www.utnso.com/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
-Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/13vYoJBIZo7AsnYFZMZ3x84nrvkm9ghjrfnbcBmCUy9g/edit
+Redirect 302 /rafaga https://www.utnso.com.ar/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
+Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/1nhc7OVKG9Vkbdg8AFSTXjVuksL08tOPqcq8N6UmoNPs
 Redirect 302 /rafaga-algoritmos https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/algoritmos.md#asignaci%C3%B3n-de-algoritmos-de-memoria
 Redirect 302 /rafaga-errata https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/errata.md#r%C3%A1faga---fe-de-errata
 Redirect 302 /algoritmo /rafaga-algoritmos
@@ -252,15 +250,15 @@ Redirect 302 /ensamblador /so-ensamblador
 
 
 # Esta CoverFlow
-Redirect 302 /estacoverflow https://www.utnso.com/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
-Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/1Sy3Ezv7aZDzTNLudCt_8iOTqAn66gPevwRKZNbCn4B0/edit
+Redirect 302 /estacoverflow https://www.utnso.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
+Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/17P5fUmnWcj87Z0xs3Tg5iSW3oSlpOOo0nUKOHU0y0Q0
 Redirect 302 /estacoverflow-errata https://github.com/sisoputnfrba/1c2014-esta-coverflow-errata
 Redirect 302 /estacoverflow-erratas /estacoverflow-errata
 Redirect 302 /parser https://github.com/sisoputnfrba/ansisop-parser
 
 # SuperMarioProc RELOADED
-Redirect 302 /supermarioreloaded https://www.utnso.com/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
-Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1EKFHj3s80cXlqz2UHPRgx2LqP9CfCX7kZ0_wyStlmTs/
+Redirect 302 /supermarioreloaded https://www.utnso.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
+Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1Mi8aGaKc-_WuQOg3CeDRg2dLQQvbIH0WxLsV_lVcXd0
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
 Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
@@ -268,7 +266,7 @@ Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
 
 # SuperMarioProc
 Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
-Redirect 302 /supermario-errata https://docs.google.com/document/d/1u42dh34L65pU74uNlxrwSQzvo5eYInGwORh76rqHVtY/edit
+Redirect 302 /supermario-errata https://docs.google.com/document/d/1HWcW6KG7CblypEvpbqWRdDyqNOFs-cBDi0tvOt8mss4
 # Redirect 302 /notas /supermario-errata
 # Redirect 302 /errata /supermario-errata
 # Redirect 302 /koopa /bin/koopa
@@ -278,19 +276,19 @@ Redirect 302 /supermario-errata https://docs.google.com/document/d/1u42dh34L65pU
 # Redirect 302 /ejemplo-koopa /pedidos.koopa
 
 # Redirecciones del FAQ
-Redirect 302 /faq https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit
-Redirect 302 /ld-library-path https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.erz1j5n5itup
-Redirect 302 /segfault https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.vy9o0ppz71dw
+Redirect 302 /faq https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+Redirect 302 /ld-library-path https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+Redirect 302 /segfault https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
 Redirect 302 /SIGSEGV /segfault
 Redirect 302 /sigsegv /segfault
-Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.1lluuakj2ym5
-Redirect 302 /inotify-vi https://docs.google.com/document/d/19nxY_vS3Ds7LSrjcQWmFEFlW2fcr-xeRzAlFfafZ5iU/edit#heading=h.uz98dzjqjfzf
+Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+Redirect 302 /inotify-vi https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
 Redirect 302 /estructurado https://docs.google.com/document/d/18nEaKcG7MUYcle_5ooxbABHyDaSv60AnehOhsoKgOsw/edit?usp=drivesdk
 
 Redirect 302 /beej http://www.tyr.unlu.edu.ar/tyr/TYR-trab/satobigal/documentacion/beej/index.html
 Redirect 302 /beej-es /beej
 Redirect 302 /beej_es /beej
-Redirect 302 /beej-en http://beej.us/guide/bgnet/output/html/multipage/index.html
+Redirect 302 /beej-en http://beej.us/guide/bgnet/html/
 Redirect 302 /beej_en /beej-en
 
 # Meta
