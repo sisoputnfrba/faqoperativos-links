@@ -66,7 +66,7 @@ Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/87441
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 
 # "Teoria"
-Redirect 302 /arrancar https://drive.google.com/drive/folders/1QUDUlz8bWLM94AnezUfhwTMdK5OoHmwT
+Redirect 302 /arrancar https://drive.google.com/file/d/19BtIDx2yBI-owgPCavCpUr6-SUVwUB_I/view
 Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
 Redirect 302 /como-empezar /arrancar
