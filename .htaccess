@@ -1,297 +1,297 @@
 # Estaticos
-Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
-Redirect 302 /campus /cv
-Redirect 302 /campusvirtual /cv
-Redirect 302 /blog https://www.utnso.com.ar/
+Redirect 302 /cv https://faq.utnso.com.ar/cv
+Redirect 302 /campus https://faq.utnso.com.ar/campus
+Redirect 302 /campusvirtual https://faq.utnso.com.ar/campusvirtual
+Redirect 302 /blog https://faq.utnso.com.ar/blog
 
-Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
-Redirect 302 /vm /vms
+Redirect 302 /vms https://faq.utnso.com.ar/vms
+Redirect 302 /vm https://faq.utnso.com.ar/vm
 
-Redirect 302 /suscripciones http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/forum/index.php?id=188
-Redirect 302 /susc /suscripciones
-Redirect 302 /suscrip /suscripciones
-Redirect 302 /suscripcion /suscripciones
+Redirect 302 /suscripciones https://faq.utnso.com.ar/suscripciones
+Redirect 302 /susc https://faq.utnso.com.ar/susc
+Redirect 302 /suscrip https://faq.utnso.com.ar/suscrip
+Redirect 302 /suscripcion https://faq.utnso.com.ar/suscripcion
 
-Redirect 302 /inscripciones http://inscripciones.utnso.com.ar/
-Redirect 302 /i /inscripciones
-Redirect 302 /ins /inscripciones
-Redirect 302 /insc /inscripciones
-Redirect 302 /inscripcion /inscripciones
-Redirect 302 /cambio https://inscripciones.utnso.com.ar/cambio.php
-Redirect 302 /cambios /cambio
+Redirect 302 /inscripciones https://faq.utnso.com.ar/inscripciones
+Redirect 302 /i https://faq.utnso.com.ar/i
+Redirect 302 /ins https://faq.utnso.com.ar/ins
+Redirect 302 /insc https://faq.utnso.com.ar/insc
+Redirect 302 /inscripcion https://faq.utnso.com.ar/inscripcion
+Redirect 302 /cambio https://faq.utnso.com.ar/cambio
+Redirect 302 /cambios https://faq.utnso.com.ar/cambios
 
-Redirect 302 /github https://github.com/sisoputnfrba
-Redirect 302 /gh /github
-Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
+Redirect 302 /github https://faq.utnso.com.ar/github
+Redirect 302 /gh https://faq.utnso.com.ar/gh
+Redirect 302 /teams https://faq.utnso.com.ar/teams
 
-Redirect 302 /issues https://github.com/sisoputnfrba/issues/issues
-Redirect 302 /issue /issues
+Redirect 302 /issues https://faq.utnso.com.ar/issues
+Redirect 302 /issue https://faq.utnso.com.ar/issue
 
-Redirect 302 /soporte https://docs.google.com/spreadsheets/d/1dKTeyFTUtNtY1_9zDcPzExXDsoby-p8th4y9Oqamouk/edit
-Redirect 302 /sabado /soporte
-Redirect 302 /sabados /soporte
-Redirect 302 /laboratorio /soporte
-Redirect 302 /labo /laboratorio
-Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
-Redirect 302 /foros /foro
+Redirect 302 /soporte https://faq.utnso.com.ar/soporte
+Redirect 302 /sabado https://faq.utnso.com.ar/sabado
+Redirect 302 /sabados https://faq.utnso.com.ar/sabados
+Redirect 302 /laboratorio https://faq.utnso.com.ar/laboratorio
+Redirect 302 /labo https://faq.utnso.com.ar/labo
+Redirect 302 /foro https://faq.utnso.com.ar/foro
+Redirect 302 /foros https://faq.utnso.com.ar/foros
 
-Redirect 302 /calendario https://calendar.google.com/calendar/embed?src=441604sq5jeq5i9iadvgjaa84c%40group.calendar.google.com&ctz=America%2FArgentina%2FBuenos_Aires
-Redirect 302 /calendar /calendario
-Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
-Redirect 302 /todos /todo
-Redirect 302 /TODO  /todo
-Redirect 302 /TODOs /todo
+Redirect 302 /calendario https://faq.utnso.com.ar/calendario
+Redirect 302 /calendar https://faq.utnso.com.ar/calendar
+Redirect 302 /todo https://faq.utnso.com.ar/todo
+Redirect 302 /todos https://faq.utnso.com.ar/todos
+Redirect 302 /TODO https://faq.utnso.com.ar/TODO
+Redirect 302 /TODOs https://faq.utnso.com.ar/TODOs
 
-# Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
-Redirect 302 /inscripciones https://inscripciones.utnso.com.ar/
-Redirect 302 /inscripcion /inscripciones
-Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
-Redirect 302 /videos https://www.utnso.com.ar/recursos/video-tutoriales/
-Redirect 302 /video /videos
-Redirect 302 /mariobash https://mariobash.utnso.com.ar/
-Redirect 302 /punteros https://docs.google.com/document/d/1v6eKBOSDc17bUjbw8SziuyqGqkzonBwkFUq5nvhYbyk
-Redirect 302 /git https://docs.google.com/presentation/d/1nDfC86Zs6GB7_FiWt3q2RcjqUQlZReGWMlmOqLx0VGk/edit
-Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
-Redirect 302 /egit http://www.youtube.com/watch?v=s-r_-o8nxDw
-Redirect 302 /git-eclipse /egit
-Redirect 302 /git-gui /egit
+# Redirect 302 /wiki-tp https://faq.utnso.com.ar/wiki-tp
+Redirect 302 /inscripciones https://faq.utnso.com.ar/inscripciones
+Redirect 302 /inscripcion https://faq.utnso.com.ar/inscripcion
+Redirect 302 /inscribirse https://faq.utnso.com.ar/inscribirse
+Redirect 302 /videos https://faq.utnso.com.ar/videos
+Redirect 302 /video https://faq.utnso.com.ar/video
+Redirect 302 /mariobash https://faq.utnso.com.ar/mariobash
+Redirect 302 /punteros https://faq.utnso.com.ar/punteros
+Redirect 302 /git https://faq.utnso.com.ar/git
+Redirect 302 /git-cli https://faq.utnso.com.ar/git-cli
+Redirect 302 /egit https://faq.utnso.com.ar/egit
+Redirect 302 /git-eclipse https://faq.utnso.com.ar/git-eclipse
+Redirect 302 /git-gui https://faq.utnso.com.ar/git-gui
 
 # Utiles
-Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
-Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
-Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
-Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
+Redirect 302 /get-repo.sh https://faq.utnso.com.ar/get-repo.sh
+Redirect 302 /get-and-compile-repo.sh https://faq.utnso.com.ar/get-and-compile-repo.sh
+Redirect 302 /commons https://faq.utnso.com.ar/commons
+Redirect 302 /script-ntp.sh https://faq.utnso.com.ar/script-ntp.sh
 
 # Internal
-Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
+Redirect 302 /internal/wiki https://faq.utnso.com.ar/internal/wiki
 
 # "Teoria"
-Redirect 302 /arrancar https://drive.google.com/file/d/19BtIDx2yBI-owgPCavCpUr6-SUVwUB_I/view
-Redirect 302 /empezar /arrancar
-Redirect 302 /como-arrancar /arrancar
-Redirect 302 /como-empezar /arrancar
+Redirect 302 /arrancar https://faq.utnso.com.ar/arrancar
+Redirect 302 /empezar https://faq.utnso.com.ar/empezar
+Redirect 302 /como-arrancar https://faq.utnso.com.ar/como-arrancar
+Redirect 302 /como-empezar https://faq.utnso.com.ar/como-empezar
 
 # Presentaciones
-Redirect 302 /intro-al-tp https://docs.google.com/presentation/d/1VHaTWwc9bBh-S9vNLpX9lG1Urs8raiKaEo_UY1UKKos
+Redirect 302 /intro-al-tp https://faq.utnso.com.ar/intro-al-tp
 
-Redirect 302 /valgrind https://docs.google.com/document/d/1J3VlYp1oIONUSjjSJ5U1elljS5AQv9chbY5T7mZqQqY/edit
-Redirect 302 /ejercicios https://docs.google.com/document/d/1n_u1E8uKzExstQEJR_lJBBsT0P5Ru9kG-yW5VUiYnLs/edit
-Redirect 302 /introC https://docs.google.com/presentation/d/1lpRmd4jRZjiR7NmSPZ5vJbIZkWt8fnw9qQ6tYIypulM
-Redirect 302 /introc /introC
-Redirect 302 /senales https://docs.google.com/presentation/d/16vml3EWLEV6OByTC3o-ObKCMA7m2zd-Uw6O2qu-VNuQ
-Redirect 302 /seniales /senales
-Redirect 302 /signal /senales
-Redirect 302 /signals /senales
-Redirect 302 /threads https://docs.google.com/presentation/d/1h8titsIBlkGpmX7CnyaHKcY-8NU-xcauk8fpRMaQHhc
-Redirect 302 /hilos /threads
-Redirect 302 /pthreads /threads
-Redirect 302 /thread /threads
+Redirect 302 /valgrind https://faq.utnso.com.ar/valgrind
+Redirect 302 /ejercicios https://faq.utnso.com.ar/ejercicios
+Redirect 302 /introC https://faq.utnso.com.ar/introC
+Redirect 302 /introc https://faq.utnso.com.ar/introc
+Redirect 302 /senales https://faq.utnso.com.ar/senales
+Redirect 302 /seniales https://faq.utnso.com.ar/seniales
+Redirect 302 /signal https://faq.utnso.com.ar/signal
+Redirect 302 /signals https://faq.utnso.com.ar/signals
+Redirect 302 /threads https://faq.utnso.com.ar/threads
+Redirect 302 /hilos https://faq.utnso.com.ar/hilos
+Redirect 302 /pthreads https://faq.utnso.com.ar/pthreads
+Redirect 302 /thread https://faq.utnso.com.ar/thread
 
-Redirect 302 /intro-fs https://docs.google.com/presentation/d/1yz9d2nL7oT5sw76sPHsfApgVqKecid8d8wfTvQItHQM
-Redirect 302 /fuse https://docs.google.com/presentation/d/1a5rZxTozEwbespLPXfiqjhZ47FlB3FnX0MG7x7WbSLs
-Redirect 302 /FUSE /fuse
-Redirect 302 /fuse-old https://docs.google.com/presentation/d/1yka66_uJNpBBdUwe3Ru5IUdrablA2dXo_r6S_oKbIwY
+Redirect 302 /intro-fs https://faq.utnso.com.ar/intro-fs
+Redirect 302 /fuse https://faq.utnso.com.ar/fuse
+Redirect 302 /FUSE https://faq.utnso.com.ar/FUSE
+Redirect 302 /fuse-old https://faq.utnso.com.ar/fuse-old
 
-Redirect 302 /shared-library http://www.youtube.com/watch?v=s5ac8CPDkMg
-Redirect 302 /shared-libraries /shared-library
-Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
-Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
-Redirect 302 /guest-additions http://youtu.be/oDZhqo7rsu0
-Redirect 302 /guest-aditions /guest-additions
-Redirect 302 /exercises /ejercicios
-Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
-Redirect 302 /repo-ejercicios /ejercicios-repo
-Redirect 302 /video-threads https://www.youtube.com/watch?v=V5s6gRckuro
+Redirect 302 /shared-library https://faq.utnso.com.ar/shared-library
+Redirect 302 /shared-libraries https://faq.utnso.com.ar/shared-libraries
+Redirect 302 /debug-eclipse https://faq.utnso.com.ar/debug-eclipse
+Redirect 302 /setup-vm https://faq.utnso.com.ar/setup-vm
+Redirect 302 /guest-additions https://faq.utnso.com.ar/guest-additions
+Redirect 302 /guest-aditions https://faq.utnso.com.ar/guest-aditions
+Redirect 302 /exercises https://faq.utnso.com.ar/exercises
+Redirect 302 /ejercicios-repo https://faq.utnso.com.ar/ejercicios-repo
+Redirect 302 /repo-ejercicios https://faq.utnso.com.ar/repo-ejercicios
+Redirect 302 /video-threads https://faq.utnso.com.ar/video-threads
 
-Redirect 302 /sockets https://docs.google.com/presentation/d/1562EJP6O9-LHaw-kp8CySPS41Glod3IzB2xv-aGfzQE
-Redirect 302 /socket /sockets
-Redirect 302 /serializacion https://docs.google.com/presentation/d/1-S30Imgw-4KxIyHK-p7kO07UZdY7OGrLTXSGhfkl1Ug
-Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
-Redirect 302 /bash https://docs.google.com/presentation/d/1_yLMZNffFHL-mfW-6G2JHYv528PJHs3nWQ-A69rbmQ4
-Redirect 302 /fork https://docs.google.com/presentation/d/1276r2sA2D-oQ1lpv0DS9nlyAIAIpjRma55CXKtYvT_o
-Redirect 302 /semaforos https://docs.google.com/presentation/d/1h8titsIBlkGpmX7CnyaHKcY-8NU-xcauk8fpRMaQHhc/edit#slide=id.p19
-Redirect 302 /semaforo /semaforos
-Redirect 302 /errores-eclipse https://www.youtube.com/watch?v=18cN8Jk4WjQ
-Redirect 302 /reportar-errores /errores-eclipse
-Redirect 302 /reportar /errores-eclipse
-Redirect 302 /eclipse-makefile https://www.youtube.com/watch?v=772fLAsut3E
-Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
-Redirect 302 /declarar http://cdecl.org/
-Redirect 302 /declaraciones /declarar
-Redirect 302 /mati-youtube https://www.youtube.com/playlist?list=PLeeevWEZ9lx6BXeFX8xpDrVmJk7OTuEug
-Redirect 302 /matiyoutube /mati-youtube
-Redirect 302 /youtubemati /mati-youtube
-Redirect 302 /youtube-mati /mati-youtube
-#El documento fue eliminado -> Redirect 302 /cunit https://docs.google.com/document/d/17li9WRr3VLbuFI18EBmgYuTmLnj3wushlLf4vODwjzg/edit
-Redirect 302 /eclipse-postmortem https://www.youtube.com/watch?v=-CI4MexyU3I
-Redirect 302 /postmortem /eclipse-postmortem
-Redirect 302 /debug-postmortem /eclipse-postmortem
+Redirect 302 /sockets https://faq.utnso.com.ar/sockets
+Redirect 302 /socket https://faq.utnso.com.ar/socket
+Redirect 302 /serializacion https://faq.utnso.com.ar/serializacion
+Redirect 302 /debug-remote https://faq.utnso.com.ar/debug-remote
+Redirect 302 /bash https://faq.utnso.com.ar/bash
+Redirect 302 /fork https://faq.utnso.com.ar/fork
+Redirect 302 /semaforos https://faq.utnso.com.ar/semaforos
+Redirect 302 /semaforo https://faq.utnso.com.ar/semaforo
+Redirect 302 /errores-eclipse https://faq.utnso.com.ar/errores-eclipse
+Redirect 302 /reportar-errores https://faq.utnso.com.ar/reportar-errores
+Redirect 302 /reportar https://faq.utnso.com.ar/reportar
+Redirect 302 /eclipse-makefile https://faq.utnso.com.ar/eclipse-makefile
+Redirect 302 /eclipse-guia-grafica https://faq.utnso.com.ar/eclipse-guia-grafica
+Redirect 302 /declarar https://faq.utnso.com.ar/declarar
+Redirect 302 /declaraciones https://faq.utnso.com.ar/declaraciones
+Redirect 302 /mati-youtube https://faq.utnso.com.ar/mati-youtube
+Redirect 302 /matiyoutube https://faq.utnso.com.ar/matiyoutube
+Redirect 302 /youtubemati https://faq.utnso.com.ar/youtubemati
+Redirect 302 /youtube-mati https://faq.utnso.com.ar/youtube-mati
+#El documento fue eliminado -> Redirect 302 /cunit https://faq.utnso.com.ar/cunit
+Redirect 302 /eclipse-postmortem https://faq.utnso.com.ar/eclipse-postmortem
+Redirect 302 /postmortem https://faq.utnso.com.ar/postmortem
+Redirect 302 /debug-postmortem https://faq.utnso.com.ar/debug-postmortem
 
-Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
+Redirect 302 /c-wannabe https://faq.utnso.com.ar/c-wannabe
 
 # TP 0
-Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
-Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
-Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
-Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1qXxc8TnHMNiYGHHda9jV1lUU9rBVIrzlK1CTvaLb_2g
-Redirect 302 /workshop /tp0
-Redirect 302 /workshopC /workshop
-Redirect 302 /c /introC
+Redirect 302 /soporte-api https://faq.utnso.com.ar/soporte-api
+Redirect 302 /tp0 https://faq.utnso.com.ar/tp0
+Redirect 302 /tp0.git https://faq.utnso.com.ar/tp0.git
+Redirect 302 /tp0-enunciado https://faq.utnso.com.ar/tp0-enunciado
+Redirect 302 /workshop https://faq.utnso.com.ar/workshop
+Redirect 302 /workshopC https://faq.utnso.com.ar/workshopC
+Redirect 302 /c https://faq.utnso.com.ar/c
 
 # TP
-Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
-Redirect 302 /trabajo-practico /tp
-Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /linuse
-Redirect 302 /enunciado-ppt /linuse-ppt
-Redirect 302 /enunciado-presentacion /enunciado-ppt
-Redirect 302 /errata /enunciado
-Redirect 302 /erratas /errata
-Redirect 302 /pruebas /linuse-pruebas
-Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
+Redirect 302 /tp https://faq.utnso.com.ar/tp
+Redirect 302 /trabajo-practico https://faq.utnso.com.ar/trabajo-practico
+Redirect 302 /enunciado-tp https://faq.utnso.com.ar/enunciado-tp
+Redirect 302 /enunciado https://faq.utnso.com.ar/enunciado
+Redirect 302 /enunciado-ppt https://faq.utnso.com.ar/enunciado-ppt
+Redirect 302 /enunciado-presentacion https://faq.utnso.com.ar/enunciado-presentacion
+Redirect 302 /errata https://faq.utnso.com.ar/errata
+Redirect 302 /erratas https://faq.utnso.com.ar/erratas
+Redirect 302 /pruebas https://faq.utnso.com.ar/pruebas
+Redirect 302 /ntp https://faq.utnso.com.ar/ntp
 
 # LINUSE
-Redirect 302 /linuse https://docs.google.com/document/d/1gKh3IXo3KZMds-8PYA2PQmQfXe14BD2RwXeXOM_EEh0
-Redirect 302 /linuse-ppt https://docs.google.com/presentation/d/1Kx7na56SjRdTzNO-ZDs-sqnoIwVve_IOeuAfQu_vuNA
-Redirect 302 /linuse-ppt-fs https://docs.google.com/presentation/d/1Q5x6kaWE_qvfrHxywLUmNUDwGu9qonrNk7tbKL_PkBg
-Redirect 302 /linuse-pruebas https://docs.google.com/document/d/18P3tJK-Gjxy9M9fuF5calhJXMdH81gBtzNqoI9ANy-U
+Redirect 302 /linuse https://faq.utnso.com.ar/linuse
+Redirect 302 /linuse-ppt https://faq.utnso.com.ar/linuse-ppt
+Redirect 302 /linuse-ppt-fs https://faq.utnso.com.ar/linuse-ppt-fs
+Redirect 302 /linuse-pruebas https://faq.utnso.com.ar/linuse-pruebas
 
 # Lissandra
-Redirect 302 /lissandra https://docs.google.com/document/d/1uMReZYgwPkWuVMxfv_FfyouFpSYVl1kqewOZuyAHw-A
-Redirect 302 /lissandra-ppt https://docs.google.com/presentation/d/1_1YAiVPtfjQdBv9Tzhoeg6GpwjHrUtPIkFR5Ad37X-0
-Redirect 302 /lissandra-pruebas https://docs.google.com/document/d/1p71HveW3wE68YQGh43ZISPAaAQvzxe7GLWYnT__6eW0/edit
-Redirect 302 /lissandra-pruebas-checkpoint https://docs.google.com/document/d/1nz6_9qsP2DjArh595U2SzV93x726Y3LgQNU3OB637Mg
+Redirect 302 /lissandra https://faq.utnso.com.ar/lissandra
+Redirect 302 /lissandra-ppt https://faq.utnso.com.ar/lissandra-ppt
+Redirect 302 /lissandra-pruebas https://faq.utnso.com.ar/lissandra-pruebas
+Redirect 302 /lissandra-pruebas-checkpoint https://faq.utnso.com.ar/lissandra-pruebas-checkpoint
 
 # El Gran TP
-Redirect 302 /grantp https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ
-Redirect 302 /grantp-v1-1 https://www.utnso.com.ar/wp-content/uploads/2018/09/2C2018-El-Gran-TP.pdf
-Redirect 302 /grantp-ppt https://docs.google.com/presentation/d/1x7lZQGYfYxSvrNPqvTkH36pIZjALN1u2FaE5nUdWV50
-Redirect 302 /grantp-pruebas https://docs.google.com/document/d/173yh_fKrWrCos7X6iNstRiFKpuo6tOoU1vxYGKYLr44
-Redirect 302 /grantp-pruebas-checkpoint https://docs.google.com/document/d/1N5BA1lmOHxYUTeN3HlMPqFbVqsRYApDehTHVR_qMXqQ
+Redirect 302 /grantp https://faq.utnso.com.ar/grantp
+Redirect 302 /grantp-v1-1 https://faq.utnso.com.ar/grantp-v1-1
+Redirect 302 /grantp-ppt https://faq.utnso.com.ar/grantp-ppt
+Redirect 302 /grantp-pruebas https://faq.utnso.com.ar/grantp-pruebas
+Redirect 302 /grantp-pruebas-checkpoint https://faq.utnso.com.ar/grantp-pruebas-checkpoint
 
 # Redistinto
-Redirect 302 /redistinto https://sisoputnfrba.gitbook.io/re-distinto/
-Redirect 302 /redistinto-pdf https://www.utnso.com.ar/wp-content/uploads/2018/04/2018-1C-Enunciado-ReDistinto.pdf
-Redirect 302 /redistinto-ppt https://docs.google.com/presentation/d/1KaY9jbIh3oY1qv6yYuPhZK5l21QE2MURuG-y8lk_xFc/edit?usp=sharing
-Redirect 302 /redistinto-presentacion /redistinto-ppt
-Redirect 302 /redistinto-errata https://github.com/sisoputnfrba/2018-1c-re-distinto/compare/1.0...master
-Redirect 302 /redistinto-pruebas https://www.utnso.com.ar/wp-content/uploads/2018/07/TP-1C2018-Re-distinto-Pruebas.pdf
+Redirect 302 /redistinto https://faq.utnso.com.ar/redistinto
+Redirect 302 /redistinto-pdf https://faq.utnso.com.ar/redistinto-pdf
+Redirect 302 /redistinto-ppt https://faq.utnso.com.ar/redistinto-ppt
+Redirect 302 /redistinto-presentacion https://faq.utnso.com.ar/redistinto-presentacion
+Redirect 302 /redistinto-errata https://faq.utnso.com.ar/redistinto-errata
+Redirect 302 /redistinto-pruebas https://faq.utnso.com.ar/redistinto-pruebas
 
 # YAMA
-Redirect 302 /yama https://sisoputnfrba.gitbooks.io/yama-tp-2c2017/content/
-Redirect 302 /yama-pdf https://www.utnso.com.ar/wp-content/uploads/2017/08/2C2017-YAMA.pdf
-Redirect 302 /llama /yama
-Redirect 302 /llama-pdf /yama-pdf
-Redirect 302 /yama-ppt https://docs.google.com/presentation/d/1g6zfAXUjHh5REH4kZlS37rusuU5tex5WxsM9kELaLFo
-Redirect 302 /llama-ppt /yama-ppt
-Redirect 302 /yama-presentacion /yama-ppt
-Redirect 302 /llama-presentacion /yama-ppt
-Redirect 302 /yama-errata https://github.com/sisoputnfrba/2017-2c-yama/compare/736f0ec6c62db5ce2b0714be5acc48efa3d4eea8...master
-Redirect 302 /llama-errata /yama-errata
-Redirect 302 /yama-planificacion https://docs.google.com/presentation/d/1yS2y_DUkH8FWTuCNbA844FOrcYMdq3LSJ0S0FDH3gA4
-Redirect 302 /llama-ppt /yama-planificacion
-Redirect 302 /yama-pruebas https://www.utnso.com.ar/wp-content/uploads/2017/11/TP-2C2017-YAMA-Pruebas.pdf
-Redirect 302 /llama-pruebas /yama-pruebas
+Redirect 302 /yama https://faq.utnso.com.ar/yama
+Redirect 302 /yama-pdf https://faq.utnso.com.ar/yama-pdf
+Redirect 302 /llama https://faq.utnso.com.ar/llama
+Redirect 302 /llama-pdf https://faq.utnso.com.ar/llama-pdf
+Redirect 302 /yama-ppt https://faq.utnso.com.ar/yama-ppt
+Redirect 302 /llama-ppt https://faq.utnso.com.ar/llama-ppt
+Redirect 302 /yama-presentacion https://faq.utnso.com.ar/yama-presentacion
+Redirect 302 /llama-presentacion https://faq.utnso.com.ar/llama-presentacion
+Redirect 302 /yama-errata https://faq.utnso.com.ar/yama-errata
+Redirect 302 /llama-errata https://faq.utnso.com.ar/llama-errata
+Redirect 302 /yama-planificacion https://faq.utnso.com.ar/yama-planificacion
+Redirect 302 /llama-ppt https://faq.utnso.com.ar/llama-ppt
+Redirect 302 /yama-pruebas https://faq.utnso.com.ar/yama-pruebas
+Redirect 302 /llama-pruebas https://faq.utnso.com.ar/llama-pruebas
 
 # ESTheR
-Redirect 302 /esther https://www.utnso.com.ar/wp-content/uploads/2017/03/1C2017-ESTheRElStackTheRevengeV1.0-1.pdf
-Redirect 302 /ester /esther
-Redirect 302 /esther-ppt https://docs.google.com/presentation/d/1ZH16mcO3rzIJNfq-8phIJgJGhrPFuNq3j5WqPWliq0I
-Redirect 302 /ester-ppt /esther-ppt
-Redirect 302 /esther-presentacion /esther-ppt
-Redirect 302 /ester-presentacion /esther-ppt
-Redirect 302 /esther-errata https://github.com/sisoputnfrba/2017-1c-esther-errata/blob/master/errata.md
-Redirect 302 /esther-pruebas http://www.utnso.com.ar/wp-content/uploads/2017/07/1C2017-ESTheR-Pruebas.pdf
+Redirect 302 /esther https://faq.utnso.com.ar/esther
+Redirect 302 /ester https://faq.utnso.com.ar/ester
+Redirect 302 /esther-ppt https://faq.utnso.com.ar/esther-ppt
+Redirect 302 /ester-ppt https://faq.utnso.com.ar/ester-ppt
+Redirect 302 /esther-presentacion https://faq.utnso.com.ar/esther-presentacion
+Redirect 302 /ester-presentacion https://faq.utnso.com.ar/ester-presentacion
+Redirect 302 /esther-errata https://faq.utnso.com.ar/esther-errata
+Redirect 302 /esther-pruebas https://faq.utnso.com.ar/esther-pruebas
 
 # char *mander
-Redirect 302 /charmander https://www.gitbook.com/book/sisoputnfrba/char-mander-tp-2c2016
-Redirect 302 /char-mander /charmander
-Redirect 302 /char_mander /charmander
-Redirect 302 /charmander-errata https://github.com/sisoputnfrba/2016-2c-char-mander/compare/v1.0...master
+Redirect 302 /charmander https://faq.utnso.com.ar/charmander
+Redirect 302 /char-mander https://faq.utnso.com.ar/char-mander
+Redirect 302 /char_mander https://faq.utnso.com.ar/char_mander
+Redirect 302 /charmander-errata https://faq.utnso.com.ar/charmander-errata
 ## Disco ejemplo
-Redirect 302 /charmander-ejemplo.tar.gz https://www.utnso.com.ar/wp-content/uploads/2016/09/ejemplo.tar.gz
+Redirect 302 /charmander-ejemplo.tar.gz https://faq.utnso.com.ar/charmander-ejemplo.tar.gz
 ## Pruebas
-Redirect 302 /base.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.bin
-Redirect 302 /base.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/01-base.gz
-Redirect 302 /completa.bin https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.bin
-Redirect 302 /completa.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.gz
-Redirect 302 /pruebas-charmander https://github.com/sisoputnfrba/so-charmander-pruebas/releases/latest
+Redirect 302 /base.bin https://faq.utnso.com.ar/base.bin
+Redirect 302 /base.bin.gz https://faq.utnso.com.ar/base.bin.gz
+Redirect 302 /completa.bin https://faq.utnso.com.ar/completa.bin
+Redirect 302 /completa.bin.gz https://faq.utnso.com.ar/completa.bin.gz
+Redirect 302 /pruebas-charmander https://faq.utnso.com.ar/pruebas-charmander
 
 
 # Elestac
-Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
-Redirect 302 /elestac-errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
-Redirect 302 /elestac-pruebas https://docs.google.com/document/d/1AUUJ40QaKv8JYmdQWxj49_u8PumP4C7Cd-8fWAX-hQ4/edit
+Redirect 302 /elestac https://faq.utnso.com.ar/elestac
+Redirect 302 /elestac-errata https://faq.utnso.com.ar/elestac-errata
+Redirect 302 /elestac-pruebas https://faq.utnso.com.ar/elestac-pruebas
 
 # Cache13
-Redirect 302 /cache13 https://www.gitbook.com/book/sisoputnfrba/2c2015-enunciado-cache13
-Redirect 302 /cache13-presentacion https://docs.google.com/presentation/d/14aWrtuXexezpM3esquk1YaeNuw0xBjrVJvKdGDpSH24
-Redirect 302 /cache13-pruebas https://docs.google.com/document/d/1jLBmFVHO2XCGHFf08NxsjAgL8-vj8Fk7QJ_lYZtNRgM
-Redirect 302 /cache13-scripts https://github.com/sisoputnfrba/cache13-scripts
+Redirect 302 /cache13 https://faq.utnso.com.ar/cache13
+Redirect 302 /cache13-presentacion https://faq.utnso.com.ar/cache13-presentacion
+Redirect 302 /cache13-pruebas https://faq.utnso.com.ar/cache13-pruebas
+Redirect 302 /cache13-scripts https://faq.utnso.com.ar/cache13-scripts
 
 # ReduceMapFast
-Redirect 302 /reducemapfast https://www.utnso.com.ar/wp-content/uploads/2015/04/ReduceMapFast-1.0.0a.pdf.zip
-Redirect 302 /reduce /reducemapfast
-Redirect 302 /reducemap /reducemapfast
-Redirect 302 /reducemapfast-errata https://github.com/sisoputnfrba/2015-1c-reducemapfast-errata
-Redirect 302 /reduce-errata /reducemapfast-errata
-Redirect 302 /reducemapfast-presentacion https://docs.google.com/presentation/d/1ugtktm5I3oI0j8d1qbFpvNSgyI_vN6U1Rif4o-jug9U
-Redirect 302 /apareando https://docs.google.com/presentation/d/1UtvW_jVlP_-3Aj3LyP-3qm3MhuocgAjlyVCi1W-l0cw
+Redirect 302 /reducemapfast https://faq.utnso.com.ar/reducemapfast
+Redirect 302 /reduce https://faq.utnso.com.ar/reduce
+Redirect 302 /reducemap https://faq.utnso.com.ar/reducemap
+Redirect 302 /reducemapfast-errata https://faq.utnso.com.ar/reducemapfast-errata
+Redirect 302 /reduce-errata https://faq.utnso.com.ar/reduce-errata
+Redirect 302 /reducemapfast-presentacion https://faq.utnso.com.ar/reducemapfast-presentacion
+Redirect 302 /apareando https://faq.utnso.com.ar/apareando
 
 # Rafaga
-Redirect 302 /rafaga https://www.utnso.com.ar/wp-content/uploads/2014/08/2C2014-SO-Rafaga.pdf
-Redirect 302 /rafaga-ppt https://docs.google.com/presentation/d/1nhc7OVKG9Vkbdg8AFSTXjVuksL08tOPqcq8N6UmoNPs
-Redirect 302 /rafaga-algoritmos https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/algoritmos.md#asignaci%C3%B3n-de-algoritmos-de-memoria
-Redirect 302 /rafaga-errata https://github.com/sisoputnfrba/2014-2c-rafaga-errata/blob/master/errata.md#r%C3%A1faga---fe-de-errata
-Redirect 302 /algoritmo /rafaga-algoritmos
-Redirect 302 /algoritmos /rafaga-algoritmos
-Redirect 302 /so-ensamblador https://github.com/sisoputnfrba/so-ensamblador
-Redirect 302 /ensamblador /so-ensamblador
+Redirect 302 /rafaga https://faq.utnso.com.ar/rafaga
+Redirect 302 /rafaga-ppt https://faq.utnso.com.ar/rafaga-ppt
+Redirect 302 /rafaga-algoritmos https://faq.utnso.com.ar/rafaga-algoritmos
+Redirect 302 /rafaga-errata https://faq.utnso.com.ar/rafaga-errata
+Redirect 302 /algoritmo https://faq.utnso.com.ar/algoritmo
+Redirect 302 /algoritmos https://faq.utnso.com.ar/algoritmos
+Redirect 302 /so-ensamblador https://faq.utnso.com.ar/so-ensamblador
+Redirect 302 /ensamblador https://faq.utnso.com.ar/ensamblador
 
 
 # Esta CoverFlow
-Redirect 302 /estacoverflow https://www.utnso.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
-Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/17P5fUmnWcj87Z0xs3Tg5iSW3oSlpOOo0nUKOHU0y0Q0
-Redirect 302 /estacoverflow-errata https://github.com/sisoputnfrba/1c2014-esta-coverflow-errata
-Redirect 302 /estacoverflow-erratas /estacoverflow-errata
-Redirect 302 /parser https://github.com/sisoputnfrba/ansisop-parser
+Redirect 302 /estacoverflow https://faq.utnso.com.ar/estacoverflow
+Redirect 302 /estacoverflow-ppt https://faq.utnso.com.ar/estacoverflow-ppt
+Redirect 302 /estacoverflow-errata https://faq.utnso.com.ar/estacoverflow-errata
+Redirect 302 /estacoverflow-erratas https://faq.utnso.com.ar/estacoverflow-erratas
+Redirect 302 /parser https://faq.utnso.com.ar/parser
 
 # SuperMarioProc RELOADED
-Redirect 302 /supermarioreloaded https://www.utnso.com.ar/wp-content/uploads/2013/09/TP2C2013-SuperMarioProcRELOADED-v1.0.pdf
-Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1Mi8aGaKc-_WuQOg3CeDRg2dLQQvbIH0WxLsV_lVcXd0
-Redirect 302 /presentacion-tp /presentacion-enunciado
-Redirect 302 /presentacionenunciado /presentacion-enunciado
-Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
+Redirect 302 /supermarioreloaded https://faq.utnso.com.ar/supermarioreloaded
+Redirect 302 /presentacion-enunciado https://faq.utnso.com.ar/presentacion-enunciado
+Redirect 302 /presentacion-tp https://faq.utnso.com.ar/presentacion-tp
+Redirect 302 /presentacionenunciado https://faq.utnso.com.ar/presentacionenunciado
+Redirect 302 /disk.bin_.7z https://faq.utnso.com.ar/disk.bin_.7z
 
 
 # SuperMarioProc
-Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
-Redirect 302 /supermario-errata https://docs.google.com/document/d/1HWcW6KG7CblypEvpbqWRdDyqNOFs-cBDi0tvOt8mss4
-# Redirect 302 /notas /supermario-errata
-# Redirect 302 /errata /supermario-errata
-# Redirect 302 /koopa /bin/koopa
-# Redirect 302 /koopa-1.2 /bin/koopa
-# Redirect 302 /pedidos /pedidos.koopa
-# Redirect 302 /pedido /pedidos.koopa
-# Redirect 302 /ejemplo-koopa /pedidos.koopa
+Redirect 302 /supermario https://faq.utnso.com.ar/supermario
+Redirect 302 /supermario-errata https://faq.utnso.com.ar/supermario-errata
+# Redirect 302 /notas https://faq.utnso.com.ar/notas
+# Redirect 302 /errata https://faq.utnso.com.ar/errata
+# Redirect 302 /koopa https://faq.utnso.com.ar/koopa
+# Redirect 302 /koopa-1.2 https://faq.utnso.com.ar/koopa-1.2
+# Redirect 302 /pedidos https://faq.utnso.com.ar/pedidos
+# Redirect 302 /pedido https://faq.utnso.com.ar/pedido
+# Redirect 302 /ejemplo-koopa https://faq.utnso.com.ar/ejemplo-koopa
 
 # Redirecciones del FAQ
-Redirect 302 /faq https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /ld-library-path https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /segfault https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /SIGSEGV /segfault
-Redirect 302 /sigsegv /segfault
-Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /inotify-vi https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /estructurado https://docs.google.com/document/d/18nEaKcG7MUYcle_5ooxbABHyDaSv60AnehOhsoKgOsw/edit?usp=drivesdk
+Redirect 302 /faq https://faq.utnso.com.ar/faq
+Redirect 302 /ld-library-path https://faq.utnso.com.ar/ld-library-path
+Redirect 302 /segfault https://faq.utnso.com.ar/segfault
+Redirect 302 /SIGSEGV https://faq.utnso.com.ar/SIGSEGV
+Redirect 302 /sigsegv https://faq.utnso.com.ar/sigsegv
+Redirect 302 /desaparece-proyecto https://faq.utnso.com.ar/desaparece-proyecto
+Redirect 302 /inotify-vi https://faq.utnso.com.ar/inotify-vi
+Redirect 302 /estructurado https://faq.utnso.com.ar/estructurado
 
-Redirect 302 /beej http://www.tyr.unlu.edu.ar/tyr/TYR-trab/satobigal/documentacion/beej/index.html
-Redirect 302 /beej-es /beej
-Redirect 302 /beej_es /beej
-Redirect 302 /beej-en http://beej.us/guide/bgnet/html/
-Redirect 302 /beej_en /beej-en
+Redirect 302 /beej https://faq.utnso.com.ar/beej
+Redirect 302 /beej-es https://faq.utnso.com.ar/beej-es
+Redirect 302 /beej_es https://faq.utnso.com.ar/beej_es
+Redirect 302 /beej-en https://faq.utnso.com.ar/beej-en
+Redirect 302 /beej_en https://faq.utnso.com.ar/beej_en
 
 # Meta
-Redirect 302 /agregar https://github.com/sisoputnfrba/faqoperativos-links/edit/master/.htaccess
-Redirect 302 /meta /agregar
-Redirect 302 /levantando.bat https://gist.githubusercontent.com/mgarciaisaia/ce9c1a0dd9bca9ca740a7a4e0034d87f/raw/28e26546da199c5ba38fb7c94e5dc4d38896d34e/levantando.bat
+Redirect 302 /agregar https://faq.utnso.com.ar/agregar
+Redirect 302 /meta https://faq.utnso.com.ar/meta
+Redirect 302 /levantando.bat https://faq.utnso.com.ar/levantando.bat
