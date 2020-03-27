@@ -62,6 +62,8 @@ Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534
 Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 
+Redirect 302 /ngrok-cli https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
+
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 
