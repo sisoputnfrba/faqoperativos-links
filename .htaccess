@@ -133,9 +133,9 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 
 # TP 0
 Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
-Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
-Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
-Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1qXxc8TnHMNiYGHHda9jV1lUU9rBVIrzlK1CTvaLb_2g
+Redirect 302 /tp0 https://github.com/sisoputnfrba/Game-watch-client
+Redirect 302 /tp0.git https://github.com/sisoputnfrba/Game-watch-client.git
+Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1gtRuMuyx9OqpaaaZKNGfg6UnNcns60eP4bQNXmnFHYs
 Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /c /introC
