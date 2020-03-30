@@ -35,7 +35,7 @@ Redirect 302 /labo /laboratorio
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
 
-Redirect 302 /calendario https://calendar.google.com/calendar?cid=ZGc5cHViY2ZkdXE1M21tbmhoaHRnOGowMjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+Redirect 302 /calendario https://calendar.google.com/calendar/embed?color=%23f83a22&src=dg9pubcfduq53mmnhhhtg8j020@group.calendar.google.com
 Redirect 302 /calendar /calendario
 Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
 Redirect 302 /todos /todo
