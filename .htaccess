@@ -66,6 +66,7 @@ Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-
 
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
+Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
 
 # "Teoria"
 Redirect 302 /arrancar https://drive.google.com/file/d/19BtIDx2yBI-owgPCavCpUr6-SUVwUB_I/view
