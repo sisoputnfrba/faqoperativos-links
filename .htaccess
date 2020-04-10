@@ -129,6 +129,7 @@ Redirect 302 /youtube-mati /mati-youtube
 Redirect 302 /eclipse-postmortem https://www.youtube.com/watch?v=-CI4MexyU3I
 Redirect 302 /postmortem /eclipse-postmortem
 Redirect 302 /debug-postmortem /eclipse-postmortem
+Redirect 302 /ngrok https://www.youtube.com/watch?v=vFkmdQVn4Ug
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
