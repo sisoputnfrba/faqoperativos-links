@@ -6,6 +6,7 @@ Redirect 302 /blog https://www.utnso.com.ar/
 
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
+Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
 
 Redirect 302 /suscripciones http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/forum/index.php?id=188
 Redirect 302 /susc /suscripciones
