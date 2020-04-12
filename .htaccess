@@ -79,7 +79,7 @@ Redirect 302 /como-empezar /arrancar
 Redirect 302 /intro-al-tp https://docs.google.com/presentation/d/1VHaTWwc9bBh-S9vNLpX9lG1Urs8raiKaEo_UY1UKKos
 
 Redirect 302 /valgrind https://docs.google.com/document/d/1J3VlYp1oIONUSjjSJ5U1elljS5AQv9chbY5T7mZqQqY/edit
-Redirect 302 /ejercicios https://docs.google.com/document/d/1n_u1E8uKzExstQEJR_lJBBsT0P5Ru9kG-yW5VUiYnLs/edit
+Redirect 302 /ejercicios https://docs.google.com/document/d/1HSO63oQUx8tJH6dlDyjktShKXuEfpGpi3ZnRoPN6SYY/edit
 Redirect 302 /introC https://docs.google.com/presentation/d/1lpRmd4jRZjiR7NmSPZ5vJbIZkWt8fnw9qQ6tYIypulM
 Redirect 302 /introc /introC
 Redirect 302 /senales https://docs.google.com/presentation/d/16vml3EWLEV6OByTC3o-ObKCMA7m2zd-Uw6O2qu-VNuQ
