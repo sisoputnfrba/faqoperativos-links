@@ -147,13 +147,17 @@ Redirect 302 /c /introC
 Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /linuse
-Redirect 302 /enunciado-ppt /linuse-ppt
+Redirect 302 /enunciado /delibird
+Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /pruebas /linuse-pruebas
+Redirect 302 /pruebas /delibird-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
+
+# Delibird
+Redirect 302 /delibird https://docs.google.com/document/d/1be91Gn93O2Vp8frZoV1i5CmtOG0scE1PS8dMHsCP314
+Redirect 404 /delibird-pruebas
 
 # LINUSE
 Redirect 302 /linuse https://docs.google.com/document/d/1gKh3IXo3KZMds-8PYA2PQmQfXe14BD2RwXeXOM_EEh0
