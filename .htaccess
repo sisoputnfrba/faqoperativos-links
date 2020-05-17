@@ -98,7 +98,9 @@ Redirect 302 /fuse https://docs.google.com/presentation/d/1a5rZxTozEwbespLPXfiqj
 Redirect 302 /FUSE /fuse
 Redirect 302 /fuse-old https://docs.google.com/presentation/d/1yka66_uJNpBBdUwe3Ru5IUdrablA2dXo_r6S_oKbIwY
 
-Redirect 302 /shared-library http://www.youtube.com/watch?v=s5ac8CPDkMg
+Redirect 302 /shared-library-2012 http://www.youtube.com/watch?v=s5ac8CPDkMg
+Redirect 302 /shared-library-2020 https://youtu.be/A6dhc9cCI18
+Redirect 302 /shared-library /shared-library-2020
 Redirect 302 /shared-libraries /shared-library
 Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
 Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
