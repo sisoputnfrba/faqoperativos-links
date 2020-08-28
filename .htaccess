@@ -157,10 +157,12 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /delibird-pruebas
+Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
 
 #Pedidos Ya
 Redirect 302 /pedidos-ya https://docs.google.com/document/d/13JCJawPWfL2y6wGTBYykUTvQY5Uso0iYpXSFDAQFbFw
+Redirect 302 /intro-pedidos-ya https://www.youtube.com/watch?v=n4zWjlTwDtw
 
 # Delibird
 Redirect 302 /delibird https://docs.google.com/document/d/1be91Gn93O2Vp8frZoV1i5CmtOG0scE1PS8dMHsCP314
