@@ -36,7 +36,7 @@ Redirect 302 /labo /laboratorio
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
 Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687675222849093733
-Redirect 302 /discord-invite https://discord.gg/ySJZGZt
+Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 
 Redirect 302 /calendario https://calendar.google.com/calendar/embed?color=%23f83a22&src=dg9pubcfduq53mmnhhhtg8j020@group.calendar.google.com
 Redirect 302 /calendar /calendario
@@ -157,7 +157,6 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /delibird-pruebas
-Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
 
 #Pedidos Ya
