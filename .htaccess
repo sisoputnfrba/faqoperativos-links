@@ -302,8 +302,8 @@ Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/1majyhMFRdZ
 Redirect 302 /inotify-vi https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
 Redirect 302 /estructurado https://docs.google.com/document/d/18nEaKcG7MUYcle_5ooxbABHyDaSv60AnehOhsoKgOsw/edit?usp=drivesdk
 
-Redirect 302 /beej http://www.tyr.unlu.edu.ar/tyr/TYR-trab/satobigal/documentacion/beej/index.html
-Redirect 302 /beej-es /beej
+Redirect 302 /beej http://beej.us/guide/bgnet/
+Redirect 302 /beej-es http://index-of.co.uk/Programming/Beej-Programacion-en-Redes.pdf
 Redirect 302 /beej_es /beej
 Redirect 302 /beej-en http://beej.us/guide/bgnet/html/
 Redirect 302 /beej_en /beej-en
