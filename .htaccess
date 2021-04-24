@@ -28,11 +28,11 @@ Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 Redirect 302 /issues https://github.com/sisoputnfrba/issues/issues
 Redirect 302 /issue /issues
 
-Redirect 302 /soporte https://docs.google.com/spreadsheets/d/1dKTeyFTUtNtY1_9zDcPzExXDsoby-p8th4y9Oqamouk/edit
-Redirect 302 /sabado /soporte
-Redirect 302 /sabados /soporte
-Redirect 302 /laboratorio /soporte
-Redirect 302 /labo /laboratorio
+#Redirect 302 /soporte ....
+#Redirect 302 /sabado /soporte
+#Redirect 302 /sabados /soporte
+#Redirect 302 /laboratorio /soporte
+#Redirect 302 /labo /laboratorio
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
 Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687675222849093733
