@@ -151,13 +151,18 @@ Redirect 302 /c /introC
 Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /pedidos-ya
+Redirect 302 /enunciado /a-mongos
+Redirect 302 /enunciado-video /intro-a-mongos
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /pruebas /delibird-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
+
+# A-MongOs
+Redirect 302 /a-mongos https://docs.google.com/document/d/1u54jk7uKaa6BOAXgLuNVfeYN_mwPBje94iX_6KqvqJo
+Redirect 302 /intro-a-mongos https://youtu.be/-DDtMBYePjs
 
 #Pedidos Ya
 Redirect 302 /pedidos-ya https://docs.google.com/document/d/13JCJawPWfL2y6wGTBYykUTvQY5Uso0iYpXSFDAQFbFw
