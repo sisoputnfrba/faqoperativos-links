@@ -1,5 +1,5 @@
 # Estaticos
-Redirect 302 /cv http://campusvirtual.frba.utn.edu.ar/especialidad/course/view.php?id=188
+Redirect 302 /cv https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
 Redirect 302 /blog https://www.utnso.com.ar/
@@ -8,7 +8,7 @@ Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
 
-Redirect 302 /suscripciones http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/forum/index.php?id=188
+Redirect 302 /suscripciones https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /susc /suscripciones
 Redirect 302 /suscrip /suscripciones
 Redirect 302 /suscripcion /suscripciones
@@ -38,14 +38,13 @@ Redirect 302 /foros /foro
 Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687675222849093733
 Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 
-Redirect 302 /calendario https://calendar.google.com/calendar/embed?color=%23f83a22&src=dg9pubcfduq53mmnhhhtg8j020@group.calendar.google.com
+Redirect 302 /calendario ....
 Redirect 302 /calendar /calendario
 Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
 Redirect 302 /todos /todo
 Redirect 302 /TODO  /todo
 Redirect 302 /TODOs /todo
 
-# Redirect 302 /wiki-tp http://www.campusvirtual.frba.utn.edu.ar/especialidad/mod/wiki/view.php?id=14783
 Redirect 302 /inscripciones https://inscripciones.utnso.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
@@ -287,8 +286,8 @@ Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
 
 
 # SuperMarioProc
-Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
-Redirect 302 /supermario-errata https://docs.google.com/document/d/1HWcW6KG7CblypEvpbqWRdDyqNOFs-cBDi0tvOt8mss4
+# Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
+# Redirect 302 /supermario-errata https://docs.google.com/document/d/1HWcW6KG7CblypEvpbqWRdDyqNOFs-cBDi0tvOt8mss4
 # Redirect 302 /notas /supermario-errata
 # Redirect 302 /errata /supermario-errata
 # Redirect 302 /koopa /bin/koopa
@@ -298,13 +297,13 @@ Redirect 302 /supermario-errata https://docs.google.com/document/d/1HWcW6KG7Cbly
 # Redirect 302 /ejemplo-koopa /pedidos.koopa
 
 # Redirecciones del FAQ
-Redirect 302 /faq https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /ld-library-path https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /segfault https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /SIGSEGV /segfault
-Redirect 302 /sigsegv /segfault
-Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
-Redirect 302 /inotify-vi https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+# Redirect 302 /faq https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+# Redirect 302 /ld-library-path https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+# Redirect 302 /segfault https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+# Redirect 302 /SIGSEGV /segfault
+# Redirect 302 /sigsegv /segfault
+# Redirect 302 /desaparece-proyecto https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
+# Redirect 302 /inotify-vi https://docs.google.com/document/d/1majyhMFRdZuLLOUCp-PrmiWzQbcMnllWX9PRaR8DTIk
 Redirect 302 /estructurado https://docs.google.com/document/d/18nEaKcG7MUYcle_5ooxbABHyDaSv60AnehOhsoKgOsw/edit?usp=drivesdk
 
 Redirect 302 /beej http://beej.us/guide/bgnet/
