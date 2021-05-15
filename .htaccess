@@ -38,7 +38,7 @@ Redirect 302 /foros /foro
 Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687675222849093733
 Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 
-Redirect 302 /calendario ....
+#Redirect 302 /calendario ....
 Redirect 302 /calendar /calendario
 Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
 Redirect 302 /todos /todo
