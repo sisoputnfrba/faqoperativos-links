@@ -48,8 +48,6 @@ Redirect 302 /TODOs /todo
 Redirect 302 /inscripciones https://inscripciones.utnso.com.ar/
 Redirect 302 /inscripcion /inscripciones
 Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
-Redirect 302 /videos https://www.utnso.com.ar/recursos/video-tutoriales/
-Redirect 302 /video /videos
 Redirect 302 /mariobash https://mariobash.utnso.com.ar/
 Redirect 302 /punteros https://docs.google.com/document/d/1v6eKBOSDc17bUjbw8SziuyqGqkzonBwkFUq5nvhYbyk
 Redirect 302 /git https://docs.google.com/presentation/d/1nDfC86Zs6GB7_FiWt3q2RcjqUQlZReGWMlmOqLx0VGk/edit
@@ -319,3 +317,44 @@ Redirect 302 /levantando.bat https://gist.githubusercontent.com/mgarciaisaia/ce9
 
 # Clases
 Redirect 302 /clase-adriano https://meet.google.com/yfv-enmf-iqo
+
+# videos
+Redirect 302 /videos https://www.utnso.com.ar/recursos/video-tutoriales/
+Redirect 302 /video /videos
+Redirect 302 /video-inscripciones https://youtu.be/iwJRsZxX7Kk
+Redirect 302 /video-creacion-vm https://youtu.be/DmkSXv_Xa-U
+Redirect 302 /video-guest-additions https://youtu.be/uMoO58tPc5c
+Redirect 302 /video-compartir-portapapeles https://youtu.be/xJ52dDTfCHo
+Redirect 302 /video-snapshots https://youtu.be/u1L23ziKgz4
+Redirect 302 /video-guardar-vm https://youtu.be/YqFybzQmqOc
+Redirect 302 /video-git-primeros-pasos https://www.youtube.com/watch?v=vHuFZM6aElY
+Redirect 302 /video-git-clonar https://youtu.be/dc9G_y5NixY
+Redirect 302 /video-git-ciclo https://youtu.be/c2DEcJh0h38
+Redirect 302 /video-git-avanzado https://youtu.be/mawMGxE4048
+Redirect 302 /video-git-eclipse https://youtu.be/WWQ8zFji_k0
+Redirect 302 /video-git-comandos-basicos https://www.youtube.com/playlist?list=PL6oA23OrxDZDdJFevO8mR9QzObRokrym_
+Redirect 302 /video-eclipse https://youtu.be/gqvDRQwncio
+Redirect 302 /video-eclipse-hello-world-1 https://youtu.be/2X9vfLSeB6A
+Redirect 302 /video-eclipse-hello-world-2 https://youtu.be/J2-6oba0xYE
+Redirect 302 /video-eclipse-import-git https://youtu.be/v1-POeJtW3E
+Redirect 302 /video-eclipse-import-makefile https://youtu.be/PgrORWmUxkI
+Redirect 302 /video-eclipse-crear-git https://youtu.be/4G7bx22A2Jk
+Redirect 302 /video-eclipse-integrar-git https://youtu.be/7TGR4chN-PY
+Redirect 302 /video-eclipse-shared-library https://youtu.be/A6dhc9cCI18
+Redirect 302 /video-eclipse-shared-library-old https://youtu.be/Aw9kXFqWu_I
+Redirect 302 /video-terminal-debugging https://youtu.be/KlKLSGaOZok
+Redirect 302 /video-eclipse-debugging https://youtu.be/0OhCEzVgdRA
+Redirect 302 /video-eclipse-debug-postmortem https://youtu.be/JkryXLsX2xE
+Redirect 302 /video-eclipse-shared-ingles https://www.youtube.com/watch?v=9GHERvUS6m8
+Redirect 302 /video-linux-comandos-basicos https://www.youtube.com/watch?v=NmQlvnq-f3g
+Redirect 302 /video-intro-c https://youtu.be/caeklleBJDI
+Redirect 302 /video-c-gdb-1 https://youtu.be/IteUvGWCrmc
+Redirect 302 /video-c-gdb-2 https://youtu.be/FzxE5WCREgo
+Redirect 302 /video-gcc-makefile-1 https://youtu.be/OHfMNqe-Fdw
+Redirect 302 /video-gcc-makefile-2 https://youtu.be/JafEOsYEdVI
+Redirect 302 /video-hilos-mutex https://youtu.be/V5s6gRckuro
+Redirect 302 /video-sockets-1 https://youtu.be/87gwfsJ_83o
+Redirect 302 /video-sockets-2 https://youtu.be/aWMm369uiA0
+Redirect 302 /video-sockets-3 https://youtu.be/IWyGFJFVWB8
+Redirect 302 /video-sockets-4 https://youtu.be/et6CQ5CGtWA
+Redirect 302 /video-mapreduce-apareo https://youtu.be/OIAxY6TGMZQ
