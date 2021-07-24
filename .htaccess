@@ -7,8 +7,16 @@ Redirect 302 /blog https://www.utnso.com.ar/
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
+Redirect 302 /crear-vm https://youtu.be/5W5QwFAHEes
 Redirect 302 /vm-server-1 https://drive.google.com/file/d/1jGF7-j2uuxhSaPNArJDTaFsBSkXEEgNd/view
 Redirect 302 /vm-server-2 https://drive.google.com/file/d/1pSJo2n4daj3Ef-9TkEUyIkjovT74MGu7/view
+Redirect 302 /vm-gui-1 https://drive.google.com/file/d/1TQyhz5jM8c5N9y8ekHzDNYysUN3yXwS8/view
+Redirect 302 /vm-gui-2 https://drive.google.com/file/d/1_QZIYrgsGwp7-lg4a84yUuS0kug28MLl/view
+Redirect 302 /vm-gui-3 https://drive.google.com/file/d/1ooVOdTTwMmT6JjSZR20bvjJkVoIBwIPm/view
+Redirect 302 /vm-gui-4 https://drive.google.com/file/d/1rWYZrTauzzEN0jz3GMlNJa_NQR7tikhW/view
+Redirect 302 /vm-gui-5 https://drive.google.com/file/d/1UvUGLJcRKNmOtQqWmcvXyvA3Z7Z7EwFG/view
+Redirect 302 /vm-lenta https://github.com/sisoputnfrba/foro/issues/1007
+
 
 Redirect 302 /suscripciones https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /susc /suscripciones
@@ -103,7 +111,7 @@ Redirect 302 /shared-library /shared-library-2020
 Redirect 302 /shared-libraries /shared-library
 Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
 Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
-Redirect 302 /guest-additions http://youtu.be/oDZhqo7rsu0
+Redirect 302 /guest-additions https://youtu.be/G3rFKfyoQEs
 Redirect 302 /guest-aditions /guest-additions
 Redirect 302 /exercises /ejercicios
 Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
@@ -113,6 +121,7 @@ Redirect 302 /video-threads https://www.youtube.com/watch?v=V5s6gRckuro
 Redirect 302 /sockets https://docs.google.com/presentation/d/1562EJP6O9-LHaw-kp8CySPS41Glod3IzB2xv-aGfzQE
 Redirect 302 /socket /sockets
 Redirect 302 /serializacion https://docs.google.com/presentation/d/1-S30Imgw-4KxIyHK-p7kO07UZdY7OGrLTXSGhfkl1Ug
+Redirect 302 /multiplexacion https://docs.google.com/presentation/d/1NaEQjzsyoNbnuyH1wmClfnTb2EUn5MIGYyLaRru4Y14
 Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
 Redirect 302 /bash https://docs.google.com/presentation/d/1_yLMZNffFHL-mfW-6G2JHYv528PJHs3nWQ-A69rbmQ4
 Redirect 302 /fork https://docs.google.com/presentation/d/1276r2sA2D-oQ1lpv0DS9nlyAIAIpjRma55CXKtYvT_o
