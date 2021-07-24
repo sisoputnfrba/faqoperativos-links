@@ -7,6 +7,8 @@ Redirect 302 /blog https://www.utnso.com.ar/
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
+Redirect 302 /vm-server-1 https://drive.google.com/file/d/1jGF7-j2uuxhSaPNArJDTaFsBSkXEEgNd/view
+Redirect 302 /vm-server-2 https://drive.google.com/file/d/1pSJo2n4daj3Ef-9TkEUyIkjovT74MGu7/view
 
 Redirect 302 /suscripciones https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /susc /suscripciones
