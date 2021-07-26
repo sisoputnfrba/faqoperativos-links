@@ -3,6 +3,7 @@ Redirect 302 /cv https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
 Redirect 302 /blog https://www.utnso.com.ar/
+Redirect 302 /youtube https://www.youtube.com/channel/UCPv858YLpdTylSrxsLM4DJA
 
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
@@ -379,6 +380,7 @@ Redirect 302 /guia-tipos-arquitectura https://mgarciaisaia.github.io/tutorial-c/
 Redirect 302 /guia-consola-interactiva https://medium.com/@tferraro/readline-la-biblioteca-de-gnu-que-hace-devs-felices-349539501cad
 Redirect 302 /guia-sockets https://docs.google.com/document/d/11CH_a-Uw5CRXWgscKvrUuGQsiaqy_hE3_njJ4YXv5cI
 Redirect 302 /guia-uso-select https://developerweb.net/viewtopic.php?id=2934
+Redirect 302 /guia-uso-select-v2 https://gist.github.com/iago64/9f6acf5959846dc2a0f548ae3af7d34d
 Redirect 302 /guia-debug-eclipe https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
 Redirect 302 /guia-valgrind /valgrind
 Redirect 302 /guia-cunit https://drive.google.com/file/d/1S5uSmkmKw66erjuHb7tb4UmDdklk8YaC/view?usp=sharing
