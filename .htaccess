@@ -151,7 +151,7 @@ Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHed
 Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
-Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1fWasPFTUQrU-D0giMYRkbgu0hnAwjVzxCp_bCavnP8c/edit?usp=sharing
+Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1wBsTIlPc_4UKyHRUVxoY3VIepBO_tMq9CNqz3wGoGlA/edit?usp=sharing
 Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /c /introC
