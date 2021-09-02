@@ -375,10 +375,11 @@ Redirect 302 /video-mapreduce-apareo https://youtu.be/OIAxY6TGMZQ
 Redirect 302 /guia-repaso-arquitectura https://mgarciaisaia.github.io/simplecpu/
 Redirect 302 /guia-intro-c https://mgarciaisaia.github.io/tutorial-c/lo-c-tutto/
 Redirect 302 /guia-punteros /punteros
+Redirect 302 /guia-serializacion https://docs.google.com/document/d/1p-fPJakf7zpN5u8C0TTGZwZ1-VgC8dcqpE48lbIApmA/edit?usp=sharing
 Redirect 302 /guia-buenas-practicas-c https://docs.google.com/document/d/1gylN2yuIN8t7QNqiQjR4cBlgbwkdprc1QENLGCrZivU/pub
 Redirect 302 /guia-tipos-arquitectura https://mgarciaisaia.github.io/tutorial-c/blog/2014/12/26/int-vs-int32-t/
 Redirect 302 /guia-consola-interactiva https://medium.com/@tferraro/readline-la-biblioteca-de-gnu-que-hace-devs-felices-349539501cad
-Redirect 302 /guia-sockets https://docs.google.com/document/d/11CH_a-Uw5CRXWgscKvrUuGQsiaqy_hE3_njJ4YXv5cI
+Redirect 302 /guia-sockets https://docs.google.com/document/d/17E5ge5eC6wRAeh5AWETRBB7UrmqBQ6i0JjfUD7KRY68/edit?usp=sharing
 Redirect 302 /guia-uso-select https://developerweb.net/viewtopic.php?id=2934
 Redirect 302 /guia-uso-select-v2 https://gist.github.com/iago64/9f6acf5959846dc2a0f548ae3af7d34d
 Redirect 302 /guia-debug-eclipe https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
