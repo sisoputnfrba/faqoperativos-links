@@ -169,10 +169,6 @@ Redirect 302 /erratas /errata
 Redirect 302 /pruebas /delibird-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
 
-# CarpinchOs
-Redirect 302 /carpinchos https://docs.google.com/document/d/1BDpr5lfzOAqmOOgcAVg6rUqvMPUfCpMSz1u1J_Vjtac
-
-
 # A-MongOs
 Redirect 302 /a-mongos https://docs.google.com/document/d/1u54jk7uKaa6BOAXgLuNVfeYN_mwPBje94iX_6KqvqJo
 Redirect 302 /intro-a-mongos https://youtu.be/-DDtMBYePjs
