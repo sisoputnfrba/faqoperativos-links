@@ -161,7 +161,7 @@ Redirect 302 /c /introC
 Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /carpinchos
+Redirect 302 /enunciado /kiss
 # Redirect 302 /enunciado-video /intro-a-mongos
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
@@ -169,6 +169,9 @@ Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 # Redirect 302 /pruebas /delibird-pruebas
 Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
+
+# KISS
+Redirect 302 /kiss https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit?usp=sharing
 
 # CarpinchOS
 Redirect 302 /carpinchos https://docs.google.com/document/d/1BDpr5lfzOAqmOOgcAVg6rUqvMPUfCpMSz1u1J_Vjtac
