@@ -5,6 +5,10 @@ Redirect 302 /campusvirtual /cv
 Redirect 302 /blog https://www.utnso.com.ar/
 Redirect 302 /youtube https://www.youtube.com/channel/UCPv858YLpdTylSrxsLM4DJA
 
+Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/base-server.sh
+Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/interfaz-grafica.sh
+Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/theme.sh
+
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
