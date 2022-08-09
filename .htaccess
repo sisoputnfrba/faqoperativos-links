@@ -5,10 +5,6 @@ Redirect 302 /campusvirtual /cv
 Redirect 302 /blog https://www.utnso.com.ar/
 Redirect 302 /youtube https://www.youtube.com/channel/UCPv858YLpdTylSrxsLM4DJA
 
-Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/base-server.sh
-Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/interfaz-grafica.sh
-Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/theme.sh
-
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
@@ -79,6 +75,11 @@ Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
+
+Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/base-server.sh
+Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/interfaz-grafica.sh
+Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/theme.sh
+Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/clion.sh
 
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
