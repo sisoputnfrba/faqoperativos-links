@@ -76,10 +76,10 @@ Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/87441
 
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
 
-Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/base-server.sh
-Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/interfaz-grafica.sh
-Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/theme.sh
-Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/clion.sh
+Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/af8ee0194236bf437979064b67acbf37464b8ef3/base-server.sh
+Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/af8ee0194236bf437979064b67acbf37464b8ef3/interfaz-grafica.sh
+Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/af8ee0194236bf437979064b67acbf37464b8ef3/theme.sh
+Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/af8ee0194236bf437979064b67acbf37464b8ef3/clion.sh
 
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
