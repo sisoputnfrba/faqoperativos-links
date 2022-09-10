@@ -9,13 +9,15 @@ Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
 Redirect 302 /crear-vm /video-creacion-vm
-Redirect 302 /vm-server-1 https://drive.google.com/file/d/1jGF7-j2uuxhSaPNArJDTaFsBSkXEEgNd/view
-Redirect 302 /vm-server-2 https://drive.google.com/file/d/1pSJo2n4daj3Ef-9TkEUyIkjovT74MGu7/view
-Redirect 302 /vm-gui-1 https://drive.google.com/file/d/1TQyhz5jM8c5N9y8ekHzDNYysUN3yXwS8/view
-Redirect 302 /vm-gui-2 https://drive.google.com/file/d/1_QZIYrgsGwp7-lg4a84yUuS0kug28MLl/view
-Redirect 302 /vm-gui-3 https://drive.google.com/file/d/1ooVOdTTwMmT6JjSZR20bvjJkVoIBwIPm/view
-Redirect 302 /vm-gui-4 https://drive.google.com/file/d/1rWYZrTauzzEN0jz3GMlNJa_NQR7tikhW/view
-Redirect 302 /vm-gui-5 https://drive.google.com/file/d/1UvUGLJcRKNmOtQqWmcvXyvA3Z7Z7EwFG/view
+Redirect 302 /vm-server https://drive.google.com/drive/folders/1DWu7qZCgwuFoKnWXmSO0S0B_wcbjdQi5?usp=sharing
+Redirect 302 /vm-server-1 /vm-server
+Redirect 302 /vm-server-2 /vm-server
+Redirect 302 /vm-gui https://drive.google.com/drive/folders/1RItb6HRRNtht0m4VruPMiJQAlLJdy3kB?usp=sharing
+Redirect 302 /vm-gui-1 /vm-gui
+Redirect 302 /vm-gui-2 /vm-gui
+Redirect 302 /vm-gui-3 /vm-gui
+Redirect 302 /vm-gui-4 /vm-gui
+Redirect 302 /vm-gui-5 /vm-gui
 Redirect 302 /vm-lenta https://github.com/sisoputnfrba/foro/issues/1007
 
 
@@ -72,6 +74,8 @@ Redirect 302 /git-gui /egit
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
 Redirect 302 /get-and-compile-repo.sh https://gist.github.com/marcogatti/7635534/raw/3d8fea4b2e822a66e044df1696258c14b5c2d6c1/get-and-compile-repo.sh
 Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
+Redirect 302 /commons-src https://github.com/sisoputnfrba/so-commons-library/tree/master/src/commons
+Redirect 302 /commons-unit-tests https://github.com/sisoputnfrba/so-commons-library/tree/master/tests/unit-tests
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
