@@ -38,7 +38,7 @@ Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 
 Redirect 302 /issues https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /issue /issues
-Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/2583
+Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/2805
 
 Redirect 404 /soporte
 Redirect 302 /sabado /soporte
@@ -75,6 +75,11 @@ Redirect 302 /commons https://github.com/sisoputnfrba/so-commons-library
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
+
+Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/5fcf982e84b84bc791250c700a1af3c5ff88cd98/base-server.sh
+Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/5fcf982e84b84bc791250c700a1af3c5ff88cd98/interfaz-grafica.sh
+Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/5fcf982e84b84bc791250c700a1af3c5ff88cd98/theme.sh
+Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/5fcf982e84b84bc791250c700a1af3c5ff88cd98/clion.sh
 
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
@@ -160,7 +165,7 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /kiss
+Redirect 302 /enunciado /geck
 Redirect 302 /pruebas /kiss-pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
@@ -168,6 +173,9 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
+
+# GECK
+Redirect 302 /geck https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit?usp=sharing
 
 # KISS
 Redirect 302 /kiss https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit?usp=sharing
