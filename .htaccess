@@ -8,7 +8,7 @@ Redirect 302 /youtube https://www.youtube.com/channel/UCPv858YLpdTylSrxsLM4DJA
 Redirect 302 /vms https://www.utnso.com.ar/recursos/maquinas-virtuales/
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
-Redirect 302 /crear-vm https://youtu.be/5W5QwFAHEes
+Redirect 302 /crear-vm /video-creacion-vm
 Redirect 302 /vm-server-1 https://drive.google.com/file/d/1jGF7-j2uuxhSaPNArJDTaFsBSkXEEgNd/view
 Redirect 302 /vm-server-2 https://drive.google.com/file/d/1pSJo2n4daj3Ef-9TkEUyIkjovT74MGu7/view
 Redirect 302 /vm-gui-1 https://drive.google.com/file/d/1TQyhz5jM8c5N9y8ekHzDNYysUN3yXwS8/view
@@ -19,7 +19,7 @@ Redirect 302 /vm-gui-5 https://drive.google.com/file/d/1UvUGLJcRKNmOtQqWmcvXyvA3
 Redirect 302 /vm-lenta https://github.com/sisoputnfrba/foro/issues/1007
 
 
-Redirect 302 /suscripciones https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
+Redirect 302 /suscripciones /cv
 Redirect 302 /susc /suscripciones
 Redirect 302 /suscrip /suscripciones
 Redirect 302 /suscripcion /suscripciones
@@ -36,21 +36,21 @@ Redirect 302 /github https://github.com/sisoputnfrba
 Redirect 302 /gh /github
 Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 
-Redirect 302 /issues https://github.com/sisoputnfrba/issues/issues
+Redirect 302 /issues https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /issue /issues
 Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/2805
 
-#Redirect 302 /soporte ....
-#Redirect 302 /sabado /soporte
-#Redirect 302 /sabados /soporte
-#Redirect 302 /laboratorio /soporte
-#Redirect 302 /labo /laboratorio
-Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
+Redirect 404 /soporte
+Redirect 302 /sabado /soporte
+Redirect 302 /sabados /soporte
+Redirect 302 /laboratorio /soporte
+Redirect 302 /labo /laboratorio
+Redirect 302 /foro https://github.com/sisoputnfrba/foro
 Redirect 302 /foros /foro
 Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687675222849093733
 Redirect 302 /discord-invite https://discord.gg/kSbb7GQ
 
-#Redirect 302 /calendario ....
+Redirect 404 /calendario
 Redirect 302 /calendar /calendario
 Redirect 302 /todo https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+user%3Asisoputnfrba+sort%3Aupdated-desc
 Redirect 302 /todos /todo
@@ -59,12 +59,12 @@ Redirect 302 /TODOs /todo
 
 Redirect 302 /inscripciones https://inscripciones.utnso.com.ar/
 Redirect 302 /inscripcion /inscripciones
-Redirect 302 /inscribirse https://www.youtube.com/watch?v=Ux-1v9Jrpdg
+Redirect 302 /inscribirse /video-inscripciones
 Redirect 302 /mariobash https://mariobash.utnso.com.ar/
-Redirect 302 /punteros https://docs.google.com/document/d/1v6eKBOSDc17bUjbw8SziuyqGqkzonBwkFUq5nvhYbyk
+Redirect 302 /punteros https://docs.utnso.com.ar/guias/programacion/punteros
 Redirect 302 /git https://docs.google.com/presentation/d/1nDfC86Zs6GB7_FiWt3q2RcjqUQlZReGWMlmOqLx0VGk/edit
-Redirect 302 /git-cli http://www.youtube.com/watch?v=8O4LFYPY-Ww
-Redirect 302 /egit http://www.youtube.com/watch?v=s-r_-o8nxDw
+Redirect 302 /git-cli https://youtu.be/8O4LFYPY-Ww
+Redirect 302 /egit https://youtu.be/s-r_-o8nxDw
 Redirect 302 /git-eclipse /egit
 Redirect 302 /git-gui /egit
 
@@ -86,15 +86,15 @@ Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
 
 # "Teoria"
-Redirect 302 /arrancar https://drive.google.com/file/d/19BtIDx2yBI-owgPCavCpUr6-SUVwUB_I/view
+Redirect 302 /arrancar https://docs.utnso.com.ar/primeros-pasos/intro
 Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
 Redirect 302 /como-empezar /arrancar
 
 # Presentaciones
 Redirect 302 /intro-al-tp https://docs.google.com/presentation/d/1VHaTWwc9bBh-S9vNLpX9lG1Urs8raiKaEo_UY1UKKos
-
-Redirect 302 /valgrind https://docs.google.com/document/d/1J3VlYp1oIONUSjjSJ5U1elljS5AQv9chbY5T7mZqQqY/edit
+Redirect 302 /valgrind-ppt https://docs.google.com/presentation/d/18-Oq7BG3jQRNdLsLHSZS2wspY5sQzaliRuUqwQ1KpU4/edit#slide=id.p1
+Redirect 302 /valgrind https://docs.utnso.com.ar/guias/herramientas/valgrind
 Redirect 302 /ejercicios https://docs.google.com/document/d/1HSO63oQUx8tJH6dlDyjktShKXuEfpGpi3ZnRoPN6SYY/edit
 Redirect 302 /introC https://docs.google.com/presentation/d/1lpRmd4jRZjiR7NmSPZ5vJbIZkWt8fnw9qQ6tYIypulM
 Redirect 302 /introc /introC
@@ -112,32 +112,32 @@ Redirect 302 /fuse https://docs.google.com/presentation/d/1a5rZxTozEwbespLPXfiqj
 Redirect 302 /FUSE /fuse
 Redirect 302 /fuse-old https://docs.google.com/presentation/d/1yka66_uJNpBBdUwe3Ru5IUdrablA2dXo_r6S_oKbIwY
 
-Redirect 302 /shared-library-2012 http://www.youtube.com/watch?v=s5ac8CPDkMg
-Redirect 302 /shared-library-2020 https://youtu.be/A6dhc9cCI18
+Redirect 302 /shared-library-2012 /video-eclipse-shared-library-old
+Redirect 302 /shared-library-2020 /video-eclipse-shared-library
 Redirect 302 /shared-library /shared-library-2020
 Redirect 302 /shared-libraries /shared-library
-Redirect 302 /debug-eclipse http://www.youtube.com/watch?v=XsefDXRfA9k
-Redirect 302 /setup-vm http://youtu.be/h6cJStY0Tdw
-Redirect 302 /guest-additions https://youtu.be/G3rFKfyoQEs
+Redirect 302 /debug-eclipse /video-eclipse-debugging
+Redirect 302 /setup-vm /video-creacion-vm
+Redirect 302 /guest-additions /video-guest-additions
 Redirect 302 /guest-aditions /guest-additions
 Redirect 302 /exercises /ejercicios
 Redirect 302 /ejercicios-repo https://github.com/sisoputnfrba/so-exercises
 Redirect 302 /repo-ejercicios /ejercicios-repo
-Redirect 302 /video-threads https://www.youtube.com/watch?v=V5s6gRckuro
+Redirect 302 /video-threads /video-hilos-mutex
 
 Redirect 302 /sockets https://docs.google.com/presentation/d/1562EJP6O9-LHaw-kp8CySPS41Glod3IzB2xv-aGfzQE
 Redirect 302 /socket /sockets
 Redirect 302 /serializacion https://docs.google.com/presentation/d/1-S30Imgw-4KxIyHK-p7kO07UZdY7OGrLTXSGhfkl1Ug
 Redirect 302 /multiplexacion https://docs.google.com/presentation/d/1NaEQjzsyoNbnuyH1wmClfnTb2EUn5MIGYyLaRru4Y14
-Redirect 302 /debug-remote http://www.youtube.com/watch?v=MNd8KZlDQUk
+Redirect 302 /debug-remote /video-terminal-debugging
 Redirect 302 /bash https://docs.google.com/presentation/d/1_yLMZNffFHL-mfW-6G2JHYv528PJHs3nWQ-A69rbmQ4
 Redirect 302 /fork https://docs.google.com/presentation/d/1276r2sA2D-oQ1lpv0DS9nlyAIAIpjRma55CXKtYvT_o
 Redirect 302 /semaforos https://docs.google.com/presentation/d/1h8titsIBlkGpmX7CnyaHKcY-8NU-xcauk8fpRMaQHhc/edit#slide=id.p19
 Redirect 302 /semaforo /semaforos
-Redirect 302 /errores-eclipse https://www.youtube.com/watch?v=18cN8Jk4WjQ
+Redirect 302 /errores-eclipse https://youtu.be/qKkmU13uKHw
 Redirect 302 /reportar-errores /errores-eclipse
 Redirect 302 /reportar /errores-eclipse
-Redirect 302 /eclipse-makefile https://www.youtube.com/watch?v=772fLAsut3E
+Redirect 302 /eclipse-makefile /video-eclipse-import-makefile
 Redirect 302 /eclipse-guia-grafica https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
 Redirect 302 /declarar http://cdecl.org/
 Redirect 302 /declaraciones /declarar
@@ -145,41 +145,41 @@ Redirect 302 /mati-youtube https://www.youtube.com/playlist?list=PLeeevWEZ9lx6BX
 Redirect 302 /matiyoutube /mati-youtube
 Redirect 302 /youtubemati /mati-youtube
 Redirect 302 /youtube-mati /mati-youtube
-#El documento fue eliminado -> Redirect 302 /cunit https://docs.google.com/document/d/17li9WRr3VLbuFI18EBmgYuTmLnj3wushlLf4vODwjzg/edit
-Redirect 302 /eclipse-postmortem https://www.youtube.com/watch?v=-CI4MexyU3I
+Redirect 302 /cunit /guia-cunit
+Redirect 302 /eclipse-postmortem /video-eclipse-debug-postmortem
 Redirect 302 /postmortem /eclipse-postmortem
 Redirect 302 /debug-postmortem /eclipse-postmortem
-Redirect 302 /ngrok https://www.youtube.com/watch?v=vFkmdQVn4Ug
+Redirect 302 /ngrok https://youtu.be/vFkmdQVn4Ug
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
 # TP 0
-Redirect 302 /soporte-api https://api.sheety.co/9405e648-33e4-4f72-b09a-e63f1d228ef5
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
-Redirect 302 /tp0-enunciado https://docs.google.com/document/d/1wBsTIlPc_4UKyHRUVxoY3VIepBO_tMq9CNqz3wGoGlA/edit?usp=sharing
+Redirect 302 /tp0-enunciado https://docs.utnso.com.ar/primeros-pasos/tp0
 Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /c /introC
 
 # TP
-Redirect 302 /tp https://www.utnso.com.ar/trabajo-practico
+Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /geck
-# Redirect 302 /enunciado-video /intro-a-mongos
+Redirect 302 /pruebas /kiss-pruebas
+Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-# Redirect 302 /pruebas /delibird-pruebas
-Redirect 302 /ntp https://docs.google.com/document/d/e/2PACX-1vS3RwRMLKFiloLhQSU_4acdedM2guMofFee44ZeBTtfpEZNyOWVFN0_Fj14pTu5GQalJTgoOwdVgJ6_/pub
+Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
 # GECK
 Redirect 302 /geck https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit?usp=sharing
 
 # KISS
 Redirect 302 /kiss https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit?usp=sharing
+Redirect 302 /kiss-pruebas https://docs.google.com/document/d/1SBBTCweMCiBg6TPTt7zxdinRh4ealRasbu0bVlkty5o/edit
 
 # CarpinchOS
 Redirect 302 /carpinchos https://docs.google.com/document/d/1BDpr5lfzOAqmOOgcAVg6rUqvMPUfCpMSz1u1J_Vjtac
@@ -190,7 +190,7 @@ Redirect 302 /intro-a-mongos https://youtu.be/-DDtMBYePjs
 
 #Pedidos Ya
 Redirect 302 /pedidos-ya https://docs.google.com/document/d/13JCJawPWfL2y6wGTBYykUTvQY5Uso0iYpXSFDAQFbFw
-Redirect 302 /intro-pedidos-ya https://www.youtube.com/watch?v=n4zWjlTwDtw
+Redirect 302 /intro-pedidos-ya https://youtu.be/n4zWjlTwDtw
 
 # Delibird
 Redirect 302 /delibird https://docs.google.com/document/d/1be91Gn93O2Vp8frZoV1i5CmtOG0scE1PS8dMHsCP314
@@ -332,7 +332,7 @@ Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
 Redirect 302 /estructurado https://docs.google.com/document/d/18nEaKcG7MUYcle_5ooxbABHyDaSv60AnehOhsoKgOsw/edit?usp=drivesdk
 
 Redirect 302 /beej http://beej.us/guide/bgnet/
-Redirect 302 /beej-es http://index-of.co.uk/Programming/Beej-Programacion-en-Redes.pdf
+Redirect 302 /beej-es https://github.com/mgarciaisaia/bgnet-spanish/blob/spanish/src/bgnet.md
 Redirect 302 /beej_es /beej
 Redirect 302 /beej-en http://beej.us/guide/bgnet/html/
 Redirect 302 /beej_en /beej-en
@@ -346,7 +346,7 @@ Redirect 302 /levantando.bat https://gist.githubusercontent.com/mgarciaisaia/ce9
 Redirect 302 /clase-adriano https://meet.google.com/yfv-enmf-iqo
 
 # videos
-Redirect 302 /videos https://www.utnso.com.ar/recursos/video-tutoriales/
+Redirect 302 /videos /youtube
 Redirect 302 /video /videos
 Redirect 302 /video-inscripciones https://youtu.be/iwJRsZxX7Kk
 Redirect 302 /video-creacion-vm https://youtu.be/DmkSXv_Xa-U
@@ -354,7 +354,7 @@ Redirect 302 /video-guest-additions https://youtu.be/uMoO58tPc5c
 Redirect 302 /video-compartir-portapapeles https://youtu.be/xJ52dDTfCHo
 Redirect 302 /video-snapshots https://youtu.be/u1L23ziKgz4
 Redirect 302 /video-guardar-vm https://youtu.be/YqFybzQmqOc
-Redirect 302 /video-git-primeros-pasos https://www.youtube.com/watch?v=vHuFZM6aElY
+Redirect 302 /video-git-primeros-pasos https://youtu.be/vHuFZM6aElY
 Redirect 302 /video-git-clonar https://youtu.be/dc9G_y5NixY
 Redirect 302 /video-git-ciclo https://youtu.be/c2DEcJh0h38
 Redirect 302 /video-git-avanzado https://youtu.be/mawMGxE4048
@@ -372,14 +372,14 @@ Redirect 302 /video-eclipse-shared-library-old https://youtu.be/Aw9kXFqWu_I
 Redirect 302 /video-terminal-debugging https://youtu.be/KlKLSGaOZok
 Redirect 302 /video-eclipse-debugging https://youtu.be/0OhCEzVgdRA
 Redirect 302 /video-eclipse-debug-postmortem https://youtu.be/JkryXLsX2xE
-Redirect 302 /video-eclipse-shared-ingles https://www.youtube.com/watch?v=9GHERvUS6m8
-Redirect 302 /video-linux-comandos-basicos https://www.youtube.com/watch?v=NmQlvnq-f3g
+Redirect 302 /video-eclipse-shared-ingles https://youtu.be/9GHERvUS6m8
+Redirect 302 /video-linux-comandos-basicos https://youtu.be/NmQlvnq-f3g
 Redirect 302 /video-intro-c https://youtu.be/caeklleBJDI
 Redirect 302 /video-c-gdb-1 https://youtu.be/IteUvGWCrmc
 Redirect 302 /video-c-gdb-2 https://youtu.be/FzxE5WCREgo
 Redirect 302 /video-gcc-makefile-1 https://youtu.be/OHfMNqe-Fdw
 Redirect 302 /video-gcc-makefile-2 https://youtu.be/JafEOsYEdVI
-Redirect 302 /video-hilos-mutex https://youtu.be/V5s6gRckuro
+Redirect 302 /video-hilos-mutex https://youtu.be/gl8FQU3VEzU
 Redirect 302 /video-sockets-1 https://youtu.be/87gwfsJ_83o
 Redirect 302 /video-sockets-2 https://youtu.be/aWMm369uiA0
 Redirect 302 /video-sockets-3 https://youtu.be/IWyGFJFVWB8
@@ -390,17 +390,18 @@ Redirect 302 /video-mapreduce-apareo https://youtu.be/OIAxY6TGMZQ
 Redirect 302 /guia-repaso-arquitectura https://mgarciaisaia.github.io/simplecpu/
 Redirect 302 /guia-intro-c https://mgarciaisaia.github.io/tutorial-c/lo-c-tutto/
 Redirect 302 /guia-punteros /punteros
-Redirect 302 /guia-serializacion https://docs.google.com/document/d/1p-fPJakf7zpN5u8C0TTGZwZ1-VgC8dcqpE48lbIApmA/edit?usp=sharing
-Redirect 302 /guia-buenas-practicas-c https://docs.google.com/document/d/1gylN2yuIN8t7QNqiQjR4cBlgbwkdprc1QENLGCrZivU/pub
+Redirect 302 /guia-serializacion https://docs.utnso.com.ar/guias/linux/serializacion
+Redirect 302 /guia-buenas-practicas-c https://docs.utnso.com.ar/guias/programacion/buenas-practicas
 Redirect 302 /guia-tipos-arquitectura https://mgarciaisaia.github.io/tutorial-c/blog/2014/12/26/int-vs-int32-t/
 Redirect 302 /guia-consola-interactiva https://medium.com/@tferraro/readline-la-biblioteca-de-gnu-que-hace-devs-felices-349539501cad
-Redirect 302 /guia-sockets https://docs.google.com/document/d/17E5ge5eC6wRAeh5AWETRBB7UrmqBQ6i0JjfUD7KRY68/edit?usp=sharing
+Redirect 302 /guia-sockets https://docs.utnso.com.ar/guias/linux/sockets
 Redirect 302 /guia-uso-select https://developerweb.net/viewtopic.php?id=2934
 Redirect 302 /guia-uso-select-v2 https://gist.github.com/iago64/9f6acf5959846dc2a0f548ae3af7d34d
-Redirect 302 /guia-debug-eclipe https://docs.google.com/document/d/16vNTvgYpmojT9vNOLf9MOSEG-EcmozHIGyNx8h5JmoI/pub
+Redirect 302 /guia-debug-eclipse https://docs.utnso.com.ar/guias/herramientas/debugger
+Redirect 302 /guia-debug-eclipe /guia-debug-eclipse
 Redirect 302 /guia-valgrind /valgrind
-Redirect 302 /guia-cunit https://drive.google.com/file/d/1S5uSmkmKw66erjuHb7tb4UmDdklk8YaC/view?usp=sharing
-Redirect 302 /guia-cspec https://drive.google.com/file/d/1K_uHHuT4Mp8AY836qU-_e-DpjP3nuLe-/view?usp=sharing
+Redirect 302 /guia-cunit https://docs.utnso.com.ar/guias/herramientas/cunit
+Redirect 302 /guia-cspec https://docs.utnso.com.ar/guias/herramientas/cspec
 Redirect 302 /guia-c-gdb https://mgarciaisaia.github.io/tutorial-c/blog/2015/02/24/aprendiendo-c-con-gdb/
 Redirect 302 /guia-scripts-interpretes http://mgarciaisaia.github.io/tutorial-c/blog/2014/03/20/she-bangs-she-bangs/
 Redirect 302 /guia-rutas https://mgarciaisaia.github.io/tutorial-c/blog/2015/04/23/rutas-argentinas/
