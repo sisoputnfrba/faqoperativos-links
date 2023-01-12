@@ -172,7 +172,7 @@ Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /geck
-Redirect 302 /pruebas /kiss-pruebas
+Redirect 302 /pruebas /geck-pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
@@ -182,6 +182,7 @@ Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
 # GECK
 Redirect 302 /geck https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit?usp=sharing
+Redirect 302 /geck-pruebas https://docs.google.com/document/d/1qxF4h9dkL5L6X6P8qts997wTC1qLxIg6ElZzlU1Xgi4/edit
 
 # KISS
 Redirect 302 /kiss https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit?usp=sharing
