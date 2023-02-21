@@ -80,12 +80,12 @@ Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/87441
 
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
 
-Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/base-server.sh
-Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/interfaz-grafica.sh
-Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/theme.sh
-Redirect 302 /vms-fix.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/vms-fix.sh
-Redirect 302 /fluship.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/fluship.sh
-Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/ae024b89d0fd92068ff5f9c1cc5906da0b083a62/clion.sh
+Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/base-server.sh
+Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/interfaz-grafica.sh
+Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/theme.sh
+Redirect 302 /vms-fix.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/vms-fix.sh
+Redirect 302 /fluship.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/fluship.sh
+Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/d95c0764e4dc6aee64d2ebe2882b9551c23e43d2/clion.sh
 
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
