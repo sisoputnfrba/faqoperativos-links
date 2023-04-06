@@ -20,7 +20,6 @@ Redirect 302 /vm-gui-4 /vm-gui
 Redirect 302 /vm-gui-5 /vm-gui
 Redirect 302 /vm-lenta https://github.com/sisoputnfrba/foro/issues/1007
 
-
 Redirect 302 /suscripciones /cv
 Redirect 302 /susc /suscripciones
 Redirect 302 /suscrip /suscripciones
@@ -91,7 +90,7 @@ Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vm
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
 
-# "Teoria"
+# Teoria
 Redirect 302 /arrancar https://docs.utnso.com.ar/primeros-pasos/intro
 Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
@@ -171,14 +170,18 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /geck
-Redirect 302 /pruebas /geck-pruebas
+Redirect 302 /enunciado /tuki
+Redirect 302 /pruebas /tuki-pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
+
+# TUKI
+Redirect 302 /tuki https://docs.google.com/document/d/1orfThJsPmMx5uPzbY3wClGhqX8jASMOCUMlWnYAr7cA
+Redirect 404 /tuki-pruebas 
 
 # GECK
 Redirect 302 /geck https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit?usp=sharing
@@ -270,7 +273,6 @@ Redirect 302 /completa.bin https://github.com/sisoputnfrba/so-charmander-pruebas
 Redirect 302 /completa.bin.gz https://github.com/sisoputnfrba/so-charmander-pruebas/releases/download/primer-version/02-completa.gz
 Redirect 302 /pruebas-charmander https://github.com/sisoputnfrba/so-charmander-pruebas/releases/latest
 
-
 # Elestac
 Redirect 302 /elestac https://www.gitbook.com/book/sisoputnfrba/elestac-tp-1c2016
 Redirect 302 /elestac-errata https://github.com/sisoputnfrba/2016-1c-Elestac-enunciado/compare/v1.0...master
@@ -301,7 +303,6 @@ Redirect 302 /algoritmos /rafaga-algoritmos
 Redirect 302 /so-ensamblador https://github.com/sisoputnfrba/so-ensamblador
 Redirect 302 /ensamblador /so-ensamblador
 
-
 # Esta CoverFlow
 Redirect 302 /estacoverflow https://www.utnso.com.ar/wp-content/uploads/2014/04/1C2014-Est%C3%A1-Coverflow-v1.0.zip
 Redirect 302 /estacoverflow-ppt https://docs.google.com/presentation/d/17P5fUmnWcj87Z0xs3Tg5iSW3oSlpOOo0nUKOHU0y0Q0
@@ -315,7 +316,6 @@ Redirect 302 /presentacion-enunciado https://docs.google.com/presentation/d/1Mi8
 Redirect 302 /presentacion-tp /presentacion-enunciado
 Redirect 302 /presentacionenunciado /presentacion-enunciado
 Redirect 302 /disk.bin_.7z http://forocatupecu.com.ar/sisop/disk.bin_.7z
-
 
 # SuperMarioProc
 # Redirect 302 /supermario http://www.campusvirtual.frba.utn.edu.ar/especialidad/pluginfile.php/54603/mod_wiki/attachments/37//TP1C2013-SuperMarioProc-v1.0.zip?forcedownload=1
