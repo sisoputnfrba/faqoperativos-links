@@ -181,7 +181,7 @@ Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
 # TUKI
 Redirect 302 /tuki https://docs.google.com/document/d/1orfThJsPmMx5uPzbY3wClGhqX8jASMOCUMlWnYAr7cA
-Redirect 404 /tuki-pruebas 
+Redirect 302 /tuki-pruebas https://docs.google.com/document/d/1MNalaTCB95qGO8q3rlR7VVCQqv3VLP3oeYxBgXgBy5g
 
 # GECK
 Redirect 302 /geck https://docs.google.com/document/d/1xYmkJXRRddM51fQZfxr3CEuhNtFCWe5YU7hhvsUnTtg/edit?usp=sharing
