@@ -39,7 +39,7 @@ Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 
 Redirect 302 /issues https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /issue /issues
-Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/2920
+Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/3182
 
 Redirect 404 /soporte
 Redirect 302 /sabado /soporte
@@ -170,8 +170,8 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /tuki
-Redirect 302 /pruebas /tuki-pruebas
+Redirect 404 /enunciado
+Redirect 404 /pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
