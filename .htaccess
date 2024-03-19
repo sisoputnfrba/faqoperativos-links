@@ -70,7 +70,8 @@ Redirect 302 /git-eclipse /egit
 Redirect 302 /git-gui /egit
 
 # Utiles
-Redirect 302 /project.tar.gz https://github.com/RaniAgus/c-base-project/archive/refs/heads/main.tar.gz
+Redirect 302 /project https://github.com/sisoputnfrba/c-base-project/
+Redirect 302 /project.tar.gz /project/archive/refs/heads/main.tar.gz
 Redirect 302 /static-library.tar.gz https://github.com/RaniAgus/c-base-static-library/archive/refs/heads/main.tar.gz
 
 Redirect 302 /get-repo.sh https://gist.github.com/marcogatti/5948111/raw/789b322a4860b4977a1acd07ed255fe16548abfe/get-repo.sh
