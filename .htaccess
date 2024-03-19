@@ -173,17 +173,18 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /tp-mappa
+Redirect 404 /enunciado
 Redirect 404 /pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
+Redirect 404 /ntp
 
 # MaPPA
 Redirect 302 /tp-mappa https://docs.google.com/document/d/1g6DEcbjilpX2XUBADuF6dPnrLv5lzoTZSVYCPgpHM_Q
+Redirect 302 /tp-mappa-pruebas https://docs.google.com/document/d/1DkLI9mhsAWXD-r2YHdnLBWHChp0JFpVMHtYBoqfezhg
 
 # TUKI
 Redirect 302 /tuki https://docs.google.com/document/d/1orfThJsPmMx5uPzbY3wClGhqX8jASMOCUMlWnYAr7cA
