@@ -161,6 +161,10 @@ Redirect 302 /ngrok https://youtu.be/vFkmdQVn4Ug
 
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
+# Golang
+Redirect 302 /encuesta-go https://forms.gle/EGnghr2wPLVbFFga9
+Redirect 302 /encuesta-golang https://forms.gle/EGnghr2wPLVbFFga9
+
 # TP 0
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
