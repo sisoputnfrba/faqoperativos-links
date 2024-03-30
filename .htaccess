@@ -183,7 +183,7 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 404 /enunciado
+Redirect 302 /enunciado /tp-c-comenta
 Redirect 404 /pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
@@ -191,6 +191,22 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 404 /ntp
+
+# TP GO
+Redirect 302 /tp-go /enunciado-go
+Redirect 302 /tp-golang /enunciado-go
+Redirect 302 /trabajo-practico-go /enunciado-go
+Redirect 302 /trabajo-practico-golang /enunciado-go
+Redirect 302 /enunciado-golang /enunciado-go
+Redirect 302 /enunciado-go /tp-algo
+
+# A.L.GO
+Redirect 302 /tp-algo https://docs.google.com/document/d/1w0PK_ZCUHsvGrVER_rKW7HkqLjHdkC6H0IBsmHUqhS4
+Redirect 404 /tp-algo-pruebas
+
+# C-Comenta
+Redirect 302 /tp-c-comenta https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec
+Redirect 404 /tp-c-comenta-pruebas
 
 # MaPPA
 Redirect 302 /tp-mappa https://docs.google.com/document/d/1g6DEcbjilpX2XUBADuF6dPnrLv5lzoTZSVYCPgpHM_Q
