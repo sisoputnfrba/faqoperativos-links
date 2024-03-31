@@ -94,7 +94,7 @@ Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
 
 # Teoria
-Redirect 302 /arrancar https://docs.utnso.com.ar/primeros-pasos/intro
+Redirect 302 /arrancar https://docs.utnso.com.ar/primeros-pasos/primer-proyecto-c
 Redirect 302 /empezar /arrancar
 Redirect 302 /como-arrancar /arrancar
 Redirect 302 /como-empezar /arrancar
