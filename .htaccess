@@ -82,13 +82,6 @@ Redirect 302 /deploy https://github.com/sisoputnfrba/so-deploy
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
 
-Redirect 302 /base-server.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/base-server.sh
-Redirect 302 /interfaz-grafica.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/interfaz-grafica.sh
-Redirect 302 /theme.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/theme.sh
-Redirect 302 /vms-fix.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/vms-fix.sh
-Redirect 302 /fluship.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/fluship.sh
-Redirect 302 /clion.sh https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/3381843c0ea129fa686bdda7ffcf371cd8af87fd/clion.sh
-
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
