@@ -177,7 +177,7 @@ Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /enunciado /tp-c-comenta
-Redirect 302 /pruebas /tp-c-comenta-pruebas
+Redirect 404 /pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
