@@ -199,7 +199,7 @@ Redirect 404 /tp-algo-pruebas
 
 # C-Comenta
 Redirect 302 /tp-c-comenta https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec
-Redirect 302 /tp-c-comenta-pruebas https://docs.google.com/document/d/1fggUfh9Kj9E8ngDOF6m7nmaMU8g5pr0szhV-0TMaRNE/edit?usp=sharing
+Redirect 302 /tp-c-comenta-pruebas https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g/edit?usp=sharing
 Redirect 302 /tp-c-comenta-pruebas-repo https://github.com/sisoputnfrba/c-comenta-pruebas 
 
 # MaPPA
