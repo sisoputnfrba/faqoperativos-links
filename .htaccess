@@ -82,6 +82,11 @@ Redirect 302 /deploy https://github.com/sisoputnfrba/so-deploy
 Redirect 302 /script-ntp.sh https://gist.githubusercontent.com/NaylaWinter/8744178666f6374f1b1c0e42f23930f1/raw/1f5b96568898ca2af3093d75f4bbdc38a9bf6c74/script-ntp.sh
 Redirect 302 /ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-386.zip
 
+# Repo Entorno vms
+
+Redirect 302 /machine-id-reset https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/machine-id-reset.sh
+Redirect 302 /install-golang https://raw.githubusercontent.com/sisoputnfrba/entorno-vms/main/golang.sh
+
 # Internal
 Redirect 302 /internal/wiki https://sites.google.com/view/sisop-wiki
 Redirect 302 /soporte-api https://v2-api.sheety.co/347132548f839e77e04682c7fb75043f/soporteSisop/1C2020
