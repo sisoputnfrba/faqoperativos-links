@@ -183,8 +183,9 @@ Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 404 /enunciado
-Redirect 404 /pruebas
+Redirect 302 /enunciado /tp-last-of-c
+Redirect 302 /pruebas /tp-last-of-c-pruebas
+Redirect 302 /pruebas-repo /tp-last-of-c-pruebas-repo
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
@@ -196,7 +197,15 @@ Redirect 302 /tp-golang /enunciado-go
 Redirect 302 /trabajo-practico-go /enunciado-go
 Redirect 302 /trabajo-practico-golang /enunciado-go
 Redirect 302 /enunciado-golang /enunciado-go
-Redirect 404 /enunciado-go
+Redirect 302 /enunciado-go /tp-god
+
+# GOD
+Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6wnKZClEQA7zZyv-h0EZAY/edit?usp=sharing
+
+# Last of C
+Redirect 302 /tp-last-of-c https://docs.google.com/document/d/1KloOXfXQb_c1S3PKDEEywnArX9YB3aApqGVmpNgv9_Q
+Redirect 404 /tp-last-of-c-pruebas
+Redirect 404 /tp-last-of-c-pruebas-repo
 
 # A.L.GO
 Redirect 302 /tp-algo https://docs.google.com/document/d/1w0PK_ZCUHsvGrVER_rKW7HkqLjHdkC6H0IBsmHUqhS4
