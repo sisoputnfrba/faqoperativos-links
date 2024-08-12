@@ -181,13 +181,13 @@ Redirect 302 /c /introC
 Redirect 302 /tp /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
-Redirect 302 /enunciado /tp-c-comenta
-Redirect 302 /pruebas /tp-c-comenta-pruebas
+Redirect 302 /errata /enunciado
+Redirect 302 /erratas /errata
+Redirect 404 /enunciado
+Redirect 404 /pruebas
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
-Redirect 302 /errata /enunciado
-Redirect 302 /erratas /errata
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
 # TP GO
@@ -196,7 +196,7 @@ Redirect 302 /tp-golang /enunciado-go
 Redirect 302 /trabajo-practico-go /enunciado-go
 Redirect 302 /trabajo-practico-golang /enunciado-go
 Redirect 302 /enunciado-golang /enunciado-go
-Redirect 302 /enunciado-go /tp-algo
+Redirect 404 /enunciado-go
 
 # A.L.GO
 Redirect 302 /tp-algo https://docs.google.com/document/d/1w0PK_ZCUHsvGrVER_rKW7HkqLjHdkC6H0IBsmHUqhS4
