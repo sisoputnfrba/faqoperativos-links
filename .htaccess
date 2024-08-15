@@ -3,6 +3,7 @@ Redirect 302 /cv https://aulasvirtuales.frba.utn.edu.ar/enrol/index.php?id=3631
 Redirect 302 /campus /cv
 Redirect 302 /campusvirtual /cv
 Redirect 302 /blog https://www.utnso.com.ar/
+Redirect 302 /docs https://docs.utnso.com.ar/
 Redirect 302 /youtube https://www.youtube.com/channel/UCPv858YLpdTylSrxsLM4DJA
 
 Redirect 302 /vms https://docs.utnso.com.ar/primeros-pasos/entorno-linux
