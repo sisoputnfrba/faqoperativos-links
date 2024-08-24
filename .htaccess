@@ -200,7 +200,7 @@ Redirect 302 /enunciado-golang /enunciado-go
 Redirect 302 /enunciado-go /tp-god
 
 # GOD
-Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6wnKZClEQA7zZyv-h0EZAY/edit?usp=sharing
+Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6wnKZClEQA7zZyv-h0EZAY
 
 # Last of C
 Redirect 302 /tp-last-of-c https://docs.google.com/document/d/1KloOXfXQb_c1S3PKDEEywnArX9YB3aApqGVmpNgv9_Q
