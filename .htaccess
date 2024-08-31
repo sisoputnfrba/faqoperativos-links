@@ -447,6 +447,7 @@ Redirect 302 /guia-consola-interactiva https://medium.com/@tferraro/readline-la-
 Redirect 302 /guia-sockets https://docs.utnso.com.ar/guias/linux/sockets
 Redirect 302 /guia-uso-select https://developerweb.net/viewtopic.php?id=2934
 Redirect 302 /guia-uso-select-v2 https://gist.github.com/iago64/9f6acf5959846dc2a0f548ae3af7d34d
+Redirect 302 /debugger /guia-debug-eclipse
 Redirect 302 /guia-debug-eclipse https://docs.utnso.com.ar/guias/herramientas/debugger
 Redirect 302 /guia-debug-eclipe /guia-debug-eclipse
 Redirect 302 /guia-valgrind /valgrind
