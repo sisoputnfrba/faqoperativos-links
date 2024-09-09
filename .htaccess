@@ -40,7 +40,7 @@ Redirect 302 /teams https://github.com/orgs/sisoputnfrba/teams
 
 Redirect 302 /issues https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /issue /issues
-Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/4228
+Redirect 302 /issue-grupos https://github.com/sisoputnfrba/foro/issues/4263
 
 Redirect 404 /soporte
 Redirect 302 /sabado /soporte
