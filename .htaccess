@@ -206,8 +206,8 @@ Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6w
 
 # Last of C
 Redirect 302 /tp-last-of-c https://docs.google.com/document/d/1KloOXfXQb_c1S3PKDEEywnArX9YB3aApqGVmpNgv9_Q
-Redirect 404 /tp-last-of-c-pruebas
-Redirect 404 /tp-last-of-c-pruebas-repo
+Redirect 302 /tp-last-of-c-pruebas https://docs.google.com/document/d/10uUK0feflEI5HQVqDOSnEZaWcfi9fapvLcLCsmIgu9Y/edit?usp=sharing
+Redirect 302 /tp-last-of-c-pruebas-repo https://github.com/sisoputnfrba/the-last-of-c-pruebas
 
 # A.L.GO
 Redirect 302 /tp-algo https://docs.google.com/document/d/1w0PK_ZCUHsvGrVER_rKW7HkqLjHdkC6H0IBsmHUqhS4
