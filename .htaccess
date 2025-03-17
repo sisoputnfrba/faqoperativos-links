@@ -21,6 +21,7 @@ Redirect 302 /vm-gui-2 /vm-gui
 Redirect 302 /vm-gui-3 /vm-gui
 Redirect 302 /vm-gui-4 /vm-gui
 Redirect 302 /vm-gui-5 /vm-gui
+Redirect 302 /entorno-vms https://github.com/sisoputnfrba/entorno-vms
 Redirect 302 /vm-lenta https://github.com/sisoputnfrba/foro/issues/1007
 
 Redirect 302 /suscripciones /cv
