@@ -188,9 +188,9 @@ Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /enunciado /tp-last-of-c
-Redirect 302 /pruebas /tp-last-of-c-pruebas
-Redirect 302 /pruebas-repo /tp-last-of-c-pruebas-repo
+Redirect 302 /enunciado /tp-reveng-of-the-cth
+Redirect 404 /pruebas
+Redirect 404 /pruebas-repo
 Redirect 404 /enunciado-video
 Redirect 404 /enunciado-ppt
 Redirect 302 /enunciado-presentacion /enunciado-ppt
@@ -202,7 +202,13 @@ Redirect 302 /tp-golang /enunciado-go
 Redirect 302 /trabajo-practico-go /enunciado-go
 Redirect 302 /trabajo-practico-golang /enunciado-go
 Redirect 302 /enunciado-golang /enunciado-go
-Redirect 302 /enunciado-go /tp-god
+Redirect 302 /enunciado-go /tp-the-rise-of-gopher
+
+# The Rise of Gopher
+Redirect 302 /tp-the-rise-of-gopher https://docs.google.com/document/d/1zoFRoBn9QAfYSr0tITsL3PD6DtPzO2sq9AtvE8NGrkc
+
+# Revenge of the Cth
+Redirect 302 /tp-reveng-of-the-cth https://docs.google.com/document/d/1HC9Zi-kpn8jI_egJGEZe77wUCbSkwSw9Ygqqs7m_-is
 
 # GOD
 Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6wnKZClEQA7zZyv-h0EZAY
