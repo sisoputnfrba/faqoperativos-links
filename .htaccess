@@ -184,6 +184,7 @@ Redirect 302 /c /introC
 
 # TP
 Redirect 302 /tp /enunciado
+Redirect 302 /tp-c /enunciado
 Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
