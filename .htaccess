@@ -210,6 +210,8 @@ Redirect 302 /tp-the-rise-of-gopher https://docs.google.com/document/d/1zoFRoBn9
 
 # Revenge of the Cth
 Redirect 302 /tp-reveng-of-the-cth https://docs.google.com/document/d/1HC9Zi-kpn8jI_egJGEZe77wUCbSkwSw9Ygqqs7m_-is
+Redirect 302 /tp-revenge-of-the-cth-pruebas https://docs.google.com/document/d/13XPliZvUBtYjaRfuVUGHWbYX8LBs8s3TDdaDa9MFr_I/edit?usp=sharing
+Redirect 302 /tp-revenge-of-the-cth-pruebas-repo https://github.com/sisoputnfrba/revenge-of-the-cth-pruebas
 
 # GOD
 Redirect 302 /tp-god https://docs.google.com/document/d/1HSZ14tk7IOfkOf-7ni0Wa6wnKZClEQA7zZyv-h0EZAY
