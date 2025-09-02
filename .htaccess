@@ -165,19 +165,19 @@ Redirect 302 /ngrok https://youtu.be/vFkmdQVn4Ug
 Redirect 302 /c-wannabe https://docs.google.com/presentation/d/1WdknYh9ImAM6fHedBA-yKDIcqiLvsW-t6VvaRLkpCjo/edit?usp=sharing
 
 # Golang
-Redirect 302 /encuesta-go https://forms.gle/EGnghr2wPLVbFFga9
-Redirect 302 /encuesta-golang https://forms.gle/EGnghr2wPLVbFFga9
+Redirect 404 /encuesta-go
+Redirect 404 /encuesta-golang
 
 # TP 0
 Redirect 302 /tp0 https://github.com/sisoputnfrba/tp0
 Redirect 302 /tp0.git https://github.com/sisoputnfrba/tp0.git
 Redirect 302 /tp0-enunciado https://docs.utnso.com.ar/primeros-pasos/tp0
-Redirect 302 /tp0-go https://github.com/sisoputnfrba/tp0-golang
-Redirect 302 /tp0-go.git https://github.com/sisoputnfrba/tp0-golang.git
-Redirect 302 /tp0-golang https://github.com/sisoputnfrba/tp0-golang
-Redirect 302 /tp0-golang.git https://github.com/sisoputnfrba/tp0-golang.git
-Redirect 302 /tp0-golang-enunciado https://golang.utnso.com.ar/primeros-pasos/tp0
-Redirect 302 /tp0-go-enunciado https://golang.utnso.com.ar/primeros-pasos/tp0
+Redirect 404 /tp0-go
+Redirect 404 /tp0-go.git
+Redirect 404 /tp0-golang
+Redirect 404 /tp0-golang.git
+Redirect 404 /tp0-golang-enunciado
+Redirect 404 /tp0-go-enunciado
 Redirect 302 /workshop /tp0
 Redirect 302 /workshopC /workshop
 Redirect 302 /c /introC
