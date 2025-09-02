@@ -189,7 +189,7 @@ Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /enunciado /tp-reveng-of-the-cth
+Redirect 302 /enunciado /master-of-files
 Redirect 404 /pruebas
 Redirect 404 /pruebas-repo
 Redirect 404 /enunciado-video
@@ -198,12 +198,15 @@ Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
 # TP GO
-Redirect 302 /tp-go /enunciado-go
-Redirect 302 /tp-golang /enunciado-go
-Redirect 302 /trabajo-practico-go /enunciado-go
-Redirect 302 /trabajo-practico-golang /enunciado-go
-Redirect 302 /enunciado-golang /enunciado-go
-Redirect 302 /enunciado-go /tp-the-rise-of-gopher
+Redirect 404 /tp-go
+Redirect 404 /tp-golang
+Redirect 404 /trabajo-practico-go
+Redirect 404 /trabajo-practico-golang
+Redirect 404 /enunciado-golang
+Redirect 404 /enunciado-go
+
+# Master of files
+Redirect 302 /master-of-files https://docs.google.com/document/d/1mEGwXjwtQzD0T6Pl8gEhgJcmQR_3nmVI6BxukAmumsM
 
 # The Rise of Gopher
 Redirect 302 /tp-the-rise-of-gopher https://docs.google.com/document/d/1zoFRoBn9QAfYSr0tITsL3PD6DtPzO2sq9AtvE8NGrkc
