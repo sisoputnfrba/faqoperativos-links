@@ -207,6 +207,8 @@ Redirect 404 /enunciado-go
 
 # Master of files
 Redirect 302 /master-of-files https://docs.google.com/document/d/1mEGwXjwtQzD0T6Pl8gEhgJcmQR_3nmVI6BxukAmumsM
+Redirect 302 /tp-master-of-files-pruebas https://docs.google.com/document/d/1ZK_5ZxZA0PYuC1uaomcghz3bCzollkjo-vx7t6Kb6qI/edit?usp=sharing
+Redirect 302 /tp-master-of-files-pruebas-repo https://github.com/sisoputnfrba/master-of-files-pruebas
 
 # The Rise of Gopher
 Redirect 302 /tp-the-rise-of-gopher https://docs.google.com/document/d/1zoFRoBn9QAfYSr0tITsL3PD6DtPzO2sq9AtvE8NGrkc
