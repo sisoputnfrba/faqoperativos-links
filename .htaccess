@@ -52,7 +52,7 @@ Redirect 302 /laboratorio /soporte
 Redirect 302 /labo /laboratorio
 Redirect 302 /foro https://github.com/sisoputnfrba/foro/issues
 Redirect 302 /foros /foro
-Redirect 302 /discord https://discordapp.com/channels/687634725270978560/687636662100033536
+Redirect 302 /discord https://discord.gg/EYEp4u8dT
 Redirect 302 /discord-invite https://discord.gg/mypsTzEXV
 
 Redirect 404 /calendario
