@@ -189,7 +189,7 @@ Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /enunciado /master-of-files
+Redirect 302 /enunciado /plug-n-pray
 Redirect 404 /pruebas
 Redirect 404 /pruebas-repo
 Redirect 404 /enunciado-video
@@ -204,6 +204,9 @@ Redirect 404 /trabajo-practico-go
 Redirect 404 /trabajo-practico-golang
 Redirect 404 /enunciado-golang
 Redirect 404 /enunciado-go
+
+# Plug & Pray
+Redirect 302 /plug-n-pray https://docs.google.com/document/d/1T0CglFoVRDHWXKHvNNXl62RryVkhWG9rmGyb7NDilCc/edit?usp=sharing
 
 # Master of files
 Redirect 302 /master-of-files https://docs.google.com/document/d/1mEGwXjwtQzD0T6Pl8gEhgJcmQR_3nmVI6BxukAmumsM
