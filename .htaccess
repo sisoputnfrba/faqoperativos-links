@@ -207,7 +207,7 @@ Redirect 404 /enunciado-go
 
 # Plug & Pray
 Redirect 302 /plug-n-pray https://docs.google.com/document/d/1T0CglFoVRDHWXKHvNNXl62RryVkhWG9rmGyb7NDilCc/edit?usp=sharing
-Redirect 404 /plug-n-pray-pruebas
+Redirect 302 /plug-n-pray-pruebas https://docs.google.com/document/d/1RXiJoIydnxEMyeMWZWnnxbLWWjYCIl3kHoA0mw322bA/edit?usp=sharing
 Redirect 302 /plug-n-pray-pruebas-repo https://github.com/sisoputnfrba/plug-n-pray-pruebas
 
 # Master of files
