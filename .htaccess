@@ -190,10 +190,8 @@ Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
 Redirect 302 /enunciado /plug-n-pray
-Redirect 404 /pruebas
-Redirect 404 /pruebas-repo
-Redirect 404 /enunciado-video
-Redirect 404 /enunciado-ppt
+Redirect 302 /pruebas /plug-n-pray-pruebas
+Redirect 302 /pruebas-repo /plug-n-pray-pruebas-repo
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
