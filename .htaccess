@@ -12,10 +12,10 @@ Redirect 302 /vms https://docs.utnso.com.ar/primeros-pasos/entorno-linux
 Redirect 302 /vm /vms
 Redirect 302 /vms-shared https://docs.google.com/document/d/1_lDnILoIhZnRN6BtFsxGZZLstAJWlE2YPYGto7ThhZk
 Redirect 302 /crear-vm /video-creacion-vm
-Redirect 302 /vm-server https://drive.google.com/file/d/1NmfzS3XSNT_DMyzdmsY6XvUNWyC9H9su/view
+Redirect 302 /vm-server https://drive.google.com/file/d/1F8DJLpUU7hs-XOyj9KNctvUq7nqi2OgY/view
 Redirect 302 /vm-server-1 /vm-server
 Redirect 302 /vm-server-2 /vm-server
-Redirect 302 /vm-gui https://drive.google.com/file/d/1NuhoyY-bBvzWhmXhyA8vq9cgpfD_J22Q/view
+Redirect 302 /vm-gui https://drive.google.com/file/d/1I_VQCwYI8ZZ6UKHhkRY3mLQ66eMSVjCi/view
 Redirect 302 /vm-gui-1 /vm-gui
 Redirect 302 /vm-gui-2 /vm-gui
 Redirect 302 /vm-gui-3 /vm-gui
