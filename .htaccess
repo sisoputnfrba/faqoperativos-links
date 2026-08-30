@@ -187,9 +187,9 @@ Redirect 302 /trabajo-practico /tp
 Redirect 302 /enunciado-tp /trabajo-practico
 Redirect 302 /errata /enunciado
 Redirect 302 /erratas /errata
-Redirect 302 /enunciado /plug-n-pray
-Redirect 302 /pruebas /plug-n-pray-pruebas
-Redirect 302 /pruebas-repo /plug-n-pray-pruebas-repo
+Redirect 302 /enunciado /entrenados
+Redirect 404 /pruebas
+Redirect 404 /pruebas-repo
 Redirect 302 /enunciado-presentacion /enunciado-ppt
 Redirect 302 /ntp https://docs.utnso.com.ar/primeros-pasos/normas-tp
 
@@ -200,6 +200,11 @@ Redirect 404 /trabajo-practico-go
 Redirect 404 /trabajo-practico-golang
 Redirect 404 /enunciado-golang
 Redirect 404 /enunciado-go
+
+# EntrenadOS
+Redirect 302 /entrenados https://docs.google.com/document/d/1UzKDYRO03_UXn1QLn9d7thgEToC9QdpQTtJlLdFoqrQ/edit?usp=sharing
+Redirect 404 /entrenados-pruebas
+Redirect 404 /entrenados-pruebas-repo
 
 # Plug & Pray
 Redirect 302 /plug-n-pray https://docs.google.com/document/d/1T0CglFoVRDHWXKHvNNXl62RryVkhWG9rmGyb7NDilCc/edit?usp=sharing
