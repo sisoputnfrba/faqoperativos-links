@@ -204,7 +204,7 @@ Redirect 404 /enunciado-go
 # EntrenadOS
 Redirect 302 /entrenados https://docs.google.com/document/d/1UzKDYRO03_UXn1QLn9d7thgEToC9QdpQTtJlLdFoqrQ/edit?usp=sharing
 Redirect 404 /entrenados-pruebas
-Redirect 404 /entrenados-pruebas-repo
+Redirect 302 /entrenados-pruebas-repo https://github.com/sisoputnfrba/entrenados-pruebas
 
 # Plug & Pray
 Redirect 302 /plug-n-pray https://docs.google.com/document/d/1T0CglFoVRDHWXKHvNNXl62RryVkhWG9rmGyb7NDilCc/edit?usp=sharing
